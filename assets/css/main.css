@@ -90,7 +90,7 @@ h3,
 h4,
 h5,
 h6 {
-  color: var(--heading-color);
+  color: #071437;
   font-family: var(--heading-font);
 }
 
@@ -975,7 +975,7 @@ img {
   padding-left: 1.9rem;
   border: none;
   background-color: white;
-  color: rgb(43, 123, 11);
+  color: #e84ddbd9;
   font-weight: bold;
   padding-bottom: 8px;
   padding-top: 12px;
@@ -997,6 +997,26 @@ img {
 .text-align-justify{
   text-align: justify;
 }
-.main-container2{
-  background-color: white;
+.btn-primary{
+  background-color: #00A3DE;
+}
+.text-primary{
+  color: #00A3DE !important; 
+}
+.btn-primary:hover {
+  border-color: #00a3dede;
+  background: color-mix(in srgb, #00a3dede, transparent 15%);
+}
+select.form-select option:hover {
+  background-color: #00a3dede;
+  color: white;
+}
+ul {
+  list-style: none;
+  padding-left: 0;
+}
+ul li::before {
+  /* content: "✔️"; */
+  margin-right: 8px;
+  color: #071437;
 }
