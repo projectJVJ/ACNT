@@ -71,6 +71,7 @@ body {
   color: var(--default-color);
   background-color: #f1f1f9;
   font-family: sans-serif;
+  overflow-x: hidden;
 }
 
 a {
@@ -942,24 +943,24 @@ img {
 
 
 .main-container {
-  background-color: white;
+  /* background-color: white; */
   width: 97%;
   padding-left: 1.5rem;
   padding-right: 1.5rem;
   border-radius: 10px;
 }
 
-#col1 {
-  padding: 0.8rem;
+.col1 {
+  background-color: #fff;
 }
 
-#col2 {
+/* #col2 {
   padding: 0.8rem;
 }
 
 #middle-card {
   padding-left: 1rem;
-}
+} */
 
 .border-dashed {
   border: dashed 2px rgb(245, 181, 151);
@@ -1019,4 +1020,7 @@ ul li::before {
   /* content: "✔️"; */
   margin-right: 8px;
   color: #071437;
+}
+.height-fit-content {
+  height: fit-content;
 }
