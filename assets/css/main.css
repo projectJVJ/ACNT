@@ -1034,6 +1034,9 @@ ul li::before {
   margin-right: 8px;
   color: #071437;
 }
+.height-fit-content {
+  height: fit-content;
+}
 
 .table-border-radius {
   border-radius: 10px;
@@ -1060,4 +1063,46 @@ ul li::before {
 .documents_required_gap{
   flex-flow: nowrap;
   gap: 1.5rem;
+}
+
+.tag-btn {
+  padding: 3px;
+  margin-bottom: 5px;
+  font-size: 12px;
+  border-radius: 5px;
+  background-color: #f1f1f4;
+  display: inline-block;
+}
+
+.section-box {
+  background-color: #ffffff;
+  border-radius: 10px;
+  padding: 20px;
+  margin-bottom: 20px;
+}
+
+.main_footer {
+  background-color: #E2E8F0;
+  padding: 30px 20px;
+  border-radius: 10px;
+  display: flex;
+}
+
+.main_footer ul li {
+  margin-bottom: 5px;
+}
+
+.main_footer ul li::before {
+  content: '›';
+  margin-right: 8px;
+  color: #666;
+  font-size: 25px;
+}
+
+a {
+  color: #00A3DE;
+}
+
+a:hover {
+  color: #00a3dede;
 }
