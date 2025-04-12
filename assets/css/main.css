@@ -71,6 +71,7 @@ body {
   color: var(--default-color);
   background-color: #f1f1f9;
   font-family: sans-serif;
+  overflow-x: hidden;
 }
 
 a {
@@ -268,7 +269,7 @@ h6 {
     display: block;
     position: absolute;
     visibility: hidden;
-    left: 14px;
+    left: -50px;
     top: 130%;
     opacity: 0;
     transition: 0.3s;
@@ -936,36 +937,13 @@ img {
   max-height: 80px;
 }
 
-/* ------------------------------------------------------------------------------------------------------------------- */
-
-
-.main-container {
-  /* background-color: white; */
-  width: 97%;
-  padding-left: 1.5rem;
-  padding-right: 1.5rem;
-  border-radius: 10px;
-  
-}
-
 .main-container-border-radius,
-.main-container-2 {
+.main-container-2,
+.box-shadow {
   border-radius: 10px;
   background-color: white;
   box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
 
-}
-
-#col1 {
-  padding: 0.8rem;
-}
-
-#col2 {
-  padding: 0.8rem;
-}
-
-#middle-card {
-  padding-left: 1rem;
 }
 
 .border-dashed {
@@ -1034,6 +1012,7 @@ ul li::before {
   margin-right: 8px;
   color: #071437;
 }
+
 .height-fit-content {
   height: fit-content;
 }
@@ -1042,25 +1021,25 @@ ul li::before {
   border-radius: 10px;
 }
 
-.table-width {
-  width: 98%;
-}
-
 .form {
   display: grid;
   gap: 10px;
 }
-.border-bottom{
+
+.border-bottom {
   border-bottom: 1px solid grey;
 }
-.bg-grey{
+
+.bg-grey {
   background-color: #f1f1f9;
   /* border-radius: 10px !important; */
 }
-.border-radius{
+
+.border-radius {
   border-radius: 10px;
 }
-.documents_required_gap{
+
+.documents_required_gap {
   flex-flow: nowrap;
   gap: 1.5rem;
 }

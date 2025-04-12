@@ -4,25 +4,26 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Partnership Firm Registration</title>
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
-    <link href="assets/css/main.css" rel="stylesheet">
+
+    <!-- Main CSS File -->
+  <!-- <link href="../../assets/css/main.css" rel="stylesheet"> -->
 
 </head>
 
 <body>
-    <?php include 'header.php'; ?>
+    <?php include "../../assets/layout/header.php"; ?>
 
-    <div class="container my-5 main-container">
-        <div class="row p-0 ">
-            <div class="col-md-8 col1 p-3 height-fit-content main-container-border-radius">
+    <div class="container my-5">
+        <div class="row">
+            <div class="col-md-8 col1 p-3 main-container-border-radius">
                 <div class="row">
                     <div class="col-md-5 ps-3 first-card p-0">
                         <div class="card border-0">
-                            <img src="assets/img/services.jpg" class="card-img-top rounded-lg w-90" alt="Partnership Registration">
-                            <div class="card-body p-0 pt-3 d-grid gap-2">   
-                                    <span>Pan Card</span>
-                                    <span>Aadhar Card</span>
-                                    <span>Rental Agreement</span>
+                            <img src="../../assets/img/services.jpg" class="card-img-top rounded-lg w-90" alt="Partnership Registration">
+                            <div class="card-body p-0 pt-3 d-grid gap-2">
+                                <span>Pan Card</span>
+                                <span>Aadhar Card</span>
+                                <span>Rental Agreement</span>
                                 <a href="#" class="text-primary">Load More</a>
                             </div>
                         </div>
@@ -82,7 +83,7 @@
                 </div>
 
             </div>
-            <div class="col-md-4 ps-5 col2">
+            <div class="col-md-4 ps-5 pe-0">
                 <div class="card border-0 main-container-border-radius">
                     <div class="card-header p-5 pt-0  right-card-header border-0 ">
                         <svg class="icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
@@ -97,26 +98,20 @@
                                 class="text-primary ps-3">LOGIN</a></span>
                     </div>
 
-                <div class="form p-3">
-                    <input type="text" class="form-control mb-2" placeholder="Name">
-                    <input type="email" class="form-control mb-2" placeholder="Email">
-                    <input type="tel" class="form-control mb-2" placeholder="Phone">
-                    <div class="form-check">
-                        <input class="form-check-input" type="checkbox" id="gstCheck">
-                        <label class="form-check-label" for="gstCheck">Enter GSTIN to get 18% GST Credit</label>
+                    <div class="form p-3">
+                        <input type="text" class="form-control mb-2" placeholder="Name">
+                        <input type="email" class="form-control mb-2" placeholder="Email">
+                        <input type="tel" class="form-control mb-2" placeholder="Phone">
+                        <div class="form-check">
+                            <input class="form-check-input" type="checkbox" id="gstCheck">
+                            <label class="form-check-label" for="gstCheck">Enter GSTIN to get 18% GST Credit</label>
+                        </div>
+                        <button class="btn btn-primary w-100 mt-2">Get Started</button>
                     </div>
-                    <button class="btn btn-primary w-100 mt-2">Get Started</button>
-                </div>
-                
+
                 </div>
             </div>
-        </div>
-
-
-        <div class="row col-md-12 container mt-5 p-0">
-            <!-- <div class="col-md-8 main-container-border-radius"> -->
-            <div class="col-md-8 col1 p-3 ps-4 height-fit-content main-container-border-radius">
-
+            <div class="col-md-8 col1 p-3 ps-4 mt-5 height-fit-content main-container-border-radius">
                 <div class="card border-0" id="paragraph">
                     <h3 class=" text-center mt-2">Partnership Firm Registration</h3>
                     <p class="text-align-justify">partnership firm is a popular choice among entrepreneurs due to its
@@ -136,15 +131,10 @@
                         Contact us now to learn more and get started on your partnership firm registration journey.</p>
                 </div>
             </div>
-                <div class="col-md-8">
-
-                </div>
-
-
         </div>
-
-
         <?php include 'NewBusinessFooter.php'; ?>
+
+        <?php include '../../assets/layout/main_footer.php'; ?>
 
         <!-- main-container nu div che -->
     </div>
