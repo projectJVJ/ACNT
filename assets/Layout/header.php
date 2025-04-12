@@ -73,25 +73,6 @@
                 <li><a href="#">ISO registration</a></li>
                 <li><a href="#">RCMC registration</a></li>
               </div>
-              <div class="dropdown-column">
-                <li><a href="#">GUJ RERA registration for agent</a></li>
-                <li><a href="#">GUJ RERA registration for project</a></li>
-                <li><a href="#">GUJ RERA registration for Professional</a></li>
-                <li><a href="#">12A & 80G registration</a></li>
-                <li><a href="#">12A registration</a></li>
-                <li><a href="#">80G registration</a></li>
-                <li><a href="#">APEDA registration</a></li>
-                <li><a href="#">BIS registration</a></li>
-              </div>
-              <div class="dropdown-column">
-                <li><a href="#">Barcode registration</a></li>
-                <li><a href="#">Certificate of Incumbency</a></li>
-                <li><a href="#">Darpan registration</a></li>
-                <li><a href="#">Digital Signature registration</a></li>
-                <li><a href="#">Digital Signature - DGFT version</a></li>
-                <li><a href="#">FCRA registration</a></li>
-                <li><a href="#">FIRE license</a></li>
-              </div>
             </div>
           </ul>
         </li>
