@@ -71,7 +71,6 @@ body {
   color: var(--default-color);
   background-color: #f1f1f9;
   font-family: sans-serif;
-  overflow-x: hidden;
 }
 
 a {
@@ -481,6 +480,7 @@ h6 {
   background-color: var(--background-color);
   font-size: 14px;
   position: relative;
+  border-radius: 10px;
 }
 
 .footer .footer-newsletter {
@@ -894,9 +894,6 @@ h6 {
 /*--------------------------------------------------------------
 # Starter Section Section
 --------------------------------------------------------------*/
-.starter-section {
-  /* Add your styles here */
-}
 
 img {
   max-height: 600px;
@@ -948,19 +945,28 @@ img {
   padding-left: 1.5rem;
   padding-right: 1.5rem;
   border-radius: 10px;
+  
 }
 
-.col1 {
-  background-color: #fff;
+.main-container-border-radius,
+.main-container-2 {
+  border-radius: 10px;
+  background-color: white;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
+
 }
 
-/* #col2 {
+#col1 {
+  padding: 0.8rem;
+}
+
+#col2 {
   padding: 0.8rem;
 }
 
 #middle-card {
   padding-left: 1rem;
-} */
+}
 
 .border-dashed {
   border: dashed 2px rgb(245, 181, 151);
@@ -987,40 +993,71 @@ img {
   padding-left: 1rem;
 }
 
- .icon {
+.icon {
   display: block;
   margin: 0 auto;
   width: 80px;
   height: 80px;
-  margin-top: 1rem;
+  margin-top: 3rem;
   fill: #28a745;
 }
-.text-align-justify{
+
+.text-align-justify {
   text-align: justify;
 }
-.btn-primary{
+
+.btn-primary {
   background-color: #00A3DE;
 }
-.text-primary{
-  color: #00A3DE !important; 
+
+.text-primary {
+  color: #00A3DE !important;
 }
+
 .btn-primary:hover {
   border-color: #00a3dede;
   background: color-mix(in srgb, #00a3dede, transparent 15%);
 }
+
 select.form-select option:hover {
   background-color: #00a3dede;
   color: white;
 }
+
 ul {
   list-style: none;
   padding-left: 0;
 }
+
 ul li::before {
   /* content: "✔️"; */
   margin-right: 8px;
   color: #071437;
 }
-.height-fit-content {
-  height: fit-content;
+
+.table-border-radius {
+  border-radius: 10px;
+}
+
+.table-width {
+  width: 98%;
+}
+
+.form {
+  display: grid;
+  gap: 10px;
+}
+.border-bottom{
+  border-bottom: 1px solid grey;
+}
+.bg-grey{
+  background-color: #f1f1f9;
+  /* border-radius: 10px !important; */
+}
+.border-radius{
+  border-radius: 10px;
+}
+.documents_required_gap{
+  flex-flow: nowrap;
+  gap: 1.5rem;
 }
