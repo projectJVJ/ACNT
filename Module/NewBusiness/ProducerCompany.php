@@ -19,7 +19,7 @@
                 <div class="row">
                     <div class="col-md-5 ps-3 first-card p-0">
                         <div class="card border-0">
-                            <img src="../../assets/img/services.jpg" class="card-img-top rounded-lg w-90"
+                            <img src="../../assets/img/ProducerCompany.jpg" class="card-img-top rounded-lg w-90"
                                 alt="Partnership Registration">
                             <div class="card-body p-0 pt-3 d-grid gap-2">
                                 <span>Pan Card</span>
@@ -33,8 +33,7 @@
                         <div class="card border-0">
                             <h4>Producer Company</h4>
                             <p><span class="text-primary fw-bold">4.3</span> 7596 Customers</p>
-                            <p>Get your partnership firm deed drafted by our experts, along with firm PAN and GST
-                                registration.
+                            <p>Easily register a Producer company registration through IndiaFilings including Incorporation kit and share certificates.
                             </p>
                         </div>
                     </div>
