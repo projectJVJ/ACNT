@@ -141,19 +141,19 @@
             <ul class="dropdown-menu">
               <div class="dropdown-columns">
                 <div class="dropdown-column">
-                  <li><a href="#"><span>CMA preparation</a></li>
-                  <li><a href="#"><span>Bank loan assistance</a></li>
-                  <li><a href="#"><span>CC/OD limit</a></li>
-                  <li><a href="#"><span>WCTL</a></li>
-                  <li><a href="#"><span>Mortgate/LAP</a></li>
-                  <li><a href="#"><span>Re-finance</a></li>
-                  <li><a href="#"><span>Private equity</a></li>
-                  <li><a href="#"><span>New Project loan</a></li>
+                  <li><a href="/acnt/Module/Finance/CmaPreparation.php"><span>CMA preparation</a></li>
+                  <li><a href="/acnt/Module/Finance/BankLoanAssistance.php"><span>Bank loan assistance</a></li>
+                  <li><a href="/acnt/Module/Finance/CcOdLimits.php"><span>CC/OD limit</a></li>
+                  <li><a href="/acnt/Module/Finance/WCTL.php"><span>WCTL</a></li>
+                  <li><a href="/acnt/Module/Finance/MortgateLLP.php"><span>Mortgate/LAP</a></li>
+                  <li><a href="/acnt/Module/Finance/ReFinance.php"><span>Re-finance</a></li>
+                  <li><a href="/acnt/Module/Finance/PrivateEquity.php"><span>Private equity</a></li>
+                  <li><a href="/acnt/Module/Finance/NewProjectLoan.php"><span>New Project loan</a></li>
                 </div>
                 <div class="dropdown-column">
-                  <li><a href="#">Expansion loan</a></li>
-                  <li><a href="#">takeover of existing loan</a></li>
-                  <li><a href="#">valuation of immovable properties in Gujarat</a></li>
+                  <li><a href="/acnt/Module/Finance/ExpansionLoan.php">Expansion loan</a></li>
+                  <li><a href="/acnt/Module/Finance/TakeOverLoan.php">takeover of existing loan</a></li>
+                  <li><a href="/acnt/Module/Finance/ValuatiionOfGujarat.php">valuation of immovable properties in Gujarat</a></li>
                 </div>
               </div>
             </ul>
