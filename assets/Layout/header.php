@@ -59,24 +59,24 @@
             <ul class="dropdown-menu">
               <div class="dropdown-columns">
                 <div class="dropdown-column">
-                  <li><a href="#">PAN Card</a></li>
-                  <li><a href="#">TAN Number</a></li>
-                  <li><a href="#">Goods & Service Tax - GST</a></li>
-                  <li><a href="#">MSME - Udyam</a></li>
-                  <li><a href="#">Registrar of Firm</a></li>
-                  <li><a href="#">Import Export Code - IEC</a></li>
-                  <li><a href="#">Legal Entity Indetifier Code - LEI</a></li>
-                  <li><a href="#">PF</a></li>
+                  <li><a href="/acnt/Module/Registration/Pan.php">PAN Card</a></li>
+                  <li><a href="/acnt/Module/Registration/Tan.php">TAN Number</a></li>
+                  <li><a href="/acnt/Module/Registration/Gst.php">Goods & Service Tax - GST</a></li>
+                  <li><a href="/acnt/Module/Registration/MsmeUdyam.php">MSME - Udyam</a></li>
+                  <li><a href="/acnt/Module/Registration/RegistrarofFirm.php">Registrar of Firm</a></li>
+                  <li><a href="/acnt/Module/Registration/ImportExport.php">Import Export Code - IEC</a></li>
+                  <li><a href="/acnt/Module/Registration/LegalEntityIndetifier.php">Legal Entity Indetifier Code - LEI</a></li>
+                  <li><a href="/acnt/Module/Registration/Pf.php">PF</a></li>
                 </div>
                 <div class="dropdown-column">
-                  <li><a href="#">ESIC</a></li>
-                  <li><a href="#">Professional Tax</a></li>
-                  <li><a href="#">FSSAI</a></li>
-                  <li><a href="#">ICEGATE</a></li>
-                  <li><a href="#">Halal License & Certification</a></li>
-                  <li><a href="#">Trade License</a></li>
-                  <li><a href="#">ISO registration</a></li>
-                  <li><a href="#">RCMC registration</a></li>
+                  <li><a href="/acnt/Module/Registration/Esic.php">ESIC</a></li>
+                  <li><a href="/acnt/Module/Registration/ProfessionalTax.php">Professional Tax</a></li>
+                  <li><a href="/acnt/Module/Registration/Fssi.php">FSSAI</a></li>
+                  <li><a href="/acnt/Module/Registration/Icegate.php">ICEGATE</a></li>
+                  <li><a href="/acnt/Module/Registration/HalalLicense.php">Halal License & Certification</a></li>
+                  <li><a href="/acnt/Module/Registration/TradeLicense.php">Trade License</a></li>
+                  <li><a href="/acnt/Module/Registration/IsoRegistration.php">ISO Registration</a></li>
+                  <li><a href="/acnt/Module/Registration/RcmcRegistration.php">RCMC Registration</a></li>
                 </div>
               </div>
             </ul>
