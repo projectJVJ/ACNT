@@ -2,12 +2,7 @@
 
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Partnership Firm Registration</title>
-
-    <!-- Main CSS File -->
-  <!-- <link href="../../assets/css/main.css" rel="stylesheet"> -->
-
 </head>
 
 <body>
@@ -19,7 +14,8 @@
                 <div class="row">
                     <div class="col-md-5 ps-3 first-card p-0">
                         <div class="card border-0">
-                            <img src="../../assets/img/services.jpg" class="card-img-top rounded-lg w-90" alt="Partnership Registration">
+                            <img src="../../assets/img/services.jpg" class="card-img-top rounded-lg w-90"
+                                alt="Partnership Registration">
                             <div class="card-body p-0 pt-3 d-grid gap-2">
                                 <span>Pan Card</span>
                                 <span>Aadhar Card</span>
@@ -35,100 +31,86 @@
                             <p>Get your partnership firm deed drafted by our experts, along with firm PAN and GST
                                 registration.
                             </p>
-                            <select class="form-select mb-3" style="background-color : #fcfcfc; ">
-                                <option>Tamil Nadu</option>
-                                <option>Chhattisgarh</option>
-                                <option>Gujarat</option>
-                            </select>
-
-                            <div class="container ">
-                                <div class="row mt-4">
-                                    <div class="col-md-6 mb-3">
-                                        <div class="card border-dashed pb-3">
-                                            <div class="card-header offers-header">
-                                                3 Exclusive Offers
-                                            </div>
-                                            <div class="offers-body">
-                                                <ul>
-                                                    <li>Partnership deed draft</li>
-                                                    <li>PAN Card Application</li>
-                                                    <li>GST Registration</li>
-                                                    <li>Bank Account Opening</li>
-                                                </ul>
-                                                <button class="btn btn-primary float-end me-2">ADD</button>
-                                            </div>
-                                        </div>
-                                    </div>
-
-                                    <div class="col-md-6">
-                                        <div class="card border-dashed-2 pb-3">
-                                            <div class="offers-header">
-                                                3 Exclusive Offers
-                                            </div>
-                                            <div class="offers-body">
-                                                <ul>
-                                                    <li>Partnership deed draft</li>
-                                                    <li>PAN Card Application</li>
-                                                    <li>GST Registration</li>
-                                                    <li>Bank Account Opening</li>
-                                                </ul>
-                                                <button class="btn btn-primary float-end me-2">ADD</button>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
                         </div>
                     </div>
                 </div>
 
             </div>
-            <div class="col-md-4 ps-5 pe-0">
-                <div class="card border-0 main-container-border-radius">
-                    <div class="card-header p-5 pt-0  right-card-header border-0 ">
-                        <svg class="icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
-                            <path
-                                d="M29.4 8.85A2.48 2.48 0 0 0 27.53 8H14a1 1 0 0 0 0 2h13.53a.47.47 0 0 1 .36.16.48.48 0 0 1 .11.36l-1.45 10a1.71 1.71 0 0 1-1.7 1.48H14.23a1.72 1.72 0 0 1-1.68-1.33L10 8.79l-.5-1.92A3.79 3.79 0 0 0 5.82 4H3a1 1 0 0 0 0 2h2.82a1.8 1.8 0 0 1 1.74 1.36L8 9.21l2.6 11.88A3.72 3.72 0 0 0 14.23 24h10.62a3.74 3.74 0 0 0 3.68-3.16l1.45-10a2.45 2.45 0 0 0-.58-1.99zM16 25h-2a1 1 0 0 0 0 2h2a1 1 0 0 0 0-2zM25 25h-2a1 1 0 0 0 0 2h2a1 1 0 0 0 0-2z" />
-                        </svg>
-                        <h4 class="mt-3 text-center "><b>YOUR CART IS EMPTY!</b></h4>
-                        <p class="mb-2 text-center">Browse Our Services To Add Some Services In Cart</p>
-                    </div>
-                    <div class="card-body pt-4 text-center">
-                        <span class=" text-2sm text-gray-700"> Existing User?<a href="#"
-                                class="text-primary ps-3">LOGIN</a></span>
-                    </div>
-
-                    <div class="form p-3">
-                        <input type="text" class="form-control mb-2" placeholder="Name">
-                        <input type="email" class="form-control mb-2" placeholder="Email">
-                        <input type="tel" class="form-control mb-2" placeholder="Phone">
-                        <div class="form-check">
-                            <input class="form-check-input" type="checkbox" id="gstCheck">
-                            <label class="form-check-label" for="gstCheck">Enter GSTIN to get 18% GST Credit</label>
-                        </div>
-                        <button class="btn btn-primary w-100 mt-2">Get Started</button>
-                    </div>
-
-                </div>
-            </div>
-            <div class="col-md-8 col1 p-3 ps-4 mt-5 height-fit-content main-container-border-radius">
+            <?php include "../../assets/layout/ScheduleAppointment.php"; ?>
+            <div class="col-md-12 col1 p-3 ps-4 mt-5 height-fit-content main-container-border-radius">
                 <div class="card border-0" id="paragraph">
-                    <h3 class=" text-center mt-2">Partnership Firm Registration</h3>
-                    <p class="text-align-justify">partnership firm is a popular choice among entrepreneurs due to its
-                        simplicity and flexibility. It
-                        allows multiple individuals to come together and combine their resources, skills, and expertise to
-                        run a business. Registering your partnership firm is the first step towards formalizing your
-                        partnership and ensuring its legal recognition.
+                    <div class="text-center">
+                        <h3>Partnership Firm Registration</h3>
+                        <p>Get expert assistance from Hiva Professionals for your partnership firm registration online
+                            at affordable prices.</p>
+                    </div>
+                    <section>
+                        <h4>What is a Partnership Firm?</h4>
+                        <p>A partnership firm is a popular choice among entrepreneurs due to its simplicity and
+                            flexibility. It allows multiple individuals to come together and combine their resources,
+                            skills, and expertise to run a business. Registering your partnership firm is the first step
+                            towards formalizing your partnership and ensuring its legal recognition.</p>
+                        <h4>Governing Law</h4>
+                        <p>Partnership firms in India operate under the Indian Partnership Act, 1932. Partners form the
+                            firm through a contractual agreement known as the partnership deed.</p>
 
-                        At IndiaFilings, we understand that navigating the intricacies of partnership firm registration
-                        process can be daunting. That's why we offer a comprehensive and hassle-free partnership firm
-                        registration online service designed to meet your needs with affordable partnership firm
-                        registration fees. We go through the complete process and register partnership deed effortlessly.
-                        Whether you are a new startup or an existing unregistered partnership looking to formalize your
-                        business, our expert team of professionals guides you through the process to register partnership
-                        firm.
+                        <h4>Partnership Deed</h4>
+                        <p>This legal document includes rights and duties of partners, profit sharing, capital
+                            contributions, and more. Registering the deed is vital to avoid disputes and serve as legal
+                            proof.</p>
+                    </section>
+                    <section>
+                        <h4>Who Can Be a Partner?</h4>
+                        <ul>
+                            <li>Individuals who are mentally and legally fit</li>
+                            <li>Registered firms and companies</li>
+                            <li>HUF leaders contributing personal skill/labor</li>
+                            <li>Trustees of specific trusts (as permitted)</li>
+                        </ul>
+                    </section>
+                    <section>
+                        <h4>Advantages</h4>
+                        <ul>
+                            <li>Easy to form and manage</li>
+                            <li>Shared financial burden</li>
+                            <li>Tax benefits at partner level</li>
+                            <li>Greater access to capital and skill diversity</li>
+                        </ul>
+                    </section>
+                    <section>
+                        <h4>Disadvantages</h4>
+                        <ul>
+                            <li>Unlimited personal liability</li>
+                            <li>Capital raising limitations</li>
+                            <li>Potential conflicts and continuity issues</li>
+                        </ul>
+                    </section>
+                    <section>
+                        <h4>Importance of Registration</h4>
+                        <ul>
+                            <li>Legal standing to enforce rights</li>
+                            <li>Eligibility to sue third parties</li>
+                            <li>Right to claim set-off in legal cases</li>
+                        </ul>
+                    </section>
+                    <section>
+                        <h4>Registration Process</h4>
+                        <ol>
+                            <li>Obtain DSC for all partners</li>
+                            <li>Get DPIN from MCA</li>
+                            <li>Choose a unique firm name</li>
+                            <li>Draft the partnership deed</li>
+                            <li>Apply for registration with Registrar of Firms</li>
+                            <li>Obtain Certificate of Registration</li>
+                            <li>Apply for PAN and TAN</li>
+                        </ol>
+                    </section>
 
-                        Contact us now to learn more and get started on your partnership firm registration journey.</p>
+                    <h4>How Hiva Professionals Can Help</h4>
+                    <p>At Hiva Professionals, we offer complete support for partnership firm registration online.
+                        From documentation and name selection to filing and compliance, we handle everything
+                        efficiently at a reasonable cost. Our expert team ensures seamless registration and
+                        continuous post-registration assistance for your business growth.</p>
                 </div>
             </div>
         </div>

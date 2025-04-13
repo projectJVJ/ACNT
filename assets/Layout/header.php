@@ -6,7 +6,9 @@
   <!-- Fonts -->
   <link href="https://fonts.googleapis.com" rel="preconnect">
   <link href="https://fonts.gstatic.com" rel="preconnect" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&family=Raleway:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Ubuntu:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,500;1,700&display=swap" rel="stylesheet">
+  <link
+    href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&family=Raleway:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Ubuntu:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,500;1,700&display=swap"
+    rel="stylesheet">
 
   <!-- Vendor CSS Files -->
   <link href="/acnt/assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
@@ -38,13 +40,14 @@
           <ul class="dropdown-menu">
             <div class="dropdown-columns">
               <div class="dropdown-column">
-                <li><a href="Module\NewBusiness\PartnershipFirm.php">Proprietorship</a></li>
-                <li><a href="#">Partnership Firm</a></li>
-                <li><a href="#">One person Company</a></li>
-                <li><a href="#">Limited Liability Partnerhsip</a></li>
-                <li><a href="#">Private Limited Company</a></li>
-                <li><a href="#">Public Limited Company</a></li>
-                <li><a href="#">Producer Company</a></li>
+                <li><a href="/acnt/Module/NewBusiness/Proprietorship.php">Proprietorship</a></li>
+                <li><a href="/acnt/Module/NewBusiness/PartnershipFirm.php">Partnership Firm</a></li>
+                <li><a href="/acnt/Module/NewBusiness/OnepersonCompany.php">One person Company</a></li>
+                <li><a href="/acnt/Module/NewBusiness/LimitedLiabilityPartnerhsip.php">Limited Liability Partnerhsip</a>
+                </li>
+                <li><a href="/acnt/Module/NewBusiness/PrivateLimitedCompany.php">Private Limited Company</a></li>
+                <li><a href="/acnt/Module/NewBusiness/PublicLimitedCompany.php">Public Limited Company</a></li>
+                <li><a href="/acnt/Module/NewBusiness/ProducerCompany.php">Producer Company</a></li>
               </div>
             </div>
           </ul>

@@ -1002,7 +1002,7 @@ select.form-select option:hover {
   color: white;
 }
 
-ul {
+.main_footer ul {
   list-style: none;
   padding-left: 0;
 }
@@ -1084,4 +1084,12 @@ a {
 
 a:hover {
   color: #00a3dede;
+}
+
+p {
+  color: #4b5675;
+}
+
+section ul li, section ol li {
+  color: #4b5675;
 }
