@@ -1,4 +1,4 @@
-<div class="row mt-4 ">
+<div class="row">
 
     <!-- Popular Services -->
     <div class="card border-0 p-0">
@@ -132,7 +132,7 @@
         </div>
     </div>
 
-    <p class="p-0 d-flex justify-content-center"> Copyright © 2025. All rights reserved.</p>
+    <p class="p-0 d-flex justify-content-center text-gray">© Copyright © 2025. All rights reserved.</p>
     <div class="d-flex justify-content-center gap-3 mt-2">
         <i class="bi bi-facebook"></i>
         <i class="bi bi-instagram"></i>
