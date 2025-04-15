@@ -32,7 +32,7 @@
 </head>
 
 <body class="index-page">
-<?php include "assets/layout/header.php";?>
+  <?php include "assets/layout/header.php"; ?>
 
   <main class="main">
 
@@ -47,20 +47,20 @@
           <button type="button" data-bs-target="#demo" data-bs-slide-to="1"></button>
           <button type="button" data-bs-target="#demo" data-bs-slide-to="2"></button>
         </div>
-        
+
         <!-- The slideshow/carousel -->
         <div class="carousel-inner">
           <div class="carousel-item active">
-            <img src="assets/img/hero-img.png" alt="Los Angeles" class="d-block" style="width:100%">
+            <img src="assets/img/Proprietorship.jpg" alt="Los Angeles" class="d-block" style="width:100%">
           </div>
           <div class="carousel-item">
-            <img src="assets/img/hero-img.png" alt="Chicago" class="d-block" style="width:100%">
+            <img src="assets/img/PartnershipFirm.jpg" alt="Chicago" class="d-block" style="width:100%">
           </div>
           <div class="carousel-item">
-            <img src="assets/img/hero-img.png" alt="New York" class="d-block" style="width:100%">
+            <img src="assets/img/OnepersonCompany.jpg" alt="New York" class="d-block" style="width:100%">
           </div>
         </div>
-        
+
         <!-- Left and right controls/icons -->
         <button class="carousel-control-prev" type="button" data-bs-target="#demo" data-bs-slide="prev">
           <span class="carousel-control-prev-icon"></span>
@@ -74,46 +74,60 @@
 
     <!-- Featured Services Section -->
     <section id="featured-services" class="featured-services section">
-
-      <div class="container">
-
-        <div class="row gy-4">
-
-          <div class="col-lg-4 d-flex" data-aos="fade-up" data-aos-delay="100">
-            <div class="service-item position-relative">
-              <div class="icon"><i class="bi bi-activity icon"></i></div>
-              <h4><a href="" class="stretched-link">Lorem Ipsum</a></h4>
-              <p>Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi</p>
+      <div class="container mt-5">
+        <div class="row">
+          <div class="col-lg-4 mb-5">
+            <div class="service-item text-center p-5">
+              <div class="icon"><i class="bi bi-person-fill"></i></div>
+              <h4><a href="/acnt/NewBusiness/Proprietorship.php" class="stretched-link">Proprietorship</a></h4>
+              <p>Easily set up a sole proprietorship online with GST registration.</p>
             </div>
-          </div><!-- End Service Item -->
-
-          <div class="col-lg-4 d-flex" data-aos="fade-up" data-aos-delay="200">
-            <div class="service-item position-relative">
-              <div class="icon"><i class="bi bi-bounding-box-circles icon"></i></div>
-              <h4><a href="" class="stretched-link">Sed ut perspici</a></h4>
-              <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore</p>
+          </div>
+          <div class="col-lg-4 mb-5">
+            <div class="service-item text-center p-5">  
+              <div class="icon"><i class="bi bi-people"></i></div>
+              <h4><a href="/acnt/NewBusiness/PartnershipFirm.php" class="stretched-link">Partnership Firm</a></h4>
+              <p>Get your partnership firm deed drafted by our experts, along with firm PAN and GST
+                registration.</p>
             </div>
-          </div><!-- End Service Item -->
-
-          <div class="col-lg-4 d-flex" data-aos="fade-up" data-aos-delay="300">
-            <div class="service-item position-relative">
-              <div class="icon"><i class="bi bi-calendar4-week icon"></i></div>
-              <h4><a href="" class="stretched-link">Magni Dolores</a></h4>
-              <p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia</p>
+          </div>
+          <div class="col-lg-4 mb-5">
+            <div class="service-item text-center p-5">
+              <div class="icon"><i class="bi bi-person-badge"></i></div>
+              <h4><a href="/acnt/NewBusiness/OnepersonCompany.php" class="stretched-link">One person Company</a></h4>
+              <p>Instant Name Application for Company.</p>
             </div>
-          </div><!-- End Service Item -->
-
+          </div>
+          <div class="col-lg-4 mb-5">
+            <div class="service-item text-center p-5">
+              <div class="icon"><i class="bi bi-people"></i></div>
+              <h4><a href="/acnt/NewBusiness/LimitedLiabilityPartnerhsip.php" class="stretched-link">Limited Liability Partnerhsip</a></h4>
+              <p>Instant Name Application for LLP.</p>
+            </div>
+          </div>
+          <div class="col-lg-4 mb-5">
+            <div class="service-item text-center p-5">
+              <div class="icon"><i class="bi bi-building"></i></div>
+              <h4><a href="/acnt/NewBusiness/PrivateLimitedCompany.php" class="stretched-link">Private Limited Company</a></h4>
+              <p>Instant Name Application for Company.</p>
+            </div>
+          </div>
+          <div class="col-lg-4 mb-5">
+            <div class="service-item text-center p-5">
+              <div class="icon"><i class="bi bi-building"></i></div>
+              <h4><a href="/acnt/NewBusiness/PublicLimitedCompany.php" class="stretched-link">Public Limited Company</a></h4>
+              <p>Easily incorporate a Public Limited Company through Hiva Professionals.</p>
+            </div>
+          </div>
         </div>
-
       </div>
-
     </section><!-- /Featured Services Section -->
 
     <!-- Contact Section -->
     <section id="contact" class="contact section">
 
       <!-- Section Title -->
-      <div class="container section-title" data-aos="fade-up">
+      <div class="container section-title mt-5" data-aos="fade-up">
         <span>Section Title</span>
         <h2>Contact</h2>
         <p>Necessitatibus eius consequatur ex aliquid fuga eum quidem sint consectetur velit</p>
@@ -178,7 +192,7 @@
                   <textarea class="form-control" name="message" rows="10" id="message-field" required=""></textarea>
                 </div>
 
-                <div class="col-md-12 text-center">
+                <div class="col-md-12 text-center p-5">
                   <div class="loading">Loading</div>
                   <div class="error-message"></div>
                   <div class="sent-message">Your message has been sent. Thank you!</div>
@@ -202,7 +216,7 @@
 
     <div class="footer-newsletter">
       <div class="container">
-        <div class="row justify-content-center text-center">
+        <div class="row justify-content-center text-center p-5">
           <div class="col-lg-6">
             <h4>Join Our Newsletter</h4>
             <p>Subscribe to our newsletter and receive the latest news about our products and services!</p>
@@ -231,7 +245,7 @@
           </div>
         </div>
 
-        <div class="col-lg-2 col-md-3 footer-links">
+        <div class="col-lg-4 col-md-3 footer-links">
           <h4>Useful Links</h4>
           <ul>
             <li><i class="bi bi-chevron-right"></i> <a href="#">Home</a></li>
@@ -241,7 +255,7 @@
           </ul>
         </div>
 
-        <div class="col-lg-2 col-md-3 footer-links">
+        <div class="col-lg-4 col-md-3 footer-links">
           <h4>Our Services</h4>
           <ul>
             <li><i class="bi bi-chevron-right"></i> <a href="#">Web Design</a></li>

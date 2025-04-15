@@ -2,7 +2,7 @@
 
 <head>
     <meta charset="UTF-8">
-    <title>Proprietorship</title>
+    <title>MSME – Udyam</title>
 </head>
 
 <body>
@@ -16,19 +16,13 @@
                         <div class="card border-0">
                             <img src="../../assets/img/services.jpg" class="card-img-top rounded-lg w-90"
                                 alt="Partnership Registration">
-                            <div class="card-body p-0 pt-3 d-grid gap-2">
-                                <span>Pan Card</span>
-                                <span>Aadhar Card</span>
-                                <span>Rental Agreement</span>
-                                <a href="#" class="text-primary">Load More</a>
-                            </div>
                         </div>
                     </div>
                     <div class="col-md-7 ps-5">
                         <div class="card border-0">
-                            <h4>Proprietorship</h4>
+                            <h4>MSME – Udyam Registration</h4>
                             <p><span class="text-primary fw-bold">4.3</span> 7596 Customers</p>
-                            <p>Easily set up a sole proprietorship online with GST registration.</p>
+                            <p>MSME – Udyam Registration: Simplified Online Registration for Micro, Small & Medium Enterprises</p>
                         </div>
                     </div>
                 </div>
@@ -37,113 +31,93 @@
             <?php include "../../assets/layout/ScheduleAppointment.php"; ?>
             <div class="col-md-12 col1 p-3 ps-4 mt-5 height-fit-content main-container-border-radius">
                 <div class="card border-0" id="paragraph">
-                    <div class="text-center">
-                        <h3>Proprietorship Registration</h3>
-                        <p>Start your sole proprietorship with Hiva Professionals — Simple, Quick & Reliable</p>
+                    <div class="text-center mb-5">
+                        <h3>MSME – Udyam Registration</h3>
+                        <p>Empower Your Business with Official MSME Recognition Under Udyam with <strong>Hiva Professional</strong></p>
                     </div>
-
                     <section>
-                        <h4>What is Sole Proprietorship?</h4>
-                        <p>Sole proprietorship is one of the oldest and easiest business structures in India. It is
-                            owned and managed by a single person, called the proprietor. The business and proprietor are
-                            legally the same entity, which makes it simple to start and operate with minimal compliance.
+                        <h4>What is MSME Udyam Registration?</h4>
+                        <p>
+                            The <strong>Udyam Registration</strong> is the official process for registering Micro, Small, and Medium Enterprises (MSMEs) with the Government of India.
+                            Introduced by the Ministry of Micro, Small and Medium Enterprises in July 2020, this online registration replaces the earlier Udyog Aadhaar system.
                         </p>
-                        <p>Sole proprietorships are ideal for very small businesses (less than 5 employees) and do not
-                            offer limited liability protection. Hiva Professionals helps you register your
-                            proprietorship firm online with expert support and a hassle-free process.</p>
-                    </section>
+                        <p>
+                            It provides businesses with a unique Udyam Registration Number and opens doors to government benefits, subsidies, and schemes. The entire process is digital, paperless, and free of cost.
+                        </p>
 
-                    <section>
-                        <h4>How to Register Sole Proprietorship in India</h4>
-                        <p>There is no dedicated government registration process for proprietorships. Recognition is
-                            obtained through necessary tax registrations, mainly GST Registration under the proprietor’s
-                            name. Hiva Professionals guides you through the complete process seamlessly.</p>
-                    </section>
-
-                    <section>
-                        <h4>Essential Licenses & Registrations</h4>
+                        <h4>Key Highlights of Udyam Registration</h4>
                         <ul>
-                            <li>PAN & Aadhaar Card</li>
-                            <li>Udyam MSME Registration</li>
-                            <li>GST Registration (if applicable)</li>
-                            <li>Bank Current Account</li>
-                            <li>Shops & Establishment License (as per state rules)</li>
+                            <li>Single-window digital system – No document upload required</li>
+                            <li>Registration based on PAN and Aadhaar authentication</li>
+                            <li>Instant Udyam Certificate with QR code</li>
+                            <li>MSME classification by investment & turnover</li>
+                            <li>No renewal required – Valid for lifetime</li>
+                            <li>Migration required for existing Udyog Aadhaar holders</li>
                         </ul>
-                    </section>
 
-                    <section>
-                        <h4>Advantages of Sole Proprietorship</h4>
+                        <h4>Classification of MSMEs (As per July 2020 Notification)</h4>
+                        <div class="table-responsive">
+                            <table class="table table-bordered text-center">
+                                <thead>
+                                    <tr>
+                                        <th>Enterprise Type</th>
+                                        <th>Investment in Plant & Machinery/Equipment</th>
+                                        <th>Annual Turnover</th>
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                    <tr>
+                                        <td>Micro Enterprise</td>
+                                        <td>Up to ₹1 crore</td>
+                                        <td>Up to ₹5 crore</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Small Enterprise</td>
+                                        <td>Up to ₹10 crore</td>
+                                        <td>Up to ₹50 crore</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Medium Enterprise</td>
+                                        <td>Up to ₹50 crore</td>
+                                        <td>Up to ₹250 crore</td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </div>
+
+                        <h4>Benefits of Udyam Registration</h4>
                         <ul>
-                            <li>Easy to Start</li>
-                            <li>Lower Compliance Requirements</li>
-                            <li>Simplified Operations</li>
-                            <li>Quick Decision Making</li>
-                            <li>Complete Ownership & Control</li>
+                            <li>Collateral-free loans under Credit Guarantee Scheme</li>
+                            <li>Subsidy on patent registration and industrial promotion</li>
+                            <li>Priority in government tenders</li>
+                            <li>Lower interest rates on bank loans</li>
+                            <li>Concession in electricity bills</li>
+                            <li>Legal protection against delayed payments</li>
+                            <li>Ease in obtaining licenses and approvals</li>
                         </ul>
-                    </section>
-
-                    <section>
-                        <h4>Disadvantages of Sole Proprietorship</h4>
+                        <h4>Who Should Register for MSME – Udyam?</h4>
                         <ul>
-                            <li>Limited Fundraising Options</li>
-                            <li>Personal Liability Risk</li>
-                            <li>No Business Continuity on Death or Disability</li>
-                            <li>Restricted Business Growth</li>
-                            <li>Unincorporated Status</li>
+                            <li>Startups & Entrepreneurs seeking government benefits</li>
+                            <li>Manufacturers, Traders, and Service Providers</li>
+                            <li>Existing Udyog Aadhaar holders (migration required)</li>
+                            <li>Freelancers and Small Business Owners</li>
                         </ul>
-                    </section>
 
-                    <section>
-                        <h4>Register with Hiva Professionals</h4>
-                        <p>We assist in getting your PAN, Aadhaar-based GST Registration, Udyam MSME Registration, Bank
-                            Account, and more — all within 15 days!</p>
-                        <ol>
-                            <li>Login to our portal</li>
-                            <li>Select "Proprietorship Registration" under Services</li>
-                            <li>Upload PAN & Aadhaar</li>
-                            <li>Our experts file for GST and assist with bank setup</li>
-                            <li>Access our accounting & compliance software</li>
-                        </ol>
-                    </section>
-
-                    <section>
-                        <h4>Documentation Required</h4>
+                        <h4>How Hiva Professional Helps You</h4>
+                        <p>At <strong>Hiva Professional</strong>, we make the Udyam Registration process effortless for you:</p>
                         <ul>
-                            <li>PAN & Aadhaar</li>
-                            <li>Passport-size Photo</li>
-                            <li>Bank Details (Cancelled Cheque)</li>
-                            <li>Rent Agreement (if applicable)</li>
-                            <li>Utility Bill / Address Proof</li>
+                            <li>Eligibility check and documentation guidance</li>
+                            <li>Seamless Aadhaar-based registration</li>
+                            <li>PAN and GST linking support</li>
+                            <li>Delivery of official Udyam Certificate</li>
+                            <li>Continued support for updates or corrections</li>
                         </ul>
-                    </section>
-
-                    <section>
-                        <h4>Timelines & Activities</h4>
-                        <p>Hiva Professionals completes registration processes within 15 days depending on the
-                            government’s and banks’ timelines. A sole proprietorship can undertake any legal business
-                            activity, except those requiring a corporate setup such as banking or telecom.</p>
-                    </section>
-
-                    <section>
-                        <h4>Ongoing Compliances</h4>
-                        <ul>
-                            <li>Income Tax Filing (ITR-3 or ITR-4)</li>
-                            <li>GST Return Filing (if registered)</li>
-                            <li>TDS Filing (if applicable)</li>
-                        </ul>
-                        <p>Additional compliance may apply based on business activity and location.</p>
                     </section>
                 </div>
             </div>
         </div>
-        <?php include 'NewBusinessFooter.php'; ?>
-
         <?php include '../../assets/layout/main_footer.php'; ?>
-
-        <!-- main-container nu div che -->
     </div>
-    <!-- main-container nu div che -->
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
 </body>
 
 </html>

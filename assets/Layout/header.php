@@ -41,15 +41,13 @@
             <ul class="dropdown-menu">
               <div class="dropdown-columns">
                 <div class="dropdown-column">
-                  <li><a href="/acnt/Module/NewBusiness/Proprietorship.php">Proprietorship</a></li>
-                  <li><a href="/acnt/Module/NewBusiness/PartnershipFirm.php">Partnership Firm</a></li>
-                  <li><a href="/acnt/Module/NewBusiness/OnepersonCompany.php">One person Company</a></li>
-                  <li><a href="/acnt/Module/NewBusiness/LimitedLiabilityPartnerhsip.php">Limited Liability
-                      Partnerhsip</a>
-                  </li>
-                  <li><a href="/acnt/Module/NewBusiness/PrivateLimitedCompany.php">Private Limited Company</a></li>
-                  <li><a href="/acnt/Module/NewBusiness/PublicLimitedCompany.php">Public Limited Company</a></li>
-                  <li><a href="/acnt/Module/NewBusiness/ProducerCompany.php">Producer Company</a></li>
+                  <li><a href="/acnt/NewBusiness/Proprietorship.php">Proprietorship</a></li>
+                  <li><a href="/acnt/NewBusiness/PartnershipFirm.php">Partnership Firm</a></li>
+                  <li><a href="/acnt/NewBusiness/OnepersonCompany.php">One person Company</a></li>
+                  <li><a href="/acnt/NewBusiness/LimitedLiabilityPartnerhsip.php">Limited Liability Partnerhsip</a></li>
+                  <li><a href="/acnt/NewBusiness/PrivateLimitedCompany.php">Private Limited Company</a></li>
+                  <li><a href="/acnt/NewBusiness/PublicLimitedCompany.php">Public Limited Company</a></li>
+                  <li><a href="/acnt/NewBusiness/ProducerCompany.php">Producer Company</a></li>
                 </div>
               </div>
             </ul>
@@ -59,24 +57,24 @@
             <ul class="dropdown-menu">
               <div class="dropdown-columns">
                 <div class="dropdown-column">
-                  <li><a href="/acnt/Module/Registration/Pan.php">PAN Card</a></li>
-                  <li><a href="/acnt/Module/Registration/Tan.php">TAN Number</a></li>
-                  <li><a href="/acnt/Module/Registration/Gst.php">Goods & Service Tax - GST</a></li>
-                  <li><a href="/acnt/Module/Registration/MsmeUdyam.php">MSME - Udyam</a></li>
-                  <li><a href="/acnt/Module/Registration/RegistrarofFirm.php">Registrar of Firm</a></li>
-                  <li><a href="/acnt/Module/Registration/ImportExport.php">Import Export Code - IEC</a></li>
-                  <li><a href="/acnt/Module/Registration/LegalEntityIndetifier.php">Legal Entity Indetifier Code - LEI</a></li>
-                  <li><a href="/acnt/Module/Registration/Pf.php">PF</a></li>
+                  <li><a href="/acnt/Registration/Pan.php">PAN Card</a></li>
+                  <li><a href="/acnt/Registration/Tan.php">TAN Number</a></li>
+                  <li><a href="/acnt/Registration/Gst.php">Goods & Service Tax - GST</a></li>
+                  <li><a href="/acnt/Registration/MsmeUdyam.php">MSME - Udyam</a></li>
+                  <li><a href="/acnt/Registration/RegistrarofFirm.php">Registrar of Firm</a></li>
+                  <li><a href="/acnt/Registration/ImportExport.php">Import Export Code - IEC</a></li>
+                  <li><a href="/acnt/Registration/LegalEntityIndetifier.php">Legal Entity Indetifier Code - LEI</a></li>
+                  <li><a href="/acnt/Registration/Pf.php">PF</a></li>
                 </div>
                 <div class="dropdown-column">
-                  <li><a href="/acnt/Module/Registration/Esic.php">ESIC</a></li>
-                  <li><a href="/acnt/Module/Registration/ProfessionalTax.php">Professional Tax</a></li>
-                  <li><a href="/acnt/Module/Registration/Fssi.php">FSSAI</a></li>
-                  <li><a href="/acnt/Module/Registration/Icegate.php">ICEGATE</a></li>
-                  <li><a href="/acnt/Module/Registration/HalalLicense.php">Halal License & Certification</a></li>
-                  <li><a href="/acnt/Module/Registration/TradeLicense.php">Trade License</a></li>
-                  <li><a href="/acnt/Module/Registration/IsoRegistration.php">ISO Registration</a></li>
-                  <li><a href="/acnt/Module/Registration/RcmcRegistration.php">RCMC Registration</a></li>
+                  <li><a href="/acnt/Registration/Esic.php">ESIC</a></li>
+                  <li><a href="/acnt/Registration/ProfessionalTax.php">Professional Tax</a></li>
+                  <li><a href="/acnt/Registration/Fssi.php">FSSAI</a></li>
+                  <li><a href="/acnt/Registration/Icegate.php">ICEGATE</a></li>
+                  <li><a href="/acnt/Registration/HalalLicense.php">Halal License & Certification</a></li>
+                  <li><a href="/acnt/Registration/TradeLicense.php">Trade License</a></li>
+                  <li><a href="/acnt/Registration/IsoRegistration.php">ISO Registration</a></li>
+                  <li><a href="/acnt/Registration/RcmcRegistration.php">RCMC Registration</a></li>
                 </div>
               </div>
             </ul>

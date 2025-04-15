@@ -1,0 +1,37 @@
+RewriteEngine On
+RewriteBase /acnt/
+
+# Redirect ugly URLs (e.g., .php) to pretty ones
+RewriteCond %{THE_REQUEST} \s/+acnt/([^.]+)\.php [NC]
+RewriteRule ^ %1 [R=301,L]
+
+# Rewrite to .php if file exists
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME}\.php -f
+RewriteRule ^(.+?)/?$ $1.php [L]
+
+
+# Custom Pretty URL Mappings
+RewriteRule ^NewBusiness/Proprietorship/?$ Module/NewBusiness/Proprietorship.php [L]
+RewriteRule ^NewBusiness/PartnershipFirm/?$ Module/NewBusiness/PartnershipFirm.php [L]
+RewriteRule ^NewBusiness/OnepersonCompany/?$ Module/NewBusiness/OnepersonCompany.php [L]
+RewriteRule ^NewBusiness/LimitedLiabilityPartnerhsip/?$ Module/NewBusiness/LimitedLiabilityPartnerhsip.php [L]
+RewriteRule ^NewBusiness/PrivateLimitedCompany/?$ Module/NewBusiness/PrivateLimitedCompany.php [L]
+RewriteRule ^NewBusiness/PublicLimitedCompany/?$ Module/NewBusiness/PublicLimitedCompany.php [L]
+RewriteRule ^NewBusiness/ProducerCompany/?$ Module/NewBusiness/ProducerCompany.php [L]
+RewriteRule ^Registration/Pan/?$ Module/Registration/Pan.php [L]
+RewriteRule ^Registration/Tan/?$ Module/Registration/Tan.php [L]
+RewriteRule ^Registration/Gst/?$ Module/Registration/Gst.php [L]
+RewriteRule ^Registration/MsmeUdyam/?$ Module/Registration/MsmeUdyam.php [L]
+RewriteRule ^Registration/RegistrarofFirm/?$ Module/Registration/RegistrarofFirm.php [L]
+RewriteRule ^Registration/ImportExport/?$ Module/Registration/ImportExport.php [L]
+RewriteRule ^Registration/LegalEntityIndetifier/?$ Module/Registration/LegalEntityIndetifier.php [L]
+RewriteRule ^Registration/Pf/?$ Module/Registration/Pf.php [L]
+RewriteRule ^Registration/Esic/?$ Module/Registration/Esic.php [L]
+RewriteRule ^Registration/ProfessionalTax/?$ Module/Registration/ProfessionalTax.php [L]
+RewriteRule ^Registration/Fssi/?$ Module/Registration/Fssi.php [L]
+RewriteRule ^Registration/Icegate/?$ Module/Registration/Icegate.php [L]
+RewriteRule ^Registration/HalalLicense/?$ Module/Registration/HalalLicense.php [L]
+RewriteRule ^Registration/TradeLicense/?$ Module/Registration/TradeLicense.php [L]
+RewriteRule ^Registration/IsoRegistration/?$ Module/Registration/IsoRegistration.php [L]
+RewriteRule ^Registration/RcmcRegistration/?$ Module/Registration/RcmcRegistration.php [L]
