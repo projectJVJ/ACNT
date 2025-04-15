@@ -76,48 +76,54 @@
     <section id="featured-services" class="featured-services section">
       <div class="container mt-5">
         <div class="row">
-          <div class="col-lg-4 mb-5">
-            <div class="service-item text-center p-5">
-              <div class="icon"><i class="bi bi-person-fill"></i></div>
-              <h4><a href="/acnt/NewBusiness/Proprietorship.php" class="stretched-link">Proprietorship</a></h4>
-              <p>Easily set up a sole proprietorship online with GST registration.</p>
-            </div>
+          <div class="col-lg-4 mb-5"><a href="/acnt/NewBusiness/Proprietorship.php">
+              <div class="service-item text-center p-5">
+                <div class="icon"><i class="bi bi-person-fill"></i></div>
+                <h4>Proprietorship</h4>
+                <p>Easily set up a sole proprietorship online with GST registration.</p>
+              </div>
+            </a>
           </div>
-          <div class="col-lg-4 mb-5">
-            <div class="service-item text-center p-5">  
-              <div class="icon"><i class="bi bi-people"></i></div>
-              <h4><a href="/acnt/NewBusiness/PartnershipFirm.php" class="stretched-link">Partnership Firm</a></h4>
-              <p>Get your partnership firm deed drafted by our experts, along with firm PAN and GST
-                registration.</p>
-            </div>
+          <div class="col-lg-4 mb-5"><a href="/acnt/NewBusiness/PartnershipFirm.php">
+              <div class="service-item text-center p-5">
+                <div class="icon"><i class="bi bi-people"></i></div>
+                <h4>Partnership Firm</h4>
+                <p>Get your partnership firm deed drafted by our experts, along with firm PAN and GST
+                  registration.</p>
+              </div>
+            </a>
           </div>
-          <div class="col-lg-4 mb-5">
-            <div class="service-item text-center p-5">
-              <div class="icon"><i class="bi bi-person-badge"></i></div>
-              <h4><a href="/acnt/NewBusiness/OnepersonCompany.php" class="stretched-link">One person Company</a></h4>
-              <p>Instant Name Application for Company.</p>
-            </div>
+          <div class="col-lg-4 mb-5"><a href="/acnt/NewBusiness/OnepersonCompany.php">
+              <div class="service-item text-center p-5">
+                <div class="icon"><i class="bi bi-person-badge"></i></div>
+                <h4>One person Company</h4>
+                <p>Instant Name Application for Company.</p>
+              </div>
+            </a>
           </div>
-          <div class="col-lg-4 mb-5">
-            <div class="service-item text-center p-5">
-              <div class="icon"><i class="bi bi-people"></i></div>
-              <h4><a href="/acnt/NewBusiness/LimitedLiabilityPartnerhsip.php" class="stretched-link">Limited Liability Partnerhsip</a></h4>
-              <p>Instant Name Application for LLP.</p>
-            </div>
+          <div class="col-lg-4 mb-5"><a href="/acnt/NewBusiness/LimitedLiabilityPartnerhsip.php">
+              <div class="service-item text-center p-5">
+                <div class="icon"><i class="bi bi-people"></i></div>
+                <h4>Limited Liability Partnerhsip</h4>
+                <p>Instant Name Application for LLP.</p>
+              </div>
+            </a>
           </div>
-          <div class="col-lg-4 mb-5">
-            <div class="service-item text-center p-5">
-              <div class="icon"><i class="bi bi-building"></i></div>
-              <h4><a href="/acnt/NewBusiness/PrivateLimitedCompany.php" class="stretched-link">Private Limited Company</a></h4>
-              <p>Instant Name Application for Company.</p>
-            </div>
+          <div class="col-lg-4 mb-5"><a href="/acnt/NewBusiness/PrivateLimitedCompany.php">
+              <div class="service-item text-center p-5">
+                <div class="icon"><i class="bi bi-building"></i></div>
+                <h4>Private Limited Company</h4>
+                <p>Instant Name Application for Company.</p>
+              </div>
+            </a>
           </div>
-          <div class="col-lg-4 mb-5">
-            <div class="service-item text-center p-5">
-              <div class="icon"><i class="bi bi-building"></i></div>
-              <h4><a href="/acnt/NewBusiness/PublicLimitedCompany.php" class="stretched-link">Public Limited Company</a></h4>
-              <p>Easily incorporate a Public Limited Company through Hiva Professionals.</p>
-            </div>
+          <div class="col-lg-4 mb-5"><a href="/acnt/NewBusiness/PublicLimitedCompany.php">
+              <div class="service-item text-center p-5">
+                <div class="icon"><i class="bi bi-building"></i></div>
+                <h4>Public Limited Company</h4>
+                <p>Easily incorporate a Public Limited Company through Hiva Professionals.</p>
+              </div>
+            </a>
           </div>
         </div>
       </div>
