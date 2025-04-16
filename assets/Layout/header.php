@@ -132,7 +132,7 @@
             </ul>
           </li>
           <li class="dropdown">
-            <a href="#"><span>ROC/MCA</span> <i class="toggle-dropdown"></i></a>
+          <a href="/acnt/Module/MCA/MCA.php"><span>ROC/MCA</span> <i class="toggle-dropdown"></i></a>
           </li>
           <li class="dropdown">
             <a href="#"><span>Finance</span> <i class="toggle-dropdown"></i></a>
@@ -164,9 +164,7 @@
 
     </div>
   </header>
-  <!-- Scroll Top -->
-  <a href="#" id="scroll-top" class="scroll-top d-flex align-items-center justify-content-center"><i
-      class="bi bi-arrow-up-short"></i></a>
+ 
 
   <!-- Preloader -->
   <div id="preloader"></div>

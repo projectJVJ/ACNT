@@ -14,7 +14,7 @@
                 <div class="row">
                     <div class="col-md-5 ps-3 first-card p-0">
                         <div class="card border-0">
-                            <img src="../../assets/img/cc_od_limits.png" height="250px" width="250px" class="card-img-top rounded-lg w-90" alt="WCTL_img">
+                            <img src="../../assets/img/cc_od_limits.png" height="" width="" class="card-img-top rounded-lg w-90" alt="New Project Loan_img">
                             <div class="card-body p-0 pt-3 d-grid gap-2">
                                 <span>Pan Card</span>
                                 <span>Aadhar Card</span>
@@ -38,7 +38,7 @@
 
             <?php include "../../assets/layout/ScheduleAppointment.php"; ?>
 
-            <div class="col-md-12 p-3 my-5 main-container-border-radius">
+            <div class="col-md-12 p-3 mt-5 main-container-border-radius">
                 <div class="card border-0" id="paragraph">
                     <h3 class="mb-4 text-center">New Project Loan – Empower Your Business Vision</h3>
 

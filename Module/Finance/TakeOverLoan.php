@@ -14,7 +14,7 @@
                 <div class="row">
                     <div class="col-md-5 ps-3 first-card p-0">
                         <div class="card border-0">
-                            <img src="../../assets/img/cc_od_limits.png" height="250px" width="250px" class="card-img-top rounded-lg w-90" alt="WCTL_img">
+                            <img src="../../assets/img/cc_od_limits.png" height="" width="" class="card-img-top rounded-lg w-90" alt="Take Over Loan img">
                             <div class="card-body p-0 pt-3 d-grid gap-2">
                                 <span>Pan Card</span>
                                 <span>Aadhar Card</span>
@@ -38,7 +38,7 @@
 
             <?php include "../../assets/layout/ScheduleAppointment.php"; ?>
 
-            <div class="col-md-12 p-3 my-5 main-container-border-radius">
+            <div class="col-md-12 p-3 mT-5 main-container-border-radius">
                 <div class="card border-0" id="paragraph">
                     <section>
                         <h3 class="mb-4 text-center">Takeover of Existing Loan</h3>
@@ -75,7 +75,7 @@
                         </section>
 
                         <h4 class="mt-4">Key Differences Before and After Loan Takeover</h4>
-                        <div class="table-responsive mb-5">
+                        <div class="table-responsive mb-3   ">
                             <table class="table table-bordered table-striped">
                                 <thead class="table-light">
                                     <tr>

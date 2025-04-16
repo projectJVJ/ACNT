@@ -2,7 +2,7 @@
 
 <head>
     <meta charset="UTF-8">
-    <title>Partnership Firm Registration</title>
+    <title>CMA Preparation</title>
 </head>
 
 <body>
@@ -14,7 +14,7 @@
                 <div class="row">
                     <div class="col-md-5 ps-3 first-card p-0">
                         <div class="card border-0">
-                            <img src="../../assets/img/CMA_preparation.webp" height="250px" width="250px" class="card-img-top rounded-lg w-90" alt="CMA Preparation img">
+                            <img src="../../assets/img/CMA_preparation.webp" height="225px" width="225px" class="card-img-top rounded-lg w-90" alt="CMA Preparation img">
                             <div class="card-body p-0 pt-3 d-grid gap-2">
                                 <span>Pan Card</span>
                                 <span>Aadhar Card</span>
@@ -27,11 +27,9 @@
                         <div class="card border-0">
                             <h4>CMA Preparation</h4>
                             <p><span class="text-primary fw-bold">4.3</span> 7596 Customers</p>
-                            <p>Get your partnership firm deed drafted by our experts, along with firm PAN and GST
+                            <p>Get your CMA Preparation drafted by our experts, along with firm PAN and GST
                                 registration.
                             </p>
-
-
 
                         </div>
                     </div>
@@ -40,7 +38,7 @@
             </div>
             <?php include "../../assets/layout/ScheduleAppointment.php"; ?>
 
-            <div class="col-md-12 p-3 my-5 main-container-border-radius">
+            <div class="col-md-12 p-3 mt-5 main-container-border-radius">
                 <div class="card border-0" id="paragraph">
                     <h3 class="mb-4 text-center">CMA Preparation in Finance</h3>
                     <p>
@@ -61,7 +59,7 @@
                             <li>Personalized study plans based on your learning pace</li>
                             <li>Mock exams and performance analytics for continuous improvement</li>
                             <li>Guidance for exam registration, eligibility, and IMA procedures</li>
-                        </ul>
+                        </ul>           
 
                         <h4 class="mt-4">CMA Exam Structure Overview</h4>
                         <div class="table-responsive">

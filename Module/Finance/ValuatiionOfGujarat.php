@@ -14,7 +14,7 @@
                 <div class="row">
                     <div class="col-md-5 ps-3 first-card p-0">
                         <div class="card border-0">
-                            <img src="../../assets/img/cc_od_limits.png" height="250px" width="250px" class="card-img-top rounded-lg w-90" alt="WCTL_img">
+                            <img src="../../assets/img/cc_od_limits.png" height="" width="" class="card-img-top rounded-lg w-90" alt="Value Of Gujarat img">
                             <div class="card-body p-0 pt-3 d-grid gap-2">
                                 <span>Pan Card</span>
                                 <span>Aadhar Card</span>
@@ -38,7 +38,7 @@
 
             <?php include "../../assets/layout/ScheduleAppointment.php"; ?>
 
-            <div class="col-md-12 p-3 my-5 main-container-border-radius">
+            <div class="col-md-12 p-3 mT-5 main-container-border-radius">
                 <div class="card border-0" id="paragraph">
                     <h3 class="mb-4 text-center">Valuation of Immovable Properties in Gujarat</h3>
                     <p>
@@ -50,6 +50,7 @@
                     </p>
 
                     <h4 class="mt-4">Purpose of Immovable Property Valuation</h4>
+                    <section>
                     <ul>
                         <li>Loan approvals and mortgage processing</li>
                         <li>Property sale or purchase transactions</li>
@@ -71,6 +72,7 @@
                         <li>Encumbrances, legal title, and documentation</li>
                         <li>Comparable sales method and rental yield approach</li>
                     </ul>
+                    </section>
 
                     <h4 class="mt-4">Common Methods of Property Valuation</h4>
                     <table class="table table-bordered table-striped mt-3">
@@ -104,6 +106,7 @@
                     <p>
                         In Gujarat, property valuation must align with legal norms established by:
                     </p>
+                    <section>
                     <ul>
                         <li>Gujarat Stamp Act for determining stamp duty and registration charges</li>
                         <li>Guideline values set by local authorities (Jantri rates)</li>
@@ -115,6 +118,7 @@
                     <p>
                         At <strong>Hiva Professionals</strong>, we specialize in delivering reliable and accurate valuation services across Gujarat. Our certified valuers and finance experts combine technical know-how with market insights to ensure precision and compliance in every report.
                     </p>
+                    <section>
                     <ul>
                         <li>Expertise in local property markets and trends</li>
                         <li>Certified by government and regulatory bodies</li>
@@ -123,6 +127,7 @@
                         <li>Valuation for banks, NBFCs, corporates, and individuals</li>
                         <li>Consultation for investment and tax efficiency</li>
                     </ul>
+                    </section>
 
                     <p>
                         Whether you're planning to invest, divest, mortgage, or simply understand the value of your property, <strong>Hiva Professionals</strong> is your trusted partner. Let our experience and commitment to accuracy guide your financial and real estate decisions in Gujarat.

@@ -14,7 +14,7 @@
                 <div class="row">
                     <div class="col-md-5 ps-3 first-card p-0">
                         <div class="card border-0">
-                            <img src="../../assets/img/cc_od_limits.png" height="250px" width="250px" class="card-img-top rounded-lg w-90" alt="WCTL_img">
+                            <img src="../../assets/img/WCTL.png" height="225px" width="225px" class="card-img-top rounded-lg w-90" alt="WCTL_img">
                             <div class="card-body p-0 pt-3 d-grid gap-2">
                                 <span>Pan Card</span>
                                 <span>Aadhar Card</span>
@@ -25,9 +25,9 @@
                     </div>
                     <div class="col-md-7 ps-5">
                         <div class="card border-0">
-                            <h4>CC/OD Limits</h4>
+                            <h4>(WCTL)Working Capital Term Loan</h4>
                             <p><span class="text-primary fw-bold">4.3</span> 7596 Customers</p>
-                            <p>Get your Bank Loan Assistance by our experts, along with firm PAN and GST
+                            <p>Get your Working Capital Term Loan by our experts, along with firm PAN and GST
                                 registration.
                             </p>
                         </div>
@@ -38,10 +38,9 @@
 
             <?php include "../../assets/layout/ScheduleAppointment.php"; ?>
 
-            <div class="col-md-12 p-3 my-5 main-container-border-radius">
+            <div class="col-md-12 p-3 mt-5 main-container-border-radius">
                 <div class="card border-0" id="paragraph">
                     <h3 class="mb-4 text-center">WCTL (Working Capital Term Loan) </h3>
-                    <h4>Working Capital Term Loan (WCTL)</h4>
                     <p>
                         <strong>Working Capital Term Loan (WCTL)</strong> is a financial solution offered by banks and financial institutions to help businesses meet their working capital needs when there is a shortfall that cannot be covered by standard credit limits or facilities. It is particularly useful for companies experiencing seasonal cash flow issues, expanding operations, or facing delays in receivables.
                     </p>
@@ -50,7 +49,7 @@
                         WCTL is often provided as a one-time loan repayable over a fixed period, usually in monthly or quarterly installments. Unlike cash credit or overdraft facilities, which are revolving in nature, WCTL is structured like a term loan with a fixed tenure and EMI structure.
                     </p>
                     <section>
-                        <h4 class="mt-4">Key Features of WCTL</h4>
+                        <h4>Key Features of WCTL</h4>
                         <ul class="mb-4">
                             <li><strong>Purpose:</strong> To supplement working capital requirements not covered by existing credit limits.</li>
                             <li><strong>Tenure:</strong> Typically ranges from 1 to 5 years depending on the lender’s policy and business profile.</li>
@@ -75,7 +74,7 @@
                             <li>Improves credibility with suppliers and clients through consistent cash flow management.</li>
                         </ul>
                     </section>
-                    <h4 class="mt-4">Comparison: WCTL vs Cash Credit</h4>
+                    <h4>Comparison: WCTL vs Cash Credit</h4>
                     <div class="table-responsive mb-4">
                         <table class="table table-bordered table-striped">
                             <thead class="table-light">
@@ -115,7 +114,7 @@
                         </table>
                     </div>
 
-                    <h4 class="mt-4">Conclusion</h4>
+                    <h4>Conclusion</h4>
                     <p>
                         WCTL is a vital instrument for businesses aiming to bridge short-term financial gaps without over-relying on revolving credit lines. With structured repayment and defined tenure, it promotes financial discipline and ensures businesses have access to liquidity during crucial phases. If managed well, it can become a powerful support mechanism for sustainable growth and operational stability.
                     </p>

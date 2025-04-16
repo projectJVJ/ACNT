@@ -14,7 +14,7 @@
                 <div class="row">
                     <div class="col-md-5 ps-3 first-card p-0">
                         <div class="card border-0">
-                            <img src="../../assets/img/cc_od_limits.png" height="250px" width="250px" class="card-img-top rounded-lg w-90" alt="WCTL_img">
+                            <img src="../../assets/img/cc_od_limits.png" height="" width="" class="card-img-top rounded-lg w-90" alt="Expansion Loan img">
                             <div class="card-body p-0 pt-3 d-grid gap-2">
                                 <span>Pan Card</span>
                                 <span>Aadhar Card</span>
@@ -38,14 +38,14 @@
 
             <?php include "../../assets/layout/ScheduleAppointment.php"; ?>
 
-            <div class="col-md-12 p-3 my-5 main-container-border-radius">
+            <div class="col-md-12 p-3 mT-5 main-container-border-radius">
                 <div class="card border-0" id="paragraph">
                         <h3 class="mb-4 text-center">Expansion Loan: Fueling Business Growth</h3>
 
                         <p>
                             An <strong>Expansion Loan</strong> is a specialized financial solution designed to help businesses scale operations, enter new markets, or enhance their infrastructure. Whether you're adding new branches, purchasing advanced equipment, or launching a new product line, expansion loans offer the capital necessary to execute your growth strategies without disrupting day-to-day operations.
                         </p>
-
+                        
                         <p>
                             This type of loan is structured to support both short-term needs and long-term investment goals, enabling businesses to thrive in competitive markets. With flexible repayment terms and competitive interest rates, expansion loans are ideal for ambitious entrepreneurs and growing enterprises.
                         </p>

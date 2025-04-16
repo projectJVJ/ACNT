@@ -14,7 +14,7 @@
                 <div class="row">
                     <div class="col-md-5 ps-3 first-card p-0">
                         <div class="card border-0">
-                            <img src="../../assets/img/cc_od_limits.png" height="250px" width="250px" class="card-img-top rounded-lg w-90" alt="WCTL_img">
+                            <img src="../../assets/img/cc_od_limits.png"  class="card-img-top rounded-lg w-90" alt="Re Finance img">
                             <div class="card-body p-0 pt-3 d-grid gap-2">
                                 <span>Pan Card</span>
                                 <span>Aadhar Card</span>
@@ -38,7 +38,7 @@
 
             <?php include "../../assets/layout/ScheduleAppointment.php"; ?>
 
-            <div class="col-md-12 p-3 my-5 main-container-border-radius">
+            <div class="col-md-12 p-3 mt-5 main-container-border-radius">
                 <div class="card border-0" id="paragraph">
                         <div class="container">
                             <h3 class="mb-4 text-center">Understanding Re-Finance in Finance</h3>
@@ -51,6 +51,7 @@
                             </p>
 
                             <h4 class="mt-4">Benefits of Re-Financing</h4>
+                            <section>
                             <ul>
                                 <li><strong>Lower Interest Rates:</strong> Replacing a high-interest loan with one that offers a lower rate can save a significant amount of money over time.</li>
                                 <li><strong>Reduced Monthly Payments:</strong> Spreading repayment over a longer term can ease monthly financial pressure.</li>
@@ -68,6 +69,7 @@
                                 <li>You want to consolidate multiple debts into a single payment.</li>
                                 <li>You’re looking to reduce financial stress with more favorable terms.</li>
                             </ul>
+                            </section>
 
                             <h4 class="mt-4">Comparison: Original Loan vs. Refinanced Loan</h4>
                             <div class="table-responsive my-3">
@@ -113,6 +115,7 @@
                             <p>
                                 At <strong>Hiva Professionals</strong>, we specialize in helping individuals and businesses unlock the full potential of refinancing. Our financial experts provide personalized analysis, recommend the best refinancing options, and guide you through the entire process with clarity and confidence.
                             </p>
+                            <section>
                             <ul>
                                 <li><strong>Tailored Advice:</strong> Every financial situation is unique—we offer customized refinancing strategies to match your goals.</li>
                                 <li><strong>Access to Top Lenders:</strong> We connect you with trusted banking and financial partners offering competitive terms.</li>
@@ -120,6 +123,7 @@
                                 <li><strong>Ethical and Transparent:</strong> We believe in honest guidance without hidden fees or biased suggestions.</li>
                                 <li><strong>Faster Approvals:</strong> With our experience and network, we help streamline the refinance process for quick results.</li>
                             </ul>
+                            </section>
 
                             <p class="mt-4">
                                 If you're looking to improve your financial health, reduce debt burdens, or explore smarter ways to manage cash flow—<strong>refinancing with Hiva Professionals</strong> is the right step forward.

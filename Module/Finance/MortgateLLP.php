@@ -2,7 +2,7 @@
 
 <head>
     <meta charset="UTF-8">
-    <title>WCTL</title>
+    <title>Mortgage and LLP</title>
 </head>
 
 <body>
@@ -14,7 +14,7 @@
                 <div class="row">
                     <div class="col-md-5 ps-3 first-card p-0">
                         <div class="card border-0">
-                            <img src="../../assets/img/cc_od_limits.png" height="250px" width="250px" class="card-img-top rounded-lg w-90" alt="WCTL_img">
+                            <img src="../../assets/img/cc_od_limits.png" class="card-img-top rounded-lg w-90" alt="Mortgate and LLP img">
                             <div class="card-body p-0 pt-3 d-grid gap-2">
                                 <span>Pan Card</span>
                                 <span>Aadhar Card</span>
@@ -25,9 +25,9 @@
                     </div>
                     <div class="col-md-7 ps-5">
                         <div class="card border-0">
-                            <h4>CC/OD Limits</h4>
+                            <h4>Mortgage and LLP</h4>
                             <p><span class="text-primary fw-bold">4.3</span> 7596 Customers</p>
-                            <p>Get your Bank Loan Assistance by our experts, along with firm PAN and GST
+                            <p>Get your Mortgage and LLP Done by our experts, along with firm PAN and GST
                                 registration.
                             </p>
                         </div>
@@ -38,7 +38,7 @@
 
             <?php include "../../assets/layout/ScheduleAppointment.php"; ?>
 
-            <div class="col-md-12 p-3 my-5 main-container-border-radius">
+            <div class="col-md-12 p-3 mt-5 main-container-border-radius">
                 <div class="card border-0" id="paragraph">
                     <h3 class="mb-3 text-center">Mortgage and LLP in Finance</h3>
                     <p>
@@ -49,7 +49,7 @@
                     <p>
                         A mortgage is a type of secured loan where real estate or property is used as collateral. It is commonly used by individuals or businesses to purchase property without paying the full amount upfront. Mortgages are paid back in installments over a specified term, typically 10 to 30 years.
                     </p>
-
+                    <section>
                     <ul>
                         <li><strong>Loan Purpose:</strong> Primarily used to finance the purchase of residential or commercial property.</li>
                         <li><strong>Repayment:</strong> Monthly EMIs comprising both principal and interest.</li>
@@ -70,6 +70,7 @@
                         <li><strong>Compliance:</strong> Fewer regulatory requirements compared to private limited companies.</li>
                         <li><strong>Management:</strong> Managed by designated partners with mutual agreement on roles.</li>
                     </ul>
+                    </section>
 
                     <h4 class="mt-4">Comparison Table: Mortgage vs LLP</h4>
                     <div class="table-responsive">
@@ -129,7 +130,8 @@
                     <p>
                         <strong>Hiva Professionals</strong> stands out as a trusted name in financial education and consultancy. Our dedicated team of experts offers personalized guidance in areas like mortgage finance, LLP registration, tax structuring, and strategic financial planning. We blend practical industry experience with up-to-date knowledge to empower our clients with actionable insights.
                     </p>
-
+                    
+                    <section>
                     <ul>
                         <li>Expert-led training and consultancy services tailored to financial and legal needs</li>
                         <li>End-to-end support for LLP registration and compliance</li>
@@ -137,6 +139,7 @@
                         <li>Workshops and personalized sessions to improve your financial literacy</li>
                         <li>Trusted by entrepreneurs, professionals, and growing businesses across sectors</li>
                     </ul>
+                    </section>
 
                     <p>
                         Choosing Hiva Professionals means you're not just making a financial decision — you're choosing clarity, confidence, and long-term support. Partner with us to build a future that’s financially secure and legally compliant.

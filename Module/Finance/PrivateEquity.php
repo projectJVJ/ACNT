@@ -14,7 +14,7 @@
                 <div class="row">
                     <div class="col-md-5 ps-3 first-card p-0">
                         <div class="card border-0">
-                            <img src="../../assets/img/cc_od_limits.png" height="250px" width="250px" class="card-img-top rounded-lg w-90" alt="WCTL_img">
+                            <img src="../../assets/img/cc_od_limits.png" height="" width="" class="card-img-top rounded-lg w-90" alt="Private Equity img">
                             <div class="card-body p-0 pt-3 d-grid gap-2">
                                 <span>Pan Card</span>
                                 <span>Aadhar Card</span>
@@ -38,7 +38,7 @@
 
             <?php include "../../assets/layout/ScheduleAppointment.php"; ?>
 
-            <div class="col-md-12 p-3 my-5 main-container-border-radius">
+            <div class="col-md-12 p-3 mt-5 main-container-border-radius">
                 <div class="card border-0" id="paragraph">
                     <h3 class="mb-4 text-center">Understanding Private Equity in Finance</h3>
 
@@ -51,6 +51,7 @@
                     </p>
 
                     <h4 class="mt-4">Key Features of Private Equity:</h4>
+                    <section>
                     <ul>
                         <li><strong>Long-Term Investment Horizon:</strong> Typically 5 to 10 years before exit.</li>
                         <li><strong>Active Management:</strong> PE firms often play a hands-on role in company strategy and operations.</li>
@@ -60,7 +61,6 @@
                     </ul>
 
                     <h4 class="mt-4">Types of Private Equity Investments:</h4>
-                    <section>
                     <ul>
                         <li><strong>Venture Capital:</strong> Focuses on early-stage startups with high growth potential.</li>
                         <li><strong>Growth Capital:</strong> Investment in mature companies looking to expand or restructure.</li>
@@ -109,13 +109,11 @@
                         <li>Opportunities for innovation and market expansion</li>
                         <li>Enhanced governance and performance tracking</li>
                     </ul>
-                    </section>
 
                     <h4 class="mt-4">Why Choose Hiva Professionals?</h4>
                     <p>
                         At <strong>Hiva Professionals</strong>, we provide comprehensive insights and training on Private Equity, blending real-world case studies with industry best practices. Whether you are an aspiring financial analyst, entrepreneur, or business leader, our programs are designed to help you:
                     </p>
-                    <section>
                     <ul>
                         <li>Understand the nuances of private equity structures and strategies</li>
                         <li>Gain hands-on experience in financial modeling and deal analysis</li>

@@ -2,7 +2,7 @@
 
 <head>
     <meta charset="UTF-8">
-    <title>Partnership Firm Registration</title>
+    <title>Bank Loan Assistance</title>
 </head>
 
 <body>
@@ -14,7 +14,8 @@
                 <div class="row">
                     <div class="col-md-5 ps-3 first-card p-0">
                         <div class="card border-0">
-                            <img src="../../assets/img/BankLoanAssistance.jpg" height="250px" width="250px" class="card-img-top rounded-lg w-90" alt="Bank Loan Assistance">
+                        <img src="/acnt/assets/img/BankLoanAssistance.jpg"  height="225px" width="225px" class="card-img-top rounded-lg w-90"
+                        alt="Bank loan Assistance img">
                             <div class="card-body p-0 pt-3 d-grid gap-2">
                                 <span>Pan Card</span>
                                 <span>Aadhar Card</span>
