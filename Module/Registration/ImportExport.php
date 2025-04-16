@@ -14,7 +14,7 @@
                 <div class="row">
                     <div class="col-md-5 ps-3 first-card p-0">
                         <div class="card border-0">
-                            <img src="../../assets/img/services.jpg" class="card-img-top rounded-lg w-90"
+                            <img src="/acnt/assets/img/ImportExport.jpg" class="card-img-top rounded-lg w-90"
                                 alt="Partnership Registration">
                             <div class="card-body p-0 pt-3 d-grid gap-2">
                                 <span>Pan Card</span>
@@ -38,9 +38,11 @@
             <?php include "../../assets/layout/ScheduleAppointment.php"; ?>
             <div class="col-md-12 col1 p-3 ps-4 mt-5 height-fit-content main-container-border-radius">
                 <div class="card border-0" id="paragraph">
+                    <div class="text-center">
                     <h3>Importer Exporter Code (IEC) Registration Online</h3>
-                    <p class="lead">Unlock International Trade Opportunities with Hiva Professionals</p>
-                    <h3 class="section-title">What is IEC Code (Import Export Code)?</h3>
+                    <p>Unlock International Trade Opportunities with Hiva Professionals</p>
+                    </div>
+                    <h4>What is IEC Code (Import Export Code)?</h4>
                     <p>IEC stands for Importer Exporter Code, a 10-digit unique code issued by the Directorate General
                         of Foreign Trade (DGFT) under the Ministry of Commerce. This code is mandatory for any business
                         in India involved in importing or exporting goods and services.</p>

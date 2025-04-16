@@ -14,8 +14,8 @@
                 <div class="row">
                     <div class="col-md-5 ps-3 first-card p-0">
                         <div class="card border-0">
-                            <img src="../../assets/img/services.jpg" class="card-img-top rounded-lg w-90"
-                                alt="Partnership Registration">
+                            <img src="/acnt/assets/img/IsoRegistration.jpg" class="card-img-top rounded-lg w-90"
+                                alt="ISO Registration">
                         </div>
                     </div>
                     <div class="col-md-7 ps-5">
@@ -35,7 +35,7 @@
             <div class="col-md-12 col1 p-3 ps-4 mt-5 height-fit-content main-container-border-radius">
                 <div class="card border-0" id="paragraph">
                     <section>
-                        <h3>What is ISO Registration?</h3>
+                        <h3 class="text-center">What is ISO Registration?</h3>
                         <p>ISO registration refers to registering an organization with an external certification body to
                             obtain certification for compliance with one or more standards established by the
                             International Organization for Standardization (ISO). ISO is a non-governmental, independent

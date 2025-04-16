@@ -14,8 +14,8 @@
                 <div class="row">
                     <div class="col-md-5 ps-3 first-card p-0">
                         <div class="card border-0">
-                            <img src="../../assets/img/services.jpg" class="card-img-top rounded-lg w-90"
-                                alt="Partnership Registration">
+                            <img src="/acnt/assets/img/PanCard.jpg" height="225px" width="225px" class="card-img-top rounded-lg w-90"
+                                alt="TAN Card">
                         </div>
                     </div>
                     <div class="col-md-7 ps-5">
@@ -31,7 +31,7 @@
             <?php include "../../assets/layout/ScheduleAppointment.php"; ?>
             <div class="col-md-12 col1 p-3 ps-4 mt-5 height-fit-content main-container-border-radius">
                 <div class="card border-0" id="paragraph">
-                    <h3>TAN Number Registration in India</h3>
+                    <h3 class="text-center">TAN Number Registration in India</h3 >
                     <p>Simplify Tax Deduction Compliance with Easy TAN Registration from Hiva
                         Professionals</p>
                     <h4>What is TAN?</h4>
@@ -40,6 +40,7 @@
                         depositing tax, and issuing certificates like Form 16/16A. TAN must be quoted in all
                         TDS-related documents.</p>
                     <h4>Who Needs TAN Registration?</h4>
+                    <section>
                     <ul>
                         <li>Employers deducting TDS on salary</li>
                         <li>Businesses paying rent, contractor, or professional fees</li>
@@ -49,11 +50,10 @@
                     </ul>
                     <h4>Benefits of TAN Number</h4>
                     <ul>
-                        <li><span>✔️</span> Mandatory for TDS compliance</li>
-                        <li><span>✔️</span> Avoid ₹10,000 penalty for non-compliance</li>
-                        <li><span>✔️</span> Valid across India for lifetime</li>
-                        <li><span>✔️</span> Builds credibility with partners and clients
-                        </li>
+                        <li>Mandatory for TDS compliance</li>
+                        <li>Avoid ₹10,000 penalty for non-compliance</li>
+                        <li>Valid across India for lifetime</li>
+                        <li>Builds credibility with partners and clients</li>
                     </ul>
                     <h4>TAN vs PAN – Key Differences</h4>
                     <div class="table-responsive">
@@ -98,12 +98,12 @@
                         <li>Contact Details (Phone & Email)</li>
                     </ul>
                     <h4>TAN Application Process</h4>
-                    <ol>
+                    <ul>
                         <li><strong>Select Applicant Type:</strong> Company, Individual, Trust, LLP, etc.</li>
                         <li><strong>Fill Form 49B:</strong> Online submission of details</li>
                         <li><strong>Attach Documents:</strong> Upload or send signed form</li>
                         <li><strong>Get TAN Allotted:</strong> TAN issued after verification</li>
-                    </ol>
+                    </ul>
                     <h4>Penalty for Not Having TAN</h4>
                         <p>As per Section 272BB of the Income Tax Act, failure to apply for TAN or quoting an
                             incorrect TAN attracts a penalty of ₹10,000. TDS returns filed without a TAN are
@@ -113,18 +113,18 @@
                             href="https://tin.tin.nsdl.com" target="_blank">TIN NSDL portal</a>.</p>
                     <h4>Why Choose Hiva Professionals?</h4>
                     <ul>
-                        <li>✅ Expert guidance on all TDS/TAN-related filings</li>
-                        <li>✅ 100% online and hassle-free process</li>
-                        <li>✅ Affordable pricing with transparent packages</li>
-                        <li>✅ Quick turnaround time & dedicated support</li>
+                        <li> Expert guidance on all TDS/TAN-related filings</li>
+                        <li> 100% online and hassle-free process</li>
+                        <li> Affordable pricing with transparent packages</li>
+                        <li> Quick turnaround time & dedicated support</li>
                     </ul>
+                    </section>
                 </div>
-                <h3>Start Your TAN Registration with Hiva Professionals Today!</h3>
-                <p class="lead">Avoid penalties and simplify compliance – contact our experts now.</p>
+                <h4>Start Your TAN Registration with Hiva Professionals Today!</h4>
+                <p>Avoid penalties and simplify compliance – contact our experts now.</p>
 
             </div>
         </div>
-        <?php include 'NewBusinessFooter.php'; ?>
 
         <?php include '../../assets/layout/main_footer.php'; ?>
 

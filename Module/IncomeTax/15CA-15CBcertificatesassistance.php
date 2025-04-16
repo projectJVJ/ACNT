@@ -13,7 +13,7 @@
                 <div class="row">
                     <div class="col-md-5 ps-3 first-card p-0">
                         <div class="card border-0">
-                            <img src="../../assets/img/OnepersonCompany.jpg" class="card-img-top rounded-lg w-90"
+                            <img src="/acnt/assets/img/15CertificateAssistance.png" height="225px" width="225px" class="card-img-top rounded-lg w-90"
                                 alt="15CA-15CB certificates assistance">
                         </div>
                     </div>

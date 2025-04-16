@@ -14,7 +14,7 @@
                 <div class="row">
                     <div class="col-md-5 ps-3 first-card p-0">
                         <div class="card border-0">
-                            <img src="../../assets/img/cc_od_limits.png"  class="card-img-top rounded-lg w-90" alt="Re Finance img">
+                            <img src="../../assets/img/ReFinance.jpg"  class="card-img-top rounded-lg w-90" alt="Re Finance img">
                             <div class="card-body p-0 pt-3 d-grid gap-2">
                                 <span>Pan Card</span>
                                 <span>Aadhar Card</span>

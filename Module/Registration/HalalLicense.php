@@ -15,7 +15,7 @@
                     <div class="col-md-5 ps-3 first-card p-0">
                         <div class="card border-0">
                             <img src="../../assets/img/services.jpg" class="card-img-top rounded-lg w-90"
-                                alt="Partnership Registration">
+                                alt="Halal License & Certification image">
                         </div>
                     </div>
                     <div class="col-md-7 ps-5">

@@ -14,8 +14,8 @@
                 <div class="row">
                     <div class="col-md-5 ps-3 first-card p-0">
                         <div class="card border-0">
-                            <img src="../../assets/img/services.jpg" class="card-img-top rounded-lg w-90"
-                                alt="Partnership Registration">
+                            <img src="/acnt/assets/img/GstRegistration.jpg" class="card-img-top rounded-lg w-90"
+                                alt="GST Registration">
                             <div class="card-body p-0 pt-3 d-grid gap-2">
                                 <span>Electricity Bill</span>
                                 <span>Telephone Bill</span>
@@ -38,7 +38,7 @@
             <?php include "../../assets/layout/ScheduleAppointment.php"; ?>
             <div class="col-md-12 col1 p-3 ps-4 mt-5 height-fit-content main-container-border-radius">
                 <div class="card border-0" id="paragraph">
-                    <h3>GST Registration with Hiva Professionals</h3>
+                    <h3 class="text-center">GST Registration with Hiva Professionals</h3>
                         <p>Get Expert Assistance for Seamless GST Compliance</p>
                         <section>
                             <h4>Overview</h4>
@@ -56,14 +56,15 @@
                                 <li>Inter-state suppliers, e-commerce sellers, agents, and input service distributors
                                 </li>
                                 <li>Entities liable under reverse charge mechanism</li>
+                            </ul>
                                 <h4>GST Registration Process</h4>
-                                <ol>
+                                <ul>
                                     <li>Submit your details (name, phone, email) to Hiva Professionals</li>
                                     <li>Speak with our GST expert about your business and state of operation</li>
                                     <li>Upload required documents</li>
                                     <li>We file your application on the GST portal</li>
                                     <li>Get your GSTIN and certificate within 3 to 7 working days</li>
-                                </ol>
+                                </ul>
                                 <h4>Required Documents</h4>
                                 <p>Documents vary based on the business structure. Here's a brief overview:</p>
                                 <ul>
@@ -97,12 +98,14 @@
                                     return filing is mandatory. Hiva Professionals provides expert services for timely
                                     and
                                     accurate GST return filing.</p>
-                                <h4>Get Started Today!</h4>
+                                <div class="text-center">    
+                                <h4 >Get Started Today!</h4>
                                 <p>Ready to register for GST? Hiva Professionals is here to simplify the process and
                                     help you
                                     stay compliant with ease. Contact us now and let our experts take care of your GST
                                     needs.
                                 </p>
+                                </div>
                         </section>
                 </div>
             </div>

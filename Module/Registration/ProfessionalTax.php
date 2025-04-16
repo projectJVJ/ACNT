@@ -14,8 +14,8 @@
                 <div class="row">
                     <div class="col-md-5 ps-3 first-card p-0">
                         <div class="card border-0">
-                            <img src="../../assets/img/services.jpg" class="card-img-top rounded-lg w-90"
-                                alt="Partnership Registration">
+                            <img src="/acnt/assets/img/ProfessionalTax.jpg" class="card-img-top rounded-lg w-90"
+                                alt="Professional Tax Registration">
                             <div class="card-body p-0 pt-3 d-grid gap-2">
                                 <span>Incorporation Certificate</span>
                                 <a href="#" class="text-primary">Load More</a>
@@ -101,55 +101,56 @@
                             <li>Monthly payment: within 15 days of the next month (for more than 20 employees).</li>
                             <li>Quarterly payment: within 15 days from the end of the quarter (for less than 20
                                 employees).</li>
-                            <h4>Professional Tax Return</h4>
-                            <p>Returns must be filed as per the respective state's schedule. Ensure timely submission to
-                                avoid penalties.</p>
-                            <h4>Benefits of Registration</h4>
-                            <ul>
-                                <li>Smooth registration process</li>
-                                <li>Avoid penalties and legal issues</li>
-                                <li>Legal deduction available for paid tax</li>
-                                <li>Supports state revenue and development</li>
-                            </ul>
-                            <h4>Documents Required</h4>
-                            <ul>
-                                <li>Certificate of Incorporation / LLP Agreement</li>
-                                <li>PAN Card</li>
-                                <li>MOA and AOA</li>
-                                <li>Identity/address proofs</li>
-                                <li>NOC from landlord (if applicable)</li>
-                                <li>Employee and salary details</li>
-                            </ul>
-                            <h4>Registration Process</h4>
-                            <ol>
-                                <li>Submit application and documents to state government.</li>
-                                <li>Application is scrutinized by tax authority.</li>
-                                <li>P Tax certificate issued upon approval.</li>
-                            </ol>
-                            <h4>Penalties</h4>
-                            <p>Failure to register, delay in return filing, or late payments can lead to penalties. For
-                                example, in Maharashtra:</p>
-                            <ul>
-                                <li>Not registering: Rs. 5/day</li>
-                                <li>Late return: Rs. 1,000</li>
-                                <li>Late payment: 1.25% interest + 10% penalty</li>
-                            </ul>
-                            <h4>Why Choose Hiva Professionals?</h4>
-                            <ul>
-                                <li><strong>Expert Guidance:</strong> Navigate professional tax compliance with
-                                    confidence.
-                                </li>
-                                <li><strong>Seamless Application:</strong> We manage documentation and submission for
-                                    you.
-                                </li>
-                                <li><strong>Timely Updates:</strong> Fast, efficient, and prompt processing.</li>
-                                <li><strong>Custom Support:</strong> Solutions tailored to your profession/business.
-                                </li>
-                                <li><strong>Compliance Focused:</strong> Stay legally safe and penalty-free.</li>
-                                <li><strong>Reliable Assistance:</strong> Our team is here to support you every step of
-                                    the
-                                    way.</li>
-                            </ul>
+                        </ul>
+                        <h4>Professional Tax Return</h4>
+                        <p>Returns must be filed as per the respective state's schedule. Ensure timely submission to
+                            avoid penalties.</p>
+                        <h4>Benefits of Registration</h4>
+                        <ul>
+                            <li>Smooth registration process</li>
+                            <li>Avoid penalties and legal issues</li>
+                            <li>Legal deduction available for paid tax</li>
+                            <li>Supports state revenue and development</li>
+                        </ul>
+                        <h4>Documents Required</h4>
+                        <ul>
+                            <li>Certificate of Incorporation / LLP Agreement</li>
+                            <li>PAN Card</li>
+                            <li>MOA and AOA</li>
+                            <li>Identity/address proofs</li>
+                            <li>NOC from landlord (if applicable)</li>
+                            <li>Employee and salary details</li>
+                        </ul>
+                        <h4>Registration Process</h4>
+                        <ol>
+                            <li>Submit application and documents to state government.</li>
+                            <li>Application is scrutinized by tax authority.</li>
+                            <li>P Tax certificate issued upon approval.</li>
+                        </ol>
+                        <h4>Penalties</h4>
+                        <p>Failure to register, delay in return filing, or late payments can lead to penalties. For
+                            example, in Maharashtra:</p>
+                        <ul>
+                            <li>Not registering: Rs. 5/day</li>
+                            <li>Late return: Rs. 1,000</li>
+                            <li>Late payment: 1.25% interest + 10% penalty</li>
+                        </ul>
+                        <h4>Why Choose Hiva Professionals?</h4>
+                        <ul>
+                            <li><strong>Expert Guidance:</strong> Navigate professional tax compliance with
+                                confidence.
+                            </li>
+                            <li><strong>Seamless Application:</strong> We manage documentation and submission for
+                                you.
+                            </li>
+                            <li><strong>Timely Updates:</strong> Fast, efficient, and prompt processing.</li>
+                            <li><strong>Custom Support:</strong> Solutions tailored to your profession/business.
+                            </li>
+                            <li><strong>Compliance Focused:</strong> Stay legally safe and penalty-free.</li>
+                            <li><strong>Reliable Assistance:</strong> Our team is here to support you every step of
+                                the
+                                way.</li>
+                        </ul>
                     </section>
                 </div>
             </div>

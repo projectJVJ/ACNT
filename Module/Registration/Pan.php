@@ -14,8 +14,8 @@
                 <div class="row">
                     <div class="col-md-5 ps-3 first-card p-0">
                         <div class="card border-0">
-                            <img src="../../assets/img/services.jpg" class="card-img-top rounded-lg w-90"
-                                alt="Partnership Registration">
+                            <img src="/acnt/assets/img/PanCard.jpg" height="225px" width="225px" class="card-img-top rounded-lg w-90"
+                                alt="Pan Card Image">
                         </div>
                     </div>
                     <div class="col-md-7 ps-5">
@@ -32,7 +32,7 @@
             <div class="col-md-12 col1 p-3 ps-4 mt-5 height-fit-content main-container-border-radius">
                 <div class="card border-0">
                     <section>
-                        <h3>PAN Card for GST Registration – Everything You Need to Know</h3>
+                        <h3 class="text-center">PAN Card for GST Registration – Everything You Need to Know</h3>
                         <p>A PAN (Permanent Account Number) card is a crucial document for anyone engaging in financial
                             transactions or running a business in India. It serves as a unique identifier for
                             individuals and entities, helping the Income Tax Department track all tax-related

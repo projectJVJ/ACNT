@@ -13,7 +13,7 @@
                 <div class="row">
                     <div class="col-md-5 ps-3 first-card p-0">
                         <div class="card border-0">
-                            <img src="../../assets/img/OnepersonCompany.jpg" class="card-img-top rounded-lg w-90"
+                            <img src="/acnt/assets/img/IncomeTaxEfiling.png" class="card-img-top rounded-lg w-90"
                                 alt="IncomeTaxEFiling Img">
                         </div>
                     </div>

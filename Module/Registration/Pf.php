@@ -14,8 +14,8 @@
                 <div class="row">
                     <div class="col-md-5 ps-3 first-card p-0">
                         <div class="card border-0">
-                            <img src="../../assets/img/services.jpg" class="card-img-top rounded-lg w-90"
-                                alt="Partnership Registration">
+                            <img src="/acnt/assets/img/Pf.jpg" height="225px" width="225px" class="card-img-top rounded-lg w-90"
+                                alt="PF Registration Img">
                         </div>
                     </div>
                     <div class="col-md-7 ps-5">
@@ -32,7 +32,7 @@
             <?php include "../../assets/layout/ScheduleAppointment.php"; ?>
             <div class="col-md-12 col1 p-3 ps-4 mt-5 height-fit-content main-container-border-radius">
                 <section class="card border-0" id="paragraph">
-                    <h3>PF Registration with Hiva Professionals</h3>
+                    <h3 class="text-center mb-3">PF Registration with Hiva Professionals</h3>
                     <p>PF registration is the procedure through which an establishment or employer registers with the
                         Employees' Provident Fund Organisation (EPFO) to become part of the Provident Fund (PF) scheme.
                         This EPF registration online is a crucial step for businesses to ensure that their employees are
