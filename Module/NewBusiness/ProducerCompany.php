@@ -33,7 +33,7 @@
                         <div class="card border-0">
                             <h4>Producer Company</h4>
                             <p><span class="text-primary fw-bold">4.3</span> 7596 Customers</p>
-                            <p>Easily register a Producer company registration through IndiaFilings including Incorporation kit and share certificates.
+                            <p>Easily register a Producer company registration through Hiva Professionals including Incorporation kit and share certificates.
                             </p>
                         </div>
                     </div>

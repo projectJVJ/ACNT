@@ -2,7 +2,7 @@
 
 <head>
     <meta charset="UTF-8">
-    <title>>Public Limited Company</title>
+    <title> Public Limited Company</title>
 </head>
 
 <body>
@@ -28,7 +28,7 @@
                         <div class="card border-0">
                             <h4>Public Limited Company</h4>
                             <p><span class="text-primary fw-bold">4.3</span> 7596 Customers</p>
-                            <p>Easily incorporate a Public Limited Company through IndiaFilings. A minimum of 3 Directors and 7 Shareholders are required to incorporate a Public Limited Company.
+                            <p>Easily incorporate a Public Limited Company through Hiva Professionals. A minimum of 3 Directors and 7 Shareholders are required to incorporate a Public Limited Company.
                             </p>
                         </div>
                     </div>

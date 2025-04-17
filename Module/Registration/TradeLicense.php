@@ -29,7 +29,7 @@
                             <h4>Trade License</h4>
                             <p><span class="text-primary fw-bold">4.3</span> 7596 Customers</p>
                             <p>Trade license is mandatory for businesses operating in a commercial property. Easily
-                                apply for Trade License online using IndiaFilings.</p>
+                                apply for Trade License online using Hiva Professionals.</p>
                         </div>
                     </div>
                 </div>

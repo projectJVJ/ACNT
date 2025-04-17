@@ -42,7 +42,7 @@
                         <p>Filing your Income Tax Return (ITR) is essential for every taxpayer in India. It involves
                             detailing your income, applicable deductions, and taxes to be paid. Filing early helps you
                             avoid last-minute rush and ensures accuracy.</p>
-                        <p>IndiaFilings streamlines the ITR e-filing process with step-by-step guidance, automatic data
+                        <p>Hiva Professionals streamlines the ITR e-filing process with step-by-step guidance, automatic data
                             imports, and expert support. Whether you are an employee, freelancer, or entrepreneur, our
                             platform ensures hassle-free tax filing.</p>
 

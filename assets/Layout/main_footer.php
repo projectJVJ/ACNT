@@ -97,9 +97,9 @@
 
     <div class="main_footer mt-5 mb-5 box-shadow">
         <div class="col-md-3">
-            <h5>IndiaFilings</h5>
+            <h5>Hiva Professionals</h5>
             <ul>
-                <li><a href="#">About IndiaFilings</a></li>
+                <li><a href="#">About Hiva Professionals</a></li>
                 <li><a href="#">Online Payment</a></li>
                 <li><a href="#">Careers</a></li>
                 <li><a href="#">Contact Us</a></li>
@@ -127,7 +127,7 @@
             <ul>
                 <li><a href="#">Confidentiality Policy</a></li>
                 <li><a href="#">Disclaimer Policy</a></li>
-                <li><a href="#">IndiaFilings Review</a></li>
+                <li><a href="#">Hiva Professionals Review</a></li>
             </ul>
         </div>
     </div>
