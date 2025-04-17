@@ -14,7 +14,7 @@
                 <div class="row">
                     <div class="col-md-5 ps-3 first-card p-0">
                         <div class="card border-0">
-                            <img src="../../assets/img/ExpansionLoan.jpg" height="" width="" class="card-img-top rounded-lg w-90" alt="Expansion Loan img">
+                            <img src="/acnt/assets/img/ExpansionLoan.jpg" height="" width="" class="card-img-top rounded-lg w-90" alt="Expansion Loan img">
                             <div class="card-body p-0 pt-3 d-grid gap-2">
                                 <span>Pan Card</span>
                                 <span>Aadhar Card</span>

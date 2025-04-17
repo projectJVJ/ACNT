@@ -14,7 +14,7 @@
                 <div class="row">
                     <div class="col-md-5 ps-3 first-card p-0">
                         <div class="card border-0">
-                            <img src="../../assets/img/TakeOverLoan.jpg" height="" width="" class="card-img-top rounded-lg w-90" alt="Take Over Loan img">
+                            <img src="/acnt/assets/img/TakeOverLoan.jpg" height="" width="" class="card-img-top rounded-lg w-90" alt="Take Over Loan img">
                             <div class="card-body p-0 pt-3 d-grid gap-2">
                                 <span>Pan Card</span>
                                 <span>Aadhar Card</span>
