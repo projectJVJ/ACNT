@@ -84,9 +84,10 @@
             <ul class="dropdown-menu">
               <div class="dropdown-columns">
                 <div class="dropdown-column">
-                  <li><a href="#">FSSAI License</a></li>
-                  <li><a href="#">Drug License</a></li>
-                  <li><a href="#">Halal License</a></li>
+                <li><a href="\acnt\Module\License\FSSAI.php">FSSAI License</a></li>
+                  <li><a href="\acnt\Module\License\Drug.php">Drug License</a></li>
+                  <li><a href="\acnt\Module\License\Halal.php">Halal License</a></li>
+
                 </div>
               </div>
             </ul>
@@ -96,21 +97,21 @@
             <ul class="dropdown-menu">
               <div class="dropdown-columns">
                 <div class="dropdown-column">
-                  <li><a href="#">GST Registration</a></li>
-                  <li><a href="#">GST return filing by Accountant</a></li>
-                  <li><a href="#">GST Annual return filing</a></li>
-                  <li><a href="#">GST E-invoicing preparation</a></li>
-                  <li><a href="#">GST LUT certificate</a></li>
-                  <li><a href="#">GST Notice</a></li>
-                  <li><a href="#">GST Amendment</a></li>
-                  <li><a href="#">GST revocation</a></li>
+                <li><a href="\acnt\Module\GST\GST.php">GST Registration</a></li>
+                  <li><a href="\acnt\Module\GST\GSTReturn.php">GST return filing by Accountant</a></li>
+                  <li><a href="\acnt\Module\GST\GSTAnnualReturn.php">GST Annual return filing</a></li>
+                  <li><a href="\acnt\Module\GST\GSTEInvoicing.php">GST E-invoicing preparation</a></li>
+                  <li><a href="\acnt\Module\GST\GSTLUT.php">GST LUT certificate</a></li>
+                  <li><a href="\acnt\Module\GST\GSTNotice.php">GST Notice</a></li>
+                  <li><a href="\acnt\Module\GST\GSTAmendment.php">GST Amendment</a></li>
+                  <li><a href="\acnt\Module\GST\GSTRevocation.php">GST revocation</a></li>
                 </div>
                 <div class="dropdown-column">
-                  <li><a href="#">GSTR 10</a></li>
-                  <li><a href="#">GST Department Audit</a></li>
-                  <li><a href="#">GST Audit - GSTR 9C</a></li>
-                  <li><a href="#">GST Appeal filing</a></li>
-                  <li><a href="#">GST other advisory</a></li>
+                  <li><a href="\acnt\Module\GST\GSTR10.php">GSTR 10</a></li>
+                  <li><a href="\acnt\Module\GST\GSTDepartmentAudit.php">GST Department Audit</a></li>
+                  <li><a href="\acnt\Module\GST\GSTAudit.php">GST Audit - GSTR 9C</a></li>
+                  <li><a href="\acnt\Module\GST\GSTAppealFiling.php">GST Appeal Filing</a></li>
+                  <li><a href="\acnt\Module\GST\GSTOtherAdvisory.php">GST Other Advisory</a></li>
                 </div>
               </div>
             </ul>

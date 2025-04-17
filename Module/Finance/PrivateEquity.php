@@ -69,7 +69,7 @@
                     </ul>
                     </section>  
                     <h4 class="mt-4">Common Stages of a Private Equity Investment:</h4>
-                    <table class="table table-bordered mt-3">
+                    <table class="table table-striped table-bordered mt-3">
                         <thead class="table-light">
                             <tr>
                                 <th>Stage</th>
