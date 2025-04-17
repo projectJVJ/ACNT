@@ -13,8 +13,8 @@
                 <div class="row">
                     <div class="col-md-5 ps-3 first-card p-0">
                         <div class="card border-0">
-                            <img src="/acnt/assets/img/TdsReturn.jpg" height="225px" width="225px" class="card-img-top rounded-lg w-90"
-                                alt="TDS Return">
+                            <img src="../../assets/img/OnepersonCompany.jpg" class="card-img-top rounded-lg w-90"
+                                alt="Partnership Registration">
                             <div class="card-body p-0 pt-3 d-grid gap-2">
                                 <span>TDS Acknowledgement</span>
                                 <span>Pan Card</span>

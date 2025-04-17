@@ -13,7 +13,7 @@
                 <div class="row">
                     <div class="col-md-5 ps-3 first-card p-0">
                         <div class="card border-0">
-                            <img src="/acnt/assets/img/IncomeTaxEfiling.png" class="card-img-top rounded-lg w-90"
+                            <img src="../../assets/img/OnepersonCompany.jpg" class="card-img-top rounded-lg w-90"
                                 alt="IncomeTaxEFiling Img">
                         </div>
                     </div>
@@ -36,7 +36,7 @@
                         <p>Filing your Income Tax Return (ITR) is essential for every taxpayer in India. It involves
                             detailing your income, applicable deductions, and taxes to be paid. Filing early helps you
                             avoid last-minute rush and ensures accuracy.</p>
-                        <p>Hiva Professionals streamlines the ITR e-filing process with step-by-step guidance, automatic data
+                        <p>IndiaFilings streamlines the ITR e-filing process with step-by-step guidance, automatic data
                             imports, and expert support. Whether you are an employee, freelancer, or entrepreneur, our
                             platform ensures hassle-free tax filing.</p>
 
@@ -169,7 +169,7 @@
                             within 4 years (subject to tax and interest).</p>
 
                     <div class=" mt-2 text-center">
-                        <h4>Let Hiva Professionals Help You File Effortlessly!</h4>
+                        <h4>Let hiva profetional Help You File Effortlessly!</h4>
                         <p>Our automated platform and expert team help you complete ITR filing easily—whether you want
                             to do it yourself or prefer assistance from a CA. Maximize your refund, ensure timely
                             submission, and stay stress-free this tax season!</p>
