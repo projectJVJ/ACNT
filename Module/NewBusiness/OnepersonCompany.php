@@ -18,8 +18,8 @@
                                 alt="Partnership Registration">
                             <div class="card-body p-0 pt-3 d-grid gap-2">
                                 <span>Pan Card</span>
-                                <span>Aadhar Card</span>
-                                <span>Rental Agreement</span>
+                                <span>Passport</span>
+                                <span>Voters Identity Card</span>
                                 <a href="#" class="text-primary">Load More</a>
                             </div>
                         </div>

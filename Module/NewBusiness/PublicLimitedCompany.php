@@ -17,9 +17,9 @@
                             <img src="/acnt/assets/img/PublicLimitedCompany.jpg" class="card-img-top rounded-lg w-90"
                                 alt="Partnership Registration">
                             <div class="card-body p-0 pt-3 d-grid gap-2">
-                                <span>Pan Card</span>
-                                <span>Aadhar Card</span>
-                                <span>Rental Agreement</span>
+                                <span>Recent Utility Bill</span>
+                                <span>Name Significance Letter</span>
+                                <span>Specimen</span>
                                 <a href="#" class="text-primary">Load More</a>
                             </div>
                         </div>
