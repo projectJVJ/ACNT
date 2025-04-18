@@ -43,7 +43,7 @@
                 <div class="dropdown-column">
                   <li><a href="/acnt/NewBusiness/Proprietorship.php">Proprietorship</a></li>
                   <li><a href="/acnt/NewBusiness/PartnershipFirm.php">Partnership Firm</a></li>
-                  <li><a href="/acnt/NewBusiness/OnepersonCompany.php">One person Company</a></li>
+                  <li><a href="/acnt/NewBusiness/OnepersonCompany.php">One Person Company</a></li>
                   <li><a href="/acnt/NewBusiness/LimitedLiabilityPartnerhsip.php">Limited Liability Partnerhsip</a></li>
                   <li><a href="/acnt/NewBusiness/PrivateLimitedCompany.php">Private Limited Company</a></li>
                   <li><a href="/acnt/NewBusiness/PublicLimitedCompany.php">Public Limited Company</a></li>
@@ -84,9 +84,9 @@
             <ul class="dropdown-menu">
               <div class="dropdown-columns">
                 <div class="dropdown-column">
-                  <li><a href="#">FSSAI License</a></li>
-                  <li><a href="#">Drug License</a></li>
-                  <li><a href="#">Halal License</a></li>
+                <li><a href="\acnt\Module\License\FSSAI.php">FSSAI License</a></li>
+                  <li><a href="\acnt\Module\License\Drug.php">Drug License</a></li>
+                  <li><a href="\acnt\Module\License\Halal.php">Halal License</a></li>
                 </div>
               </div>
             </ul>
@@ -96,21 +96,21 @@
             <ul class="dropdown-menu">
               <div class="dropdown-columns">
                 <div class="dropdown-column">
-                  <li><a href="#">GST Registration</a></li>
-                  <li><a href="#">GST return filing by Accountant</a></li>
-                  <li><a href="#">GST Annual return filing</a></li>
-                  <li><a href="#">GST E-invoicing preparation</a></li>
-                  <li><a href="#">GST LUT certificate</a></li>
-                  <li><a href="#">GST Notice</a></li>
-                  <li><a href="#">GST Amendment</a></li>
-                  <li><a href="#">GST revocation</a></li>
+                <li><a href="\acnt\Module\GST\GST.php">GST Registration</a></li>
+                  <li><a href="\acnt\Module\GST\GSTReturn.php">GST Return Filing by Accountant</a></li>
+                  <li><a href="\acnt\Module\GST\GSTAnnualReturn.php">GST Annual Return Filing</a></li>
+                  <li><a href="\acnt\Module\GST\GSTEInvoicing.php">GST E-Invoicing Preparation</a></li>
+                  <li><a href="\acnt\Module\GST\GSTLUT.php">GST LUT Certificate</a></li>
+                  <li><a href="\acnt\Module\GST\GSTNotice.php">GST Notice</a></li>
+                  <li><a href="\acnt\Module\GST\GSTAmendment.php">GST Amendment</a></li>
+                  <li><a href="\acnt\Module\GST\GSTRevocation.php">GST Revocation</a></li>
                 </div>
                 <div class="dropdown-column">
-                  <li><a href="#">GSTR 10</a></li>
-                  <li><a href="#">GST Department Audit</a></li>
-                  <li><a href="#">GST Audit - GSTR 9C</a></li>
-                  <li><a href="#">GST Appeal filing</a></li>
-                  <li><a href="#">GST other advisory</a></li>
+                  <li><a href="\acnt\Module\GST\GSTR10.php">GSTR 10</a></li>
+                  <li><a href="\acnt\Module\GST\GSTDepartmentAudit.php">GST Department Audit</a></li>
+                  <li><a href="\acnt\Module\GST\GSTAudit.php">GST Audit - GSTR 9C</a></li>
+                  <li><a href="\acnt\Module\GST\GSTAppealFiling.php">GST Appeal Filing</a></li>
+                  <li><a href="\acnt\Module\GST\GSTOtherAdvisory.php">GST Other Advisory</a></li>
                 </div>
               </div>
             </ul>
@@ -120,13 +120,13 @@
             <ul class="dropdown-menu">
               <div class="dropdown-columns">
               <div class="dropdown-column">
-                  <li><a href="/acnt/Module/IncomeTax/IncomeTaxEFiling.php">Income Tax E filing</a></li>
-                  <li><a href="/acnt/Module/IncomeTax/TDSReturnFiling.php">TDS return filing</a></li>
-                  <li><a href="/acnt/Module/IncomeTax/Tracesregistration.php">Traces registration</a></li>
-                  <li><a href="/acnt/Module/IncomeTax/IncomeTexNotice.php">Income Tax notice</a></li>
-                  <li><a href="/acnt/Module/IncomeTax/Incometaxappealfilingassistance.php">Income tax appeal filing assistance</a></li>
-                  <li><a href="IncomeTaxauditassistance.php">Income Tax audit assistance</a></li>
-                  <li><a href="/acnt/Module/IncomeTax/15CA-15CBcertificatesassistance.php">15CA-15CB certificates assistance</a></li>
+                  <li><a href="/acnt/IncomeTax/IncomeTaxEFiling.php">Income Tax E Filing</a></li>
+                  <li><a href="/acnt/IncomeTax/TDSReturnFiling.php">TDS Return Filing</a></li>
+                  <li><a href="/acnt/IncomeTax/Tracesregistration.php">Traces Registration</a></li>
+                  <li><a href="/acnt/IncomeTax/IncomeTexNotice.php">Income Tax Notice</a></li>
+                  <li><a href="/acnt/IncomeTax/Incometaxappealfilingassistance.php">Income Tax Appeal Filing Assistance</a></li>
+                  <li><a href="/acnt/IncomeTax/IncomeTaxauditassistance.php">Income Tax Audit Assistance</a></li>
+                  <li><a href="/acnt/IncomeTax/15CA-15CBcertificatesassistance.php">15CA-15CB Certificates Assistance</a></li>
                 </div>
               </div>
             </ul>
@@ -139,19 +139,19 @@
             <ul class="dropdown-menu">
               <div class="dropdown-columns">
                 <div class="dropdown-column">
-                  <li><a href="/acnt/Module/Finance/CmaPreparation.php"><span>CMA preparation</a></li>
-                  <li><a href="/acnt/Module/Finance/BankLoanAssistance.php"><span>Bank loan assistance</a></li>
-                  <li><a href="/acnt/Module/Finance/CcOdLimits.php"><span>CC/OD limit</a></li>
-                  <li><a href="/acnt/Module/Finance/WCTL.php"><span>WCTL</a></li>
-                  <li><a href="/acnt/Module/Finance/MortgateLLP.php"><span>Mortgate/LAP</a></li>
-                  <li><a href="/acnt/Module/Finance/ReFinance.php"><span>Re-finance</a></li>
-                  <li><a href="/acnt/Module/Finance/PrivateEquity.php"><span>Private equity</a></li>
-                  <li><a href="/acnt/Module/Finance/NewProjectLoan.php"><span>New Project loan</a></li>
+                  <li><a href="/acnt/Finance/CmaPreparation.php"><span>CMA Preparation</a></li>
+                  <li><a href="/acnt/Finance/BankLoanAssistance.php"><span>Bank Loan Assistance</a></li>
+                  <li><a href="/acnt/Finance/CcOdLimits.php"><span>CC/OD Limit</a></li>
+                  <li><a href="/acnt/Finance/WCTL.php"><span>WCTL</a></li>
+                  <li><a href="/acnt/Finance/MortgateLLP.php"><span>Mortgate/LAP</a></li>
+                  <li><a href="/acnt/Finance/ReFinance.php"><span>Re-Finance</a></li>
+                  <li><a href="/acnt/Finance/PrivateEquity.php"><span>Private Equity</a></li>
+                  <li><a href="/acnt/Finance/NewProjectLoan.php"><span>New Project Loan</a></li>
                 </div>
                 <div class="dropdown-column">
-                  <li><a href="/acnt/Module/Finance/ExpansionLoan.php">Expansion loan</a></li>
-                  <li><a href="/acnt/Module/Finance/TakeOverLoan.php">takeover of existing loan</a></li>
-                  <li><a href="/acnt/Module/Finance/ValuatiionOfGujarat.php">valuation of immovable properties in Gujarat</a></li>
+                  <li><a href="/acnt/Finance/ExpansionLoan.php">Expansion Loan</a></li>
+                  <li><a href="/acnt/Finance/TakeOverLoan.php">Takeover of Existing Loan</a></li>
+                  <li><a href="/acnt/Finance/ValuatiionOfGujarat.php">Valuation of Immovable Properties in Gujarat</a></li>
                 </div>
               </div>
             </ul>
