@@ -69,8 +69,8 @@
                 <div class="dropdown-column">
                   <li><a href="/acnt/Registration/Esic.php">ESIC</a></li>
                   <li><a href="/acnt/Registration/ProfessionalTax.php">Professional Tax</a></li>
-                  <li><a href="/acnt/Registration/Fssi.php">FSSAI</a></li>
-                  <li><a href="/acnt/Registration/Icegate.php">ICEGATE</a></li>
+                  <li><a href="/acnt/Registration/FSSAI.php">FSSAI</a></li>
+                  <li><a href="/acnt/Registration/ICEGATE.php">ICEGATE</a></li>
                   <li><a href="/acnt/Registration/HalalLicense.php">Halal License & Certification</a></li>
                   <li><a href="/acnt/Registration/TradeLicense.php">Trade License</a></li>
                   <li><a href="/acnt/Registration/IsoRegistration.php">ISO Registration</a></li>
@@ -84,9 +84,9 @@
             <ul class="dropdown-menu">
               <div class="dropdown-columns">
                 <div class="dropdown-column">
-                <li><a href="\acnt\Module\License\FSSAI.php">FSSAI License</a></li>
-                  <li><a href="\acnt\Module\License\Drug.php">Drug License</a></li>
-                  <li><a href="\acnt\Module\License\Halal.php">Halal License</a></li>
+                  <li><a href="\acnt\License\FSSAI.php">FSSAI License</a></li>
+                  <li><a href="\acnt\License\Drug.php">Drug License</a></li>
+                  <li><a href="\acnt\License\Halal.php">Halal License</a></li>
                 </div>
               </div>
             </ul>
@@ -96,21 +96,21 @@
             <ul class="dropdown-menu">
               <div class="dropdown-columns">
                 <div class="dropdown-column">
-                <li><a href="\acnt\Module\GST\GST.php">GST Registration</a></li>
-                  <li><a href="\acnt\Module\GST\GSTReturn.php">GST Return Filing by Accountant</a></li>
-                  <li><a href="\acnt\Module\GST\GSTAnnualReturn.php">GST Annual Return Filing</a></li>
-                  <li><a href="\acnt\Module\GST\GSTEInvoicing.php">GST E-Invoicing Preparation</a></li>
-                  <li><a href="\acnt\Module\GST\GSTLUT.php">GST LUT Certificate</a></li>
-                  <li><a href="\acnt\Module\GST\GSTNotice.php">GST Notice</a></li>
-                  <li><a href="\acnt\Module\GST\GSTAmendment.php">GST Amendment</a></li>
-                  <li><a href="\acnt\Module\GST\GSTRevocation.php">GST Revocation</a></li>
+                  <li><a href="\acnt\GST\GST.php">GST Registration</a></li>
+                  <li><a href="\acnt\GST\GSTReturn.php">GST Return Filing by Accountant</a></li>
+                  <li><a href="\acnt\GST\GSTAnnualReturn.php">GST Annual Return Filing</a></li>
+                  <li><a href="\acnt\GST\GSTEInvoicing.php">GST E-Invoicing Preparation</a></li>
+                  <li><a href="\acnt\GST\GSTLUT.php">GST LUT Certificate</a></li>
+                  <li><a href="\acnt\GST\GSTNotice.php">GST Notice</a></li>
+                  <li><a href="\acnt\GST\GSTAmendment.php">GST Amendment</a></li>
+                  <li><a href="\acnt\GST\GSTRevocation.php">GST Revocation</a></li>
                 </div>
                 <div class="dropdown-column">
-                  <li><a href="\acnt\Module\GST\GSTR10.php">GSTR 10</a></li>
-                  <li><a href="\acnt\Module\GST\GSTDepartmentAudit.php">GST Department Audit</a></li>
-                  <li><a href="\acnt\Module\GST\GSTAudit.php">GST Audit - GSTR 9C</a></li>
-                  <li><a href="\acnt\Module\GST\GSTAppealFiling.php">GST Appeal Filing</a></li>
-                  <li><a href="\acnt\Module\GST\GSTOtherAdvisory.php">GST Other Advisory</a></li>
+                  <li><a href="\acnt\GST\GSTR10.php">GSTR 10</a></li>
+                  <li><a href="\acnt\GST\GSTDepartmentAudit.php">GST Department Audit</a></li>
+                  <li><a href="\acnt\GST\GSTAudit.php">GST Audit - GSTR 9C</a></li>
+                  <li><a href="\acnt\GST\GSTAppealFiling.php">GST Appeal Filing</a></li>
+                  <li><a href="\acnt\GST\GSTOtherAdvisory.php">GST Other Advisory</a></li>
                 </div>
               </div>
             </ul>
@@ -119,7 +119,7 @@
             <a href="#"><span>Income Tax</span> <i class="toggle-dropdown"></i></a>
             <ul class="dropdown-menu">
               <div class="dropdown-columns">
-              <div class="dropdown-column">
+                <div class="dropdown-column">
                   <li><a href="/acnt/IncomeTax/IncomeTaxEFiling.php">Income Tax E Filing</a></li>
                   <li><a href="/acnt/IncomeTax/TDSReturnFiling.php">TDS Return Filing</a></li>
                   <li><a href="/acnt/IncomeTax/Tracesregistration.php">Traces Registration</a></li>
@@ -132,7 +132,7 @@
             </ul>
           </li>
           <li class="dropdown">
-          <a href="/acnt/Module/MCA/MCA.php"><span>ROC/MCA</span> <i class="toggle-dropdown"></i></a>
+            <a href="/acnt/Module/MCA/MCA.php"><span>ROC/MCA</span> <i class="toggle-dropdown"></i></a>
           </li>
           <li class="dropdown">
             <a href="#"><span>Finance</span> <i class="toggle-dropdown"></i></a>
@@ -164,7 +164,7 @@
 
     </div>
   </header>
- 
+
 
   <!-- Preloader -->
   <div id="preloader"></div>
