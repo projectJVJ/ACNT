@@ -3,10 +3,10 @@
 <head>
     <meta charset="UTF-8">
     <title>GST Audit GSTR-9C</title>
+    <?php include "../../assets/layout/header.php"; ?>
 </head>
 
 <body>
-    <?php include "../../assets/layout/header.php"; ?>
 
     <div class="container my-5">
         <div class="row">

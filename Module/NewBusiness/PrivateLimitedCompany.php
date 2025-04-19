@@ -3,10 +3,10 @@
 <head>
     <meta charset="UTF-8">
     <title>Private Limited Company</title>
+    <?php include "../../assets/layout/header.php"; ?>
 </head>
 
 <body>
-    <?php include "../../assets/layout/header.php"; ?>
 
     <section class="container my-5">
         <section class="row">

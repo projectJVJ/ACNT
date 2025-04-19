@@ -4,14 +4,11 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Producer Company</title>
-
-    <!-- Main CSS File -->
-    <!-- <link href="../../assets/css/main.css" rel="stylesheet"> -->
+    <?php include "../../assets/layout/header.php"; ?>
 
 </head>
 
 <body>
-    <?php include "../../assets/layout/header.php"; ?>
 
     <section class="container my-5">
         <section class="row">

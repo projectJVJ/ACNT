@@ -1,7 +1,6 @@
 <head>
   <!-- Favicons -->
-  <link href="/acnt/assets/img/favicon.png" rel="icon">
-  <link href="/acnt/assets/img/apple-touch-icon.png" rel="apple-touch-icon">
+  <link href="/acnt/assets/img/Hiva_Favicon.png" rel="icon">
 
   <!-- Fonts -->
   <link href="https://fonts.googleapis.com" rel="preconnect">

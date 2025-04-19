@@ -3,10 +3,10 @@
 <head>
     <meta charset="UTF-8">
     <title>Limited Liability Partnerhsip</title>
+    <?php include "../../assets/layout/header.php"; ?>
 </head>
 
 <body>
-    <?php include "../../assets/layout/header.php"; ?>
 
     <section class="container my-5">
         <section class="row">

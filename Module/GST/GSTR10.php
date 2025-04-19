@@ -3,10 +3,10 @@
 <head>
     <meta charset="UTF-8">
     <title>GSTR - 10</title>
+    <?php include "../../assets/layout/header.php"; ?>
 </head>
 
 <body>
-    <?php include "../../assets/layout/header.php"; ?>
 
     <div class="container my-5">
         <div class="row">
