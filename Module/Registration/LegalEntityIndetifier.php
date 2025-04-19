@@ -21,7 +21,7 @@
                     <div class="col-md-7 ps-5">
                         <div class="card border-0">
                             <h4>Legal Entity Identifier Code</h4>
-                            <p><span class="text-primary fw-bold">4.3</span> 7596 Customers</p>
+                            <p><span class="text-primary fw-bold">4.1</span> 1898 Customers</p>
                             <p>LEI Code is required for companies involved in global financial transactions. Get your
                                 Legal Entity Identifier Code quickly and easily with Hiva Professionals.</p>
                         </div>

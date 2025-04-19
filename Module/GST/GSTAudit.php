@@ -20,7 +20,7 @@
                     <div class="col-md-7 ps-5">
                         <div class="card border-0">
                             <h4>GST Audit GSTR-9C</h4>
-                            <p><span class="text-primary fw-bold">4.3</span> 7596 Customers</p>
+                            <p><span class="text-primary fw-bold">4.0</span> 2008 Customers</p>
                             <p>Simplify your GSTR 9C audit process with expert precision — ensure 100% GST compliance, avoid penalties, and gain peace of mind.</p>
                         </div>
                     </div>

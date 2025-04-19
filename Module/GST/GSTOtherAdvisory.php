@@ -20,7 +20,7 @@
                     <div class="col-md-7 ps-5">
                         <div class="card border-0">
                             <h4>GST Other Advisory</h4>
-                            <p><span class="text-primary fw-bold">4.3</span> 7596 Customers</p>
+                            <p><span class="text-primary fw-bold">4.2</span> 2023 Customers</p>
                             <p>Consult an Experienced Professional on tax matters.</p>
                         </div>
                     </div>

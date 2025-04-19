@@ -92,7 +92,7 @@ h4,
 h5,
 h6 {
   color: #071437;
-  font-family: var(--heading-font);
+  font-family: sans-serif;
 }
 
 /*--------------------------------------------------------------
@@ -922,8 +922,8 @@ p {
 section ul li, section ol li {
   color: #4b5675;
 }
-.CMA_table_-width{
-  width: 70px;
+.Mortgate-table-width{
+  width: 241px;
 }
 .text-bg-blue{
   color: #00a3dede;

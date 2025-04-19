@@ -21,8 +21,8 @@
                     <div class="col-md-7 ps-5">
                         <div class="card border-0">
                             <h4>Registrar of Firms (RoF)</h4>
-                            <p><span class="text-primary fw-bold">4.3</span> 7596 Customers</p>
-                            <p>Registrar of Firms (RoF) – Authority responsible for the registration and regulation of partnership firms.</p>
+                            <p><span class="text-primary fw-bold">4.6</span> 2164 Customers</p>
+                            <p>Registrar of Firms (RoF) - Authority responsible for the registration and regulation of partnership firms.</p>
                         </div>
                     </div>
                 </div>

@@ -21,7 +21,7 @@
                     <div class="col-md-7 ps-5">
                         <div class="card border-0">
                             <h4>Halal License & Certification</h4>
-                            <p><span class="text-primary fw-bold">4.3</span> 7596 Customers</p>
+                            <p><span class="text-primary fw-bold">4.2</span> 1864 Customers</p>
                             <p>Obtaining Halal license and certification is an important step for all food businesses
                                 looking to serve quality food that caters to a large audience in over 120 countries.</p>
                         </div>

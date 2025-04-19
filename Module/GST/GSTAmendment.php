@@ -25,7 +25,7 @@
                     <div class="col-md-7 ps-5">
                         <div class="card border-0">
                             <h4>GST Amendment</h4>
-                            <p><span class="text-primary fw-bold">4.3</span> 7596 Customers</p>
+                            <p><span class="text-primary fw-bold">4.2</span> 1906 Customers</p>
                             <p>Completely managed GST amendment of Core field and Non-Core field in GST portal by changing Trade name, Contact details, Business activities, Changing the principal place of the business address, and Adding additional places of business with expert support.</p>
                         </div>
                     </div>

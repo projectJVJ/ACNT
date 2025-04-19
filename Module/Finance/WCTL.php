@@ -15,20 +15,13 @@
                     <div class="col-md-5 ps-3 first-card p-0">
                         <div class="card border-0">
                             <img src="/acnt/assets/img/WCTL.png" height="225px" width="225px" class="card-img-top rounded-lg w-90" alt="WCTL_img">
-                            <div class="card-body p-0 pt-3 d-grid gap-2">
-                                <span>Pan Card</span>
-                                <span>Aadhar Card</span>
-                                <span>Rental Agreement</span>
-                                <a href="#" class="text-primary">Load More</a>
-                            </div>
                         </div>
                     </div>
-                    <div class="col-md-7 ps-5">
+                    <div class="col-md-7 ps-5"> 
                         <div class="card border-0">
                             <h4>(WCTL)Working Capital Term Loan</h4>
-                            <p><span class="text-primary fw-bold">4.3</span> 7596 Customers</p>
-                            <p>Get your Working Capital Term Loan by our experts, along with firm PAN and GST
-                                registration.
+                            <p><span class="text-primary fw-bold">4.3</span> 2253 Customers</p>
+                            <p>Fuel your business potential with a Working Capital Term Loan, bridging the gap between ambition and achievement.
                             </p>
                         </div>
                     </div>
@@ -74,45 +67,40 @@
                             <li>Improves credibility with suppliers and clients through consistent cash flow management.</li>
                         </ul>
                     </section>
-                    <h4>Comparison: WCTL vs Cash Credit</h4>
+                    <h4>Overview: WCTL</h4>
                     <div class="table-responsive mb-4">
                         <table class="table table-bordered table-striped">
                             <thead class="table-light">
                                 <tr>
                                     <th>Feature</th>
                                     <th>WCTL</th>
-                                    <th>Cash Credit</th>
                                 </tr>
                             </thead>
                             <tbody>
                                 <tr>
                                     <td>Loan Type</td>
                                     <td>Term Loan (Fixed Repayment)</td>
-                                    <td>Revolving Credit</td>
                                 </tr>
                                 <tr>
                                     <td>Usage</td>
                                     <td>One-time working capital need</td>
-                                    <td>Ongoing working capital requirement</td>
                                 </tr>
                                 <tr>
                                     <td>Disbursement</td>
                                     <td>Lump Sum</td>
-                                    <td>Withdraw as needed</td>
                                 </tr>
                                 <tr>
                                     <td>Repayment</td>
                                     <td>Fixed EMIs/Installments</td>
-                                    <td>Interest on utilized amount</td>
                                 </tr>
                                 <tr>
                                     <td>Interest Rate</td>
                                     <td>Slightly higher</td>
-                                    <td>Comparatively lower</td>
                                 </tr>
                             </tbody>
                         </table>
                     </div>
+
 
                     <h4>Conclusion</h4>
                     <p>

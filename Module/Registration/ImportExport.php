@@ -15,7 +15,7 @@
                     <div class="col-md-5 ps-3 first-card p-0">
                         <div class="card border-0">
                             <img src="/acnt/assets/img/ImportExport.jpg" class="card-img-top rounded-lg w-90"
-                                alt="Partnership Registration">
+                                alt="Import Export Code">
                             <div class="card-body p-0 pt-3 d-grid gap-2">
                                 <span>Pan Card</span>
                                 <span>Aadhar Card</span>
@@ -27,7 +27,7 @@
                     <div class="col-md-7 ps-5">
                         <div class="card border-0">
                             <h4>Import Export Code</h4>
-                            <p><span class="text-primary fw-bold">4.3</span> 7596 Customers</p>
+                            <p><span class="text-primary fw-bold">4.4</span> 1910 Customers</p>
                             <p>Get DGFT IE Code to start importing and exporting from India with foreign currency
                                 account for FOREX transactions. Unlock LEDGERS with export invoicing capabilities.</p>
                         </div>

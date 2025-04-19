@@ -15,7 +15,7 @@
                     <div class="col-md-5 ps-3 first-card p-0">
                         <div class="card border-0">
                             <img src="/acnt/assets/img/PrivateLimitedCompany.jpg" class="card-img-top rounded-lg w-90"
-                                alt="Partnership Registration">
+                                alt="Private Limited Company img">
                             <div class="card-body p-0 pt-3 d-grid gap-2">
                                 <span>Pan Card</span>
                                 <span>Passport (Foreign Nationals Only)</span>
@@ -27,7 +27,7 @@
                     <div class="col-md-7 ps-5">
                         <div class="card border-0">
                             <h4>Private Limited Company</h4>
-                            <p><span class="text-primary fw-bold">4.3</span> 7596 Customers</p>
+                            <p><span class="text-primary fw-bold">4.5</span> 1999 Customers</p>
                             <p>Instant Name Application for Company.</p>
                         </div>
                     </div>
@@ -38,7 +38,7 @@
             <div class="col-md-12 col1 p-3 ps-4 mt-5 height-fit-content main-container-border-radius">
                 <div class="card border-0" id="paragraph">
                     <h3 class="text-center">Private Limited Company Registration in India</h3>
-                    <p class="lead">Setting up a business in India is easy with <strong>Hiva Professionals</strong>. We
+                    <p>Setting up a business in India is easy with <strong>Hiva Professionals</strong>. We
                         offer cost-effective, end-to-end assistance for registering your private limited company while
                         ensuring MCA compliance.</p>
 
@@ -146,13 +146,11 @@
                             bank account, and meeting legal compliance such as AGMs and ROC filings.</p>
                     </section>
 
-                    <div class="text-center">
                         <h4>Register with Hiva Professionals</h4>
                         <p>Let our experts at <strong>Hiva Professionals</strong> handle your private limited company
                             registration in India. We ensure a smooth, affordable process from name selection to final
                             incorporation and beyond. Focus on your business goals while we take care of legal
                             formalities.</p>
-                    </div>
                 </div>
             </div>
         </div>

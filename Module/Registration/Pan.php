@@ -21,7 +21,7 @@
                     <div class="col-md-7 ps-5">
                         <div class="card border-0">
                             <h4>PAN Card</h4>
-                            <p><span class="text-primary fw-bold">4.3</span> 7596 Customers</p>
+                            <p><span class="text-primary fw-bold">4.9</span> 2288 Customers</p>
                             <p>PAN card links all your financial transactions to the Indian tax system.</p>
                         </div>
                     </div>
@@ -32,7 +32,7 @@
             <div class="col-md-12 col1 p-3 ps-4 mt-5 height-fit-content main-container-border-radius">
                 <div class="card border-0">
                     <section>
-                        <h3 class="text-center">PAN Card for GST Registration – Everything You Need to Know</h3>
+                        <h3 class="text-center  ">PAN Card for GST Registration – Everything You Need to Know</h3>
                         <p>A PAN (Permanent Account Number) card is a crucial document for anyone engaging in financial
                             transactions or running a business in India. It serves as a unique identifier for
                             individuals and entities, helping the Income Tax Department track all tax-related
@@ -40,7 +40,7 @@
                             is a mandatory requirement.</p>
 
                         <h4>What is a PAN Card?</h4>
-                        <p>The PAN card is a 10-digit alphanumeric identifier issued by the Income Tax Department of
+                        <p>The PAN card is a 10-Characters alphanumeric identifier issued by the Income Tax Department of
                             India under the supervision of the Central Board of Direct Taxes (CBDT). It is required for
                             filing income tax returns, opening a bank account, and conducting various high-value
                             transactions.</p>
@@ -76,24 +76,54 @@
                         <p>Each type of PAN is linked to specific compliance requirements. For GST, it’s important to
                             ensure the PAN is valid and active in the Income Tax database.</p>
 
-                        <h4>Documents Required to Apply for a PAN Card</h4>
-                        <p>To apply for a PAN card for GST registration purposes, you need to provide the following
-                            documents:</p>
-                        <ul>
-                            <li>Proof of identity (Aadhar Card, Voter ID, Passport)</li>
-                            <li>Proof of address (Utility bill, Bank statement)</li>
-                            <li>Proof of date of birth (For individuals)</li>
-                            <li>For businesses: Certificate of Incorporation, Partnership Deed, or Registration
-                                Certificate</li>
-                        </ul>
+                        <h4>PAN Overview :</h4>
+                        <div class="table-responsive">
+                            <table class="table table-bordered table-striped">
+                                <thead class="table-light">
+                                    <tr>
+                                        <th>Particulars</th>
+                                        <th>PAN</th>
+                                    </tr>
+                                </thead>
 
-                        <h4>How to Apply for a PAN Card?</h4>
-                        <p>Applying for a PAN card is a simple online process. You can visit the NSDL or UTIITSL
-                            websites and fill out Form 49A. Submit the required documents, pay a nominal fee, and your
-                            PAN card will be dispatched once your application is verified.</p>
-                        <p>At <strong>Hiva Professionals</strong>, we assist individuals and businesses in applying for
-                            their PAN card quickly and efficiently, so you can move forward with your GST registration
-                            without delay.</p>
+                                <tbody>
+                                    <tr>
+                                        <td>Purpose</td>
+                                        <td>For Income Tax and financial transactions</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Issued By</td>
+                                        <td>Income Tax Department</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Required For</td>
+                                        <td>All taxpayers</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Format</td>
+                                        <td>10-Characters alphanumeric (e.g., ABCDE1234F)</td>
+                                    </tr>
+                                </tbody>
+                            </table>
+
+                            <h4>Documents Required to Apply for a PAN Card</h4>
+                            <p>To apply for a PAN card for GST registration purposes, you need to provide the following
+                                documents:</p>
+                            <ul>
+                                <li>Proof of identity (Aadhar Card, Voter ID, Passport)</li>
+                                <li>Proof of address (Utility bill, Bank statement)</li>
+                                <li>Proof of date of birth (For individuals)</li>
+                                <li>For businesses: Certificate of Incorporation, Partnership Deed, or Registration
+                                    Certificate</li>
+                            </ul>
+
+                            <h4>How to Apply for a PAN Card?</h4>
+                            <p>Applying for a PAN card is a simple online process. You can visit the NSDL or UTIITSL
+                                websites and fill out Form 49A. Submit the required documents, pay a nominal fee, and your
+                                PAN card will be dispatched once your application is verified.</p>
+                            <p>At <strong>Hiva Professionals</strong>, we assist individuals and businesses in applying for
+                                their PAN card quickly and efficiently, so you can move forward with your GST registration
+                                without delay.</p>
                     </section>
                 </div>
             </div>

@@ -27,7 +27,7 @@
                     <div class="col-md-7 ps-5">
                         <div class="card border-0">
                             <h4>FSSAI Registration</h4>
-                            <p><span class="text-primary fw-bold">4.3</span> 7596 Customers</p>
+                            <p><span class="text-primary fw-bold">4.5</span> 2205 Customers</p>
                             <p>FSSAI registration application preparation and filing for small food businesses, petty
                                 retailers, juice shops and hawkers by FSSAI consultant.</p>
                         </div>

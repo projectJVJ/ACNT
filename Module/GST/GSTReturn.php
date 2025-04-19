@@ -26,7 +26,7 @@
                     <div class="col-md-7 ps-5">
                         <div class="card border-0">
                             <h4>GST Return Filing by Accountant</h4>
-                            <p><span class="text-primary fw-bold">4.3</span> 7596 Customers</p>
+                            <p><span class="text-primary fw-bold">4.7</span> 2277 Customers</p>
                             <p>Get an Accountant to manage your accounts, bookkeeping, GST and Income Tax Filing.</p>
                         </div>
                     </div>
@@ -45,7 +45,7 @@
                         Using a comprehensive GST filing system, businesses can efficiently manage their tax data, monitor real-time financial activity, and stay compliant with minimal effort. Integration with other financial applications further streamlines workflow and reduces manual effort.
                     </p>
 
-                    <h4 class="mt-4">What is a GST Return?</h4>
+                    <h4 class="mt-1">What is a GST Return?</h4>
                     <p>
                         A GST return is a record of all income and expenditure of a registered taxpayer, submitted to the tax department to calculate tax liabilities. These returns must be filed regularly and include key components such as:
                     </p>
@@ -57,7 +57,7 @@
                             <li>Input Tax Credit – GST paid on purchases, eligible for deduction</li>
                         </ul>
 
-                        <h5 class="mt-4">Who Needs to File GST Returns?</h5>
+                        <h4 class="mt-1">Who Needs to File GST Returns?</h4>
                         <p>
                             All entities registered under GST must file returns. This includes:
                         </p>
@@ -68,7 +68,7 @@
                         </ul>
                     </section>
 
-                    <h4 class="mt-4">Types of GST Returns</h4>
+                    <h4 class="mt-1">Types of GST Returns</h4>
                     <div class="table-responsive">
                         <table class="table table-bordered table-striped">
                             <thead>
@@ -134,12 +134,12 @@
                         </table>
                     </div>
 
-                    <h4 class="mt-4">Auto-Generated Input Tax Credit Returns</h4>
+                    <h4 class="mt-1">Auto-Generated Input Tax Credit Returns</h4>
                     <p>
                         <strong>GSTR-2A</strong> (Dynamic) and <strong>GSTR-2B</strong> (Static) show input tax credit based on supplier returns. For QRMP scheme taxpayers, the <strong>Invoice Furnishing Facility (IFF)</strong> helps declare B2B sales. Tax payments are made monthly via <strong>PMT-06</strong>.
                     </p>
 
-                    <h4 class="mt-4">Important Deadlines</h4>
+                    <h4 class="mt-1">Important Deadlines</h4>
                     <div class="table-responsive">
                         <table class="table table-bordered table-striped">
                             <thead>
@@ -200,7 +200,7 @@
                     </div>
 
                     <section>
-                        <h4 class="mt-4">Penalties for Late Filing</h4>
+                        <h4 class="mt-1">Penalties for Late Filing</h4>
                         <ul>
                             <li>Subsequent returns are blocked until pending filings are cleared.</li>
                             <li>Late fee: ₹100/day under CGST and SGST each, capped at ₹5,000.</li>
@@ -208,7 +208,7 @@
                             <li>Annual returns: Penalty capped at 0.25% of turnover per state.</li>
                         </ul>
 
-                        <h4 class="mt-4">Steps to File GST Returns</h4>
+                        <h4 class="mt-1">Steps to File GST Returns</h4>
                         <p>
                             Filing GST returns involves a structured process to ensure accuracy and compliance with tax regulations. Each step is important for maintaining proper records and avoiding discrepancies that could lead to penalties. Below is a simplified outline of the filing process:
                         </p>
@@ -221,7 +221,7 @@
                             <li>Save proof of filing.</li>
                         </ol>
 
-                        <h4 class="mt-4">Benefits of a Digital GST Filing Platform</h4>
+                        <h4 class="mt-1">Benefits of a Digital GST Filing Platform</h4>
                         <ul>
                             <li>Expert assistance and guidance</li>
                             <li>Timely reminders and alerts</li>
@@ -232,11 +232,11 @@
                         </ul>
                     </section>
 
-                    <p class="mt-4">
+                    <p class="mt-1">
                         Filing your GST returns on time ensures smooth business operations, helps claim input credits, and avoids costly penalties. A streamlined digital solution can make the entire process hassle-free.
                     </p>
 
-                    <h4 class="mt-4">Why Choose Hiva Professionals?</h4>
+                    <h4 class="mt-1">Why Choose Hiva Professionals?</h4>
                     <p>
                         At <strong>Hiva Professionals</strong>, we bring expertise, precision, and reliability to every step of the GST return filing process. Our team of experienced professionals ensures that your business stays compliant with GST regulations while minimizing risks and penalties. With timely reminders, personalized support, and smart use of automation, we make tax filing simple and stress-free.
                     </p>

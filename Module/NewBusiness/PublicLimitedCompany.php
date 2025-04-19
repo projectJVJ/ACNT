@@ -15,7 +15,7 @@
                     <div class="col-md-5 ps-3 first-card p-0">
                         <div class="card border-0">
                             <img src="/acnt/assets/img/PublicLimitedCompany.jpg" class="card-img-top rounded-lg w-90"
-                                alt="Partnership Registration">
+                                alt="Public Limitedcomp img">
                             <div class="card-body p-0 pt-3 d-grid gap-2">
                                 <span>Recent Utility Bill</span>
                                 <span>Name Significance Letter</span>
@@ -27,7 +27,7 @@
                     <div class="col-md-7 ps-5">
                         <div class="card border-0">
                             <h4>Public Limited Company</h4>
-                            <p><span class="text-primary fw-bold">4.3</span> 7596 Customers</p>
+                            <p><span class="text-primary fw-bold">4.1</span> 1963 Customers</p>
                             <p>Easily incorporate a Public Limited Company through Hiva Professionals. A minimum of 3 Directors and 7 Shareholders are required to incorporate a Public Limited Company.
                             </p>
                         </div>
@@ -38,7 +38,7 @@
             <?php include "../../assets/layout/ScheduleAppointment.php"; ?>
             <div class="col-md-12 col1 p-3 ps-4 mt-5 height-fit-content main-container-border-radius">
                 <div class="card border-0" id="paragraph">
-                    <h3 class="text-center section-title">Public Limited Company Registration</h3>
+                    <h3 class="text-center">Public Limited Company Registration</h3>
                     <p class="text-center">Register your Public Limited Company in India with ease through Hiva
                         Professionals</p>
 
@@ -64,7 +64,7 @@
                             <li><strong>Capital:</strong> No minimum paid-up capital requirement.</li>
                         </ul>
                         <h4>Types of Public Limited Companies</h4>
-                        <div class="highlight">
+                        <div>
                             <strong>Listed Company:</strong> Shares are listed on stock exchanges.<br>
                             <strong>Unlisted Company:</strong> Shares are not publicly traded but still offer broader
                             ownership.
@@ -107,12 +107,10 @@
                             <li>Open a bank account in company’s name</li>
                         </ol>
                     </section>
-                    <div class="text-center">
                         <h4>Start Your Public Limited Company with Hiva Professionals</h4>
                         <p>Let our experts at Hiva Professionals guide you through every step—from document preparation
                             to post-registration compliance. We make your business journey smoother, so you can focus on
                             growth while we handle the legal formalities.</p>
-                    </div>
                 </div>
             </div>
         </div>

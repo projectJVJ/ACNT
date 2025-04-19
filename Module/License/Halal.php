@@ -20,7 +20,7 @@
                     <div class="col-md-7 ps-5">
                         <div class="card border-0">
                             <h4>Halal License</h4>
-                            <p><span class="text-primary fw-bold">4.3</span> 7596 Customers</p>
+                            <p><span class="text-primary fw-bold">4.0</span> 1852 Customers</p>
                             <p>Obtaining Halal license and certification is an important step for all food businesses looking to serve quality food that caters to a large audience in over 120 countries.</p>
                         </div>
                     </div>
@@ -29,7 +29,7 @@
             <?php include "../../assets/layout/ScheduleAppointment.php"; ?>
             <div class="col-md-12 col1 p-3 ps-4 mt-5 height-fit-content main-container-border-radius">
                 <div class="card border-0" id="paragraph">
-                    <h3 class="text-center mt-2">Halal Certification in India</h3>
+                    <h3 class="text-center mb-3">Halal Certification in India</h3>
                     <p>Halal Certification is essential for businesses that want to cater to the Muslim population by offering products that follow Islamic dietary and ethical standards. This certification ensures that the production, handling, and ingredients of a product meet Islamic guidelines, making it lawful (Halal) for consumption or use.</p>
 
                     <h4>What is a Halal Certificate?</h4>

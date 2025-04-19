@@ -15,20 +15,15 @@
                     <div class="col-md-5 ps-3 first-card p-0">
                         <div class="card border-0">
                             <img src="/acnt/assets/img/NewLoanProject.png" height="225px" width="225px" class="card-img-top rounded-lg w-90" alt="New Project Loan_img">
-                            <div class="card-body p-0 pt-3 d-grid gap-2">
-                                <span>Pan Card</span>
-                                <span>Aadhar Card</span>
-                                <span>Rental Agreement</span>
-                                <a href="#" class="text-primary">Load More</a>
-                            </div>
                         </div>
                     </div>
                     <div class="col-md-7 ps-5">
                         <div class="card border-0">
                             <h4>New Loan Project</h4>
-                            <p><span class="text-primary fw-bold">4.3</span> 7596 Customers</p>
-                            <p>Get your New Loan Project done by our experts, along with firm PAN and GST
-                                registration.
+                            <p><span class="text-primary fw-bold">4.7</span> 2275 Customers</p>
+                            <p>Fuel your vision with the right funding — turn your new project into a lasting success.
+
+
                             </p>
                         </div>
                     </div>
@@ -52,81 +47,32 @@
 
                     <h4 class="mt-4">Key Features of a New Project Loan</h4>
                     <section>
-                    <ul>
-                        <li><strong>Customized Loan Amount:</strong> Based on the size, scope, and capital needs of your project.</li>
-                        <li><strong>Flexible Repayment Options:</strong> Loan tenure ranges from 1 to 10 years with EMI-based or structured repayments.</li>
-                        <li><strong>Collateral-Based Financing:</strong> Often backed by property, machinery, or business assets.</li>
-                        <li><strong>End-Use Flexibility:</strong> Can be used for fixed assets, construction, technology, and pre-operative expenses.</li>
-                        <li><strong>Interest Rates:</strong> Competitive rates depending on business profile, creditworthiness, and market trends.</li>
-                        <li><strong>Pre-Approval Assistance:</strong> Guidance in preparing detailed project reports and financial forecasts.</li>
-                    </ul>
-                    </section>
+                        <ul>
+                            <li><strong>Customized Loan Amount:</strong> Based on the size, scope, and capital needs of your project.</li>
+                            <li><strong>Flexible Repayment Options:</strong> Loan tenure ranges from 1 to 10 years with EMI-based or structured repayments.</li>
+                            <li><strong>Collateral-Based Financing:</strong> Often backed by property, machinery, or business assets.</li>
+                            <li><strong>End-Use Flexibility:</strong> Can be used for fixed assets, construction, technology, and pre-operative expenses.</li>
+                            <li><strong>Interest Rates:</strong> Competitive rates depending on business profile, creditworthiness, and market trends.</li>
+                            <li><strong>Pre-Approval Assistance:</strong> Guidance in preparing detailed project reports and financial forecasts.</li>
+                        </ul>
 
-                    <h4 class="mt-4">Eligibility Criteria</h4>
-                    <section>
-                    <ul>
-                        <li>Startups, MSMEs, and established companies planning a new project</li>
-                        <li>Valid business plan and projected financials</li>
-                        <li>Positive credit history and financial track record</li>
-                        <li>Compliances like GST, Income Tax filings, and KYC</li>
-                    </ul>
-                    </section>
-
-                    <h4 class="mt-4">Documents Required</h4>
-                    <section>
-                    <ul>
-                        <li>Project Report with cost and revenue projections</li>
-                        <li>KYC documents of promoters and business</li>
-                        <li>Bank statements and ITR for the last 2-3 years</li>
-                        <li>Ownership proof of collateral (if applicable)</li>
-                        <li>Company PAN, GST Registration, and other licenses</li>
-                    </ul>
-                    </section>
-
-                    <h4 class="mt-4">Typical Loan Structure Example</h4>
-                    <div class="table-responsive">
-                        <table class="table table-bordered table-striped">
-                            <thead class="table-light">
-                                <tr>
-                                    <th>Project Component</th>
-                                    <th>Estimated Cost (INR)</th>
-                                    <th>Loan Coverage</th>
-                                </tr>
-                            </thead>
-                            <tbody>
-                                <tr>
-                                    <td>Land & Building</td>
-                                    <td>50,00,000</td>
-                                    <td>75%</td>
-                                </tr>
-                                <tr>
-                                    <td>Plant & Machinery</td>
-                                    <td>30,00,000</td>
-                                    <td>80%</td>
-                                </tr>
-                                <tr>
-                                    <td>Working Capital</td>
-                                    <td>15,00,000</td>
-                                    <td>90%</td>
-                                </tr>
-                                <tr>
-                                    <td>Pre-operative Expenses</td>
-                                    <td>5,00,000</td>
-                                    <td>100%</td>
-                                </tr>
-                            </tbody>
-                        </table>
-                    </div>
-
-                    <h4 class="mt-4">Why Choose Hiva Professionals for Your Project Loan?</h4>
-                    <section>
-                    <ul>
-                        <li><strong>Expert Financial Guidance:</strong> Our team of finance professionals helps you navigate complex loan procedures with ease.</li>
-                        <li><strong>Project Report Preparation:</strong> We craft detailed and bank-ready project reports that improve your loan approval chances.</li>
-                        <li><strong>Customized Loan Structuring:</strong> We analyze your business model and structure your loan application to suit lender preferences.</li>
-                        <li><strong>Wide Network of Lenders:</strong> We collaborate with leading banks and NBFCs to get you the best interest rates and terms.</li>
-                        <li><strong>End-to-End Support:</strong> From documentation to disbursement, Hiva Professionals is with you at every step.</li>
-                    </ul>
+                        <h4 class="mt-4">Documents Required</h4>
+                        <ul>
+                            <li>Project Report with cost and revenue projections</li>
+                            <li>KYC documents of promoters and business</li>
+                            <li>Bank statements and ITR for the last 2-3 years</li>
+                            <li>Ownership proof of collateral (if applicable)</li>
+                            <li>Company PAN, GST Registration, and other licenses</li>
+                        </ul>
+                    
+                        <h4 class="mt-4">Why Choose Hiva Professionals for Your Project Loan?</h4>
+                        <ul>
+                            <li><strong>Expert Financial Guidance:</strong> Our team of finance professionals helps you navigate complex loan procedures with ease.</li>
+                            <li><strong>Project Report Preparation:</strong> We craft detailed and bank-ready project reports that improve your loan approval chances.</li>
+                            <li><strong>Customized Loan Structuring:</strong> We analyze your business model and structure your loan application to suit lender preferences.</li>
+                            <li><strong>Wide Network of Lenders:</strong> We collaborate with leading banks and NBFCs to get you the best interest rates and terms.</li>
+                            <li><strong>End-to-End Support:</strong> From documentation to disbursement, Hiva Professionals is with you at every step.</li>
+                        </ul>
                     </section>
 
                     <p class="mt-4">

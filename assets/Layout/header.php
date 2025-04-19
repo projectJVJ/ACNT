@@ -67,7 +67,7 @@
                   <li><a href="/acnt/Registration/Pf.php">PF</a></li>
                 </div>
                 <div class="dropdown-column">
-                  <li><a href="/acnt/Registration/Esic.php">ESIC</a></li>
+                  <li><a href="/acnt/Registration/ESIC.php">ESIC</a></li>
                   <li><a href="/acnt/Registration/ProfessionalTax.php">Professional Tax</a></li>
                   <li><a href="/acnt/Registration/FSSAI.php">FSSAI</a></li>
                   <li><a href="/acnt/Registration/ICEGATE.php">ICEGATE</a></li>
@@ -131,9 +131,11 @@
               </div>
             </ul>
           </li>
-          <li class="dropdown">
+          
+          <!-- <li class="dropdown">
             <a href="/acnt/Module/MCA/MCA.php"><span>ROC/MCA</span> <i class="toggle-dropdown"></i></a>
-          </li>
+          </li> -->
+
           <li class="dropdown">
             <a href="#"><span>Finance</span> <i class="toggle-dropdown"></i></a>
             <ul class="dropdown-menu">
@@ -160,7 +162,7 @@
         <i class="mobile-nav-toggle d-xl-none bi bi-list"></i>
       </nav>
 
-      <a class="btn-getstarted ms-auto" href="index.php#about">Login</a>
+      <!-- <a class="btn-getstarted ms-auto" href="index.php#about">Login</a> -->
 
     </div>
   </header>

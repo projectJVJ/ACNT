@@ -2,7 +2,7 @@
 
 <head>
     <meta charset="UTF-8">
-    <title>MSME – Udyam</title>
+    <title>MSME - Udyam</title>
 </head>
 
 <body>
@@ -20,9 +20,9 @@
                     </div>
                     <div class="col-md-7 ps-5">
                         <div class="card border-0">
-                            <h4>MSME – Udyam Registration</h4>
-                            <p><span class="text-primary fw-bold">4.3</span> 7596 Customers</p>
-                            <p>MSME – Udyam Registration: Simplified Online Registration for Micro, Small & Medium Enterprises</p>
+                            <h4>MSME - Udyam Registration</h4>
+                            <p><span class="text-primary fw-bold">4.4</span> 1998 Customers</p>
+                            <p>MSME - Udyam Registration: Simplified Online Registration for Micro, Small & Medium Enterprises</p>
                         </div>
                     </div>
                 </div>
@@ -31,8 +31,8 @@
             <?php include "../../assets/layout/ScheduleAppointment.php"; ?>
             <div class="col-md-12 col1 p-3 ps-4 mt-5 height-fit-content main-container-border-radius">
                 <div class="card border-0" id="paragraph">
-                    <div class="text-center mb-5">
-                        <h3>MSME – Udyam Registration</h3>
+                    <div class="text-center mb-2">
+                        <h3>MSME - Udyam Registration</h3>
                         <p>Empower Your Business with Official MSME Recognition Under Udyam with <strong>Hiva Professional</strong></p>
                     </div>
                     <section>
@@ -47,43 +47,13 @@
 
                         <h4>Key Highlights of Udyam Registration</h4>
                         <ul>
-                            <li>Single-window digital system – No document upload required</li>
+                            <li>Single-window digital system - No document upload required</li>
                             <li>Registration based on PAN and Aadhaar authentication</li>
                             <li>Instant Udyam Certificate with QR code</li>
                             <li>MSME classification by investment & turnover</li>
-                            <li>No renewal required – Valid for lifetime</li>
+                            <li>No renewal required - Valid for lifetime</li>
                             <li>Migration required for existing Udyog Aadhaar holders</li>
                         </ul>
-
-                        <h4>Classification of MSMEs (As per July 2020 Notification)</h4>
-                        <div class="table-responsive">
-                            <table class="table table-bordered text-center">
-                                <thead>
-                                    <tr>
-                                        <th>Enterprise Type</th>
-                                        <th>Investment in Plant & Machinery/Equipment</th>
-                                        <th>Annual Turnover</th>
-                                    </tr>
-                                </thead>
-                                <tbody>
-                                    <tr>
-                                        <td>Micro Enterprise</td>
-                                        <td>Up to ₹1 crore</td>
-                                        <td>Up to ₹5 crore</td>
-                                    </tr>
-                                    <tr>
-                                        <td>Small Enterprise</td>
-                                        <td>Up to ₹10 crore</td>
-                                        <td>Up to ₹50 crore</td>
-                                    </tr>
-                                    <tr>
-                                        <td>Medium Enterprise</td>
-                                        <td>Up to ₹50 crore</td>
-                                        <td>Up to ₹250 crore</td>
-                                    </tr>
-                                </tbody>
-                            </table>
-                        </div>
 
                         <h4>Benefits of Udyam Registration</h4>
                         <ul>
@@ -95,7 +65,7 @@
                             <li>Legal protection against delayed payments</li>
                             <li>Ease in obtaining licenses and approvals</li>
                         </ul>
-                        <h4>Who Should Register for MSME – Udyam?</h4>
+                        <h4>Who Should Register for MSME - Udyam?</h4>
                         <ul>
                             <li>Startups & Entrepreneurs seeking government benefits</li>
                             <li>Manufacturers, Traders, and Service Providers</li>

@@ -2,7 +2,7 @@
 
 <head>
     <meta charset="UTF-8">
-    <title>Mortgage and LLP</title>
+    <title>Mortgage and LAP</title>
 </head>
 
 <body>
@@ -15,20 +15,13 @@
                     <div class="col-md-5 ps-3 first-card p-0">
                         <div class="card border-0">
                             <img src="/acnt/assets/img/MortgateLLP.jpg" class="card-img-top rounded-lg w-90" alt="Mortgate and LLP img">
-                            <div class="card-body p-0 pt-3 d-grid gap-2">
-                                <span>Pan Card</span>
-                                <span>Aadhar Card</span>
-                                <span>Rental Agreement</span>
-                                <a href="#" class="text-primary">Load More</a>
-                            </div>
                         </div>
                     </div>
                     <div class="col-md-7 ps-5">
                         <div class="card border-0">
-                            <h4>Mortgage and LLP</h4>
-                            <p><span class="text-primary fw-bold">4.3</span> 7596 Customers</p>
-                            <p>Get your Mortgage and LLP Done by our experts, along with firm PAN and GST
-                                registration.
+                            <h4>Mortgage and LAP</h4>
+                            <p><span class="text-primary fw-bold">4.1</span> 2083 Customers</p>
+                            <p>Turn your property into a powerful financial asset—whether through a mortgage or loan against property, unlock new opportunities with the value you already own.
                             </p>
                         </div>
                     </div>
@@ -40,110 +33,129 @@
 
             <div class="col-md-12 p-3 mt-5 main-container-border-radius">
                 <div class="card border-0" id="paragraph">
-                    <h3 class="mb-3 text-center">Mortgage and LLP in Finance</h3>
-                    <p>
-                        In the world of finance, both <strong>Mortgage</strong> and <strong>Limited Liability Partnership (LLP)</strong> play crucial roles for individuals and businesses. Understanding their structure, usage, and benefits is essential for making informed financial decisions, especially when dealing with property investments or business formation.
-                    </p>
+                    <h3 class="mb-4 text-center">Mortgage & Loan Against Property (LAP) Solutions </h1>
+                        <p class="lead">Unlock the true value of your property with Mortgage and Loan Against Property (LAP) solutions from Hiva Professionals. Whether you're a salaried individual, self-employed, or a business owner, our LAP services offer a reliable way to finance your personal or professional needs without selling your property.</p>
 
-                    <h4 class="mt-4">What is a Mortgage?</h4>
-                    <p>
-                        A mortgage is a type of secured loan where real estate or property is used as collateral. It is commonly used by individuals or businesses to purchase property without paying the full amount upfront. Mortgages are paid back in installments over a specified term, typically 10 to 30 years.
-                    </p>
-                    <section>
-                    <ul>
-                        <li><strong>Loan Purpose:</strong> Primarily used to finance the purchase of residential or commercial property.</li>
-                        <li><strong>Repayment:</strong> Monthly EMIs comprising both principal and interest.</li>
-                        <li><strong>Collateral:</strong> The property being purchased serves as security.</li>
-                        <li><strong>Tenure:</strong> Long-term loans, usually between 10 to 30 years.</li>
-                        <li><strong>Interest Rate:</strong> Can be fixed or floating, depending on the lender.</li>
-                    </ul>
+                        <h4>What is Loan Against Property (LAP)?</h4>
+                        <p>Loan Against Property is a secured loan where you pledge your residential, commercial, or industrial property as collateral. It allows you to raise funds for business expansion, education, weddings, medical expenses, or even debt consolidation while retaining ownership of your property.</p>
+                        <section>
+                            <h4>Why Choose LAP?</h4>
+                            <ul>
+                                <li>Lower interest rates compared to unsecured loans</li>
+                                <li>Flexible tenure of up to 15-20 years</li>
+                                <li>High loan amount based on market value of the property</li>
+                                <li>Minimal documentation and fast processing with expert guidance</li>
+                                <li>Continue to use your property while availing the loan</li>
+                            </ul>
 
-                    <h4 class="mt-4">What is an LLP (Limited Liability Partnership)?</h4>
-                    <p>
-                        An LLP is a legal business structure that combines the flexibility of a partnership with the benefits of limited liability. It is ideal for professional services, startups, or small businesses that want limited legal exposure and shared responsibilities among partners.
-                    </p>
+                            <h4>Types of Property Eligible for LAP</h4>
+                            <ul>
+                                <li>Self-occupied residential properties</li>
+                                <li>Rented residential properties</li>
+                                <li>Commercial buildings (shops, offices)</li>
+                                <li>Industrial units and warehouses</li>
+                                <li>Plots with clear legal title</li>
+                            </ul>
 
-                    <ul>
-                        <li><strong>Legal Structure:</strong> Separate legal entity governed by the LLP Act, 2008 (India).</li>
-                        <li><strong>Liability:</strong> Liability of partners is limited to their capital contribution.</li>
-                        <li><strong>Taxation:</strong> LLPs are taxed as a partnership firm and avoid dividend distribution tax.</li>
-                        <li><strong>Compliance:</strong> Fewer regulatory requirements compared to private limited companies.</li>
-                        <li><strong>Management:</strong> Managed by designated partners with mutual agreement on roles.</li>
-                    </ul>
-                    </section>
+                            <div class="table-wrapper mt-2">
+                                <h4 class="mb-3">Overview of Personal Loan</h4>
+                                <table class="table table-bordered table-striped">
+                                    <thead class="table-light">
+                                        <tr>
+                                            <th>Parameter</th>
+                                            <th>Details</th>
+                                        </tr>
+                                    </thead>
+                                    <tbody>
+                                        <tr>
+                                            <td>Type of Loan</td>
+                                            <td>Personal Loans are unsecured loans that do not require any collateral or asset as security.</td>
+                                        </tr>
+                                        <tr>
+                                            <td>Interest Rate</td>
+                                            <td>Generally higher, ranging from 10% to 24%, due to the unsecured nature of the loan.</td>
+                                        </tr>
+                                        <tr>
+                                            <td>Loan Amount</td>
+                                            <td>Borrowers can avail up to ₹25 lakhs, depending on income and credit profile.</td>
+                                        </tr>
+                                        <tr>
+                                            <td>Repayment Tenure</td>
+                                            <td>Typically ranges from 1 to 5 years with fixed EMIs.</td>
+                                        </tr>
+                                        <tr>
+                                            <td>Processing Time</td>
+                                            <td>Quick disbursal, usually within 1–2 days, especially for pre-approved customers.</td>
+                                        </tr>
+                                    </tbody>
+                                </table>
+                            </div>
 
-                    <h4 class="mt-4">Comparison Table: Mortgage vs LLP</h4>
-                    <div class="table-responsive">
-                        <table class="table table-bordered table-striped mt-3">
-                            <thead class="table-light">
-                                <tr>
-                                    <th>Aspect</th>
-                                    <th>Mortgage</th>
-                                    <th>LLP</th>
-                                </tr>
-                            </thead>
-                            <tbody>
-                                <tr>
-                                    <td>Purpose</td>
-                                    <td>Property financing</td>
-                                    <td>Business formation & operations</td>
-                                </tr>
-                                <tr>
-                                    <td>Structure</td>
-                                    <td>Loan agreement with lender</td>
-                                    <td>Registered legal partnership</td>
-                                </tr>
-                                <tr>
-                                    <td>Liability</td>
-                                    <td>Borrower is personally liable</td>
-                                    <td>Limited to capital contributed</td>
-                                </tr>
-                                <tr>
-                                    <td>Collateral</td>
-                                    <td>Property used as security</td>
-                                    <td>Not applicable</td>
-                                </tr>
-                                <tr>
-                                    <td>Repayment</td>
-                                    <td>Monthly EMIs</td>
-                                    <td>No repayment – profit distribution</td>
-                                </tr>
-                                <tr>
-                                    <td>Risk Involved</td>
-                                    <td>Property foreclosure on default</td>
-                                    <td>Business failure risk shared</td>
-                                </tr>
-                            </tbody>
-                        </table>
-                    </div>
+                            <div class="table-wrapper mt-4">
+                                <h4 class="mb-3">Overview of Loan Against Property (LAP)</h4>
+                                <table class="table table-bordered table-striped">
+                                    <thead class="table-light">
+                                        <tr>
+                                            <th class="Mortgate-table-width">Parameter</th>
+                                            <th>Details</th>
+                                        </tr>
+                                    </thead>
+                                    <tbody>
+                                        <tr>
+                                            <td>Type of Loan</td>
+                                            <td>Loan Against Property is a secured loan where the borrower pledges residential or commercial property as collateral.</td>
+                                        </tr>
+                                        <tr>
+                                            <td>Interest Rate</td>
+                                            <td>Lower interest rates, typically between 8% and 12%, due to the presence of collateral.</td>
+                                        </tr>
+                                        <tr>
+                                            <td>Loan Amount</td>
+                                            <td>Higher loan amounts are available — up to ₹5 crores or more, based on property value and eligibility.</td>
+                                        </tr>
+                                        <tr>
+                                            <td>Repayment Tenure</td>
+                                            <td>Flexible repayment tenure, often extending up to 15–20 years.</td>
+                                        </tr>
+                                        <tr>
+                                            <td>Processing Time</td>
+                                            <td>Longer processing time of around 4–7 working days, due to property valuation and legal checks.</td>
+                                        </tr>
+                                    </tbody>
+                                </table>
+                            </div>
 
-                    <h4 class="mt-4">Why This Knowledge Matters</h4>
-                    <p>
-                        Whether you're planning to expand your business, invest in real estate, or register a professional firm, knowing the implications of mortgages and LLPs is key to minimizing risks and optimizing your financial strategies. Both tools serve different needs, but they are foundational to wealth-building and structured growth.
-                    </p>
 
-                    <p>
-                        If you’re an entrepreneur, real estate investor, or a finance enthusiast, understanding how these financial instruments work gives you an edge in making smart, sustainable decisions.
-                    </p>
+                            <h4>Eligibility Criteria for LAP</h4>
+                            <ul>
+                                <li>Applicant must be at least 21 years of age</li>
+                                <li>Regular source of income is mandatory</li>
+                                <li>Clear title of property with no legal disputes</li>
+                                <li>Good credit history and repayment capability</li>
+                            </ul>
 
-                    <h4 class="mt-4">Why Choose Hiva Professionals?</h4>
-                    <p>
-                        <strong>Hiva Professionals</strong> stands out as a trusted name in financial education and consultancy. Our dedicated team of experts offers personalized guidance in areas like mortgage finance, LLP registration, tax structuring, and strategic financial planning. We blend practical industry experience with up-to-date knowledge to empower our clients with actionable insights.
-                    </p>
-                    
-                    <section>
-                    <ul>
-                        <li>Expert-led training and consultancy services tailored to financial and legal needs</li>
-                        <li>End-to-end support for LLP registration and compliance</li>
-                        <li>Guidance on selecting the best mortgage options based on your goals</li>
-                        <li>Workshops and personalized sessions to improve your financial literacy</li>
-                        <li>Trusted by entrepreneurs, professionals, and growing businesses across sectors</li>
-                    </ul>
-                    </section>
+                            <h4>Common Use Cases for LAP</h4>
+                            <ul>
+                                <li>Business expansion or working capital</li>
+                                <li>Child’s higher education expenses</li>
+                                <li>Wedding funding</li>
+                                <li>Medical emergencies or critical treatments</li>
+                                <li>Debt consolidation to lower interest burdens</li>
+                            </ul>
 
-                    <p>
-                        Choosing Hiva Professionals means you're not just making a financial decision — you're choosing clarity, confidence, and long-term support. Partner with us to build a future that’s financially secure and legally compliant.
-                    </p>
+                            <h4>Why Choose Hiva Professionals?</h4>
+                            <p>We, at <strong>Hiva Professionals</strong>, understand the importance of quick and efficient financing. Our dedicated financial experts ensure seamless documentation, accurate property valuation, and negotiations with leading banks and NBFCs to secure the best deal for you. Our services are personalized, transparent, and focused on providing peace of mind.</p>
+                            <ul>
+                                <li>Experienced consultants with industry knowledge</li>
+                                <li>Hassle-free documentation and processing</li>
+                                <li>End-to-end assistance until disbursal</li>
+                                <li>Trusted by hundreds of happy clients across India</li>
+                            </ul>
+
+                        </section>
+
+                        <h4>Start Your Journey Today With us</h4>
+                        <p>Whether you are looking to unlock your property's equity or planning a financial move that demands flexibility and large funding, <strong>Loan Against Property</strong> with Hiva Professionals is the smartest choice. Get in touch with us today to receive expert assistance and begin your journey towards financial empowerment.</p>
 
                 </div>
             </div>

@@ -15,20 +15,13 @@
                     <div class="col-md-5 ps-3 first-card p-0">
                         <div class="card border-0">
                             <img src="/acnt/assets/img/PrivateEquity.jpg" height="" width="" class="card-img-top rounded-lg w-90" alt="Private Equity img">
-                            <div class="card-body p-0 pt-3 d-grid gap-2">
-                                <span>Pan Card</span>
-                                <span>Aadhar Card</span>
-                                <span>Rental Agreement</span>
-                                <a href="#" class="text-primary">Load More</a>
-                            </div>
                         </div>
                     </div>
                     <div class="col-md-7 ps-5">
                         <div class="card border-0">
                             <h4>Private Equity</h4>
-                            <p><span class="text-primary fw-bold">4.3</span> 7596 Customers</p>
-                            <p>Get Private Equity by our experts, along with firm PAN and GST
-                                registration.
+                            <p><span class="text-primary fw-bold">4.5</span> 1989 Customers</p>
+                            <p>Private equity with purpose, precision, and performance
                             </p>
                         </div>
                     </div>

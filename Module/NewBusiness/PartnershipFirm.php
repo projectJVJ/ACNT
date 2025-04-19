@@ -27,7 +27,7 @@
                     <div class="col-md-7 ps-5">
                         <div class="card border-0">
                             <h4>Partnership Firm Registration</h4>
-                            <p><span class="text-primary fw-bold">4.3</span> 7596 Customers</p>
+                            <p><span class="text-primary fw-bold">4.7</span> 2255 Customers</p>
                             <p>Get your partnership firm deed drafted by our experts, along with firm PAN and GST
                                 registration.
                             </p>

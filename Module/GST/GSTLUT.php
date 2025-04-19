@@ -20,7 +20,7 @@
                     <div class="col-md-7 ps-5">
                         <div class="card border-0">
                             <h4>GST LUT Certification</h4>
-                            <p><span class="text-primary fw-bold">4.3</span> 7596 Customers</p>
+                            <p><span class="text-primary fw-bold">4.1</span> 1863 Customers</p>
                             <p>GST LUT Certification enables our company to export goods with ease, ensuring tax exemption and boosting international trade opportunities.</p>
                         </div>
                     </div>

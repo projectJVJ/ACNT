@@ -20,7 +20,7 @@
                     <div class="col-md-7 ps-5">
                         <div class="card border-0">
                             <h4>GSTR - 10</h4>
-                            <p><span class="text-primary fw-bold">4.3</span> 7596 Customers</p>
+                            <p><span class="text-primary fw-bold">4.5</span> 2215 Customers</p>
                             <p>A taxable person whose GST registration is cancelled or surrendered has to file a return in Form GSTR-10 called as Final Return. This is statement of stocks held by such taxpayer on day immediately preceding the date from which cancellation is made effective.</p>
                         </div>
                     </div>

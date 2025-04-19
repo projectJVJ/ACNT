@@ -27,7 +27,7 @@
                     <div class="col-md-7 ps-5">
                         <div class="card border-0">
                             <h4>GST Registration</h4>
-                            <p><span class="text-primary fw-bold">4.3</span> 7596 Customers</p>
+                            <p><span class="text-primary fw-bold">4.3</span> 2283 Customers</p>
                             <p>Assistance for GST registration with 1 year LEDGERS Accounting software license for
                                 Invoicing, GST E-invoicing and GST filing through LEDGERS.</p>
                         </div>
@@ -38,8 +38,7 @@
             <?php include "../../assets/layout/ScheduleAppointment.php"; ?>
             <div class="col-md-12 col1 p-3 ps-4 mt-5 height-fit-content main-container-border-radius">
                 <div class="card border-0" id="paragraph">
-                    <h3>GST Registration with Hiva Professionals</h3>
-                        <p>Get Expert Assistance for Seamless GST Compliance</p>
+                    <h3 class="text-center">GST Registration with Hiva Professionals</h3>
                         <section>
                             <h4>Overview</h4>
                             <p>GST registration is a mandatory compliance for businesses in India. Introduced on July 1,

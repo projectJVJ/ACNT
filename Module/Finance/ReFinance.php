@@ -15,20 +15,13 @@
                     <div class="col-md-5 ps-3 first-card p-0">
                         <div class="card border-0">
                             <img src="/acnt/assets/img/ReFinance.jpg"  class="card-img-top rounded-lg w-90" alt="Re Finance img">
-                            <div class="card-body p-0 pt-3 d-grid gap-2">
-                                <span>Pan Card</span>
-                                <span>Aadhar Card</span>
-                                <span>Rental Agreement</span>
-                                <a href="#" class="text-primary">Load More</a>
-                            </div>
                         </div>
                     </div>
                     <div class="col-md-7 ps-5">
                         <div class="card border-0">
                             <h4>Re-Finance</h4>
-                            <p><span class="text-primary fw-bold">4.3</span> 7596 Customers</p>
-                            <p>Get your Re-Finance by our experts, along with firm PAN and GST
-                                registration.
+                            <p><span class="text-primary fw-bold">4.5</span> 2212 Customers</p>
+                            <p>Refinance smart—reduce your rates, refresh your goals, and reclaim financial freedom
                             </p>
                         </div>
                     </div>
@@ -70,46 +63,6 @@
                                 <li>You’re looking to reduce financial stress with more favorable terms.</li>
                             </ul>
                             </section>
-
-                            <h4 class="mt-4">Comparison: Original Loan vs. Refinanced Loan</h4>
-                            <div class="table-responsive my-3">
-                                <table class="table table-bordered table-striped">
-                                    <thead class="table-light">
-                                        <tr>
-                                            <th>Feature</th>
-                                            <th>Original Loan</th>
-                                            <th>Refinanced Loan</th>
-                                        </tr>
-                                    </thead>
-                                    <tbody>
-                                        <tr>
-                                            <td>Interest Rate</td>
-                                            <td>8.5% (fixed)</td>
-                                            <td>6.75% (variable)</td>
-                                        </tr>
-                                        <tr>
-                                            <td>Monthly Payment</td>
-                                            <td>₹25,000</td>
-                                            <td>₹20,000</td>
-                                        </tr>
-                                        <tr>
-                                            <td>Loan Tenure</td>
-                                            <td>10 years</td>
-                                            <td>12 years</td>
-                                        </tr>
-                                        <tr>
-                                            <td>Early Closure Fee</td>
-                                            <td>Yes</td>
-                                            <td>No</td>
-                                        </tr>
-                                        <tr>
-                                            <td>Overall Savings</td>
-                                            <td>–</td>
-                                            <td>₹3.5 Lakhs (approx.)</td>
-                                        </tr>
-                                    </tbody>
-                                </table>
-                            </div>
 
                             <h4 class="mt-4">Why Choose Hiva Professionals for Re-finance Guidance?</h4>
                             <p>

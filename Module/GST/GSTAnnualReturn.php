@@ -25,7 +25,7 @@
                     <div class="col-md-7 ps-5">
                         <div class="card border-0">
                             <h4>GST Annual Return Filing</h4>
-                            <p><span class="text-primary fw-bold">4.3</span> 7596 Customers</p>
+                            <p><span class="text-primary fw-bold">4.6</span> 2216 Customers</p>
                             <p>GSTR-9 or GST annual return filing for taxpayers registered under GST Scheme.</p>
                         </div>
                     </div>

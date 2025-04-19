@@ -20,8 +20,8 @@
                     <div class="col-md-7 ps-5">
                         <div class="card border-0">
                             <h4>Income tax appeal filing assistance</h4>
-                            <p><span class="text-primary fw-bold">4.3</span> 7596 Customers</p>
-                            <p>Instant Name Application for Company.</p>
+                            <p><span class="text-primary fw-bold">4.0</span> 2201 Customers</p>
+                            <p>Your second chance at fair taxation starts with the right appeal.</p>
                         </div>
                     </div>
                 </div>
@@ -30,8 +30,8 @@
             <?php include "../../assets/layout/ScheduleAppointment.php"; ?>
             <div class="col-md-12 col1 p-3 ps-4 mt-5 height-fit-content main-container-border-radius">
                 <div class="card border-0" id="paragraph">
-                    <h3 class="text-center mb-4">Income Tax Appeal Filing Assistance</h3>
-                    <p class="lead text-center">Navigate your income tax disputes with confidence through professional
+                    <h3 class="text-center mb-3">Income Tax Appeal Filing Assistance</h3>
+                    <p>Navigate your income tax disputes with confidence through professional
                         appeal filing support.</p>
 
                         <h4>Understanding Income Tax Appeals</h4>

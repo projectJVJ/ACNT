@@ -21,7 +21,7 @@
                     <div class="col-md-7 ps-5">
                         <div class="card border-0">
                             <h4>TAN Number</h4>
-                            <p><span class="text-primary fw-bold">4.3</span> 7596 Customers</p>
+                            <p><span class="text-primary fw-bold">4.7</span> 2252 Customers</p>
                             <p>TAN is used to track TDS and TCS payments to the Income Tax Department.</p>
                         </div>
                     </div>
@@ -55,36 +55,31 @@
                         <li>Valid across India for lifetime</li>
                         <li>Builds credibility with partners and clients</li>
                     </ul>
-                    <h4>TAN vs PAN – Key Differences</h4>
+                    <h4>TAN Overview :</h4>
                     <div class="table-responsive">
                         <table class="table table-bordered table-striped">
                             <thead class="table-light">
                                 <tr>
                                     <th>Particulars</th>
                                     <th>TAN</th>
-                                    <th>PAN</th>
                                 </tr>
                             </thead>
                             <tbody>
                                 <tr>
                                     <td>Purpose</td>
                                     <td>For TDS/TCS deduction & collection</td>
-                                    <td>For Income Tax and financial transactions</td>
                                 </tr>
                                 <tr>
                                     <td>Issued By</td>
-                                    <td>Income Tax Department</td>
                                     <td>Income Tax Department</td>
                                 </tr>
                                 <tr>
                                     <td>Required For</td>
                                     <td>Businesses deducting TDS</td>
-                                    <td>All taxpayers</td>
                                 </tr>
                                 <tr>
                                     <td>Format</td>
                                     <td>10-digit alphanumeric (e.g., DELT12345G)</td>
-                                    <td>10-digit alphanumeric (e.g., ABCDE1234F)</td>
                                 </tr>
                             </tbody>
                         </table>

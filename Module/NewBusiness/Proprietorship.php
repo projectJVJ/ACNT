@@ -15,7 +15,7 @@
                     <div class="col-md-5 ps-3 first-card p-0">
                         <div class="card border-0">
                             <img src="/acnt/assets/img/Proprietorship.jpg" class="card-img-top rounded-lg w-90"
-                                alt="Partnership Registration">
+                                alt="Proprietorship imgm">
                             <div class="card-body p-0 pt-3 d-grid gap-2">
                                 <span>Pan Card</span>
                                 <span>Aadhar Card</span>
@@ -26,7 +26,7 @@
                     <div class="col-md-7 ps-5">
                         <div class="card border-0">
                             <h4>Proprietorship</h4>
-                            <p><span class="text-primary fw-bold">4.3</span> 7596 Customers</p>
+                            <p><span class="text-primary fw-bold">4.4</span> 2089 Customers</p>
                             <p>Easily set up a sole proprietorship online with GST registration.</p>
                         </div>
                     </div>

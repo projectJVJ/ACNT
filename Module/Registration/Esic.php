@@ -21,7 +21,7 @@
                     <div class="col-md-7 ps-5">
                         <div class="card border-0">
                             <h4>ESI Registration</h4>
-                            <p><span class="text-primary fw-bold">4.3</span> 7596 Customers</p>
+                            <p><span class="text-primary fw-bold">4.6</span> 2235 Customers</p>
                             <p>ESI Registration is the process by which every employer/factory and its every employee
                                 employed for wages, is identified for the purpose of the Scheme, and their individual
                                 records are set up for them.</p>

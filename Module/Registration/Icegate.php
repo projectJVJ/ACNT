@@ -21,7 +21,7 @@
                     <div class="col-md-7 ps-5">
                         <div class="card border-0">
                             <h4>ICEGATE Registration</h4>
-                            <p><span class="text-primary fw-bold">4.3</span> 7596 Customers</p>
+                            <p><span class="text-primary fw-bold">4.3</span> 1963 Customers</p>
                             <p>Indian Customs Electronic Data Interchange Gateway (ICEGATE) is the national portal of
                                 Indian (CBIC) that provides e-filing services to the Custom Brokers (License Holder /
                                 F-card and G-card holders), IEC holders (and IEC authorised persons), Shipping Lines,

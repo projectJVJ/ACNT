@@ -16,20 +16,13 @@
                         <div class="card border-0">
                         <img src="/acnt/assets/img/BankLoanAssistance.jpg"  height="225px" width="225px" class="card-img-top rounded-lg w-90"
                         alt="Bank loan Assistance img">
-                            <div class="card-body p-0 pt-3 d-grid gap-2">
-                                <span>Pan Card</span>
-                                <span>Aadhar Card</span>
-                                <span>Rental Agreement</span>
-                                <a href="#" class="text-primary">Load More</a>
-                            </div>
                         </div>
                     </div>
                     <div class="col-md-7 ps-5">
                         <div class="card border-0">
                             <h4>Bank Loan Assistance</h4>
-                            <p><span class="text-primary fw-bold">4.3</span> 7596 Customers</p>
-                            <p>Get your Bank Loan Assistance by our experts, along with firm PAN and GST
-                                registration.
+                            <p><span class="text-primary fw-bold">4.2</span> 2132 Customers</p>
+                            <p>From paperwork to approval—get seamless bank loan assistance with professional support
                             </p>
                         </div>
                     </div>
@@ -50,7 +43,7 @@
                         Our services are tailored to meet the needs of various clients by identifying the best loan options available from trusted banks and financial institutions. With strong industry networks and a customer-centric approach, we ensure smooth documentation, faster approvals, and personalized financial consultation.
                     </p>
                     <section>
-                        <h4 class="mt-4">Our Assistance Includes:</h4>
+                        <h4 class="mt-2">Our Assistance Includes:</h4>
                         <ul>
                             <li> Understanding your financial needs and eligibility</li>
                             <li> Identifying the right type of loan (Personal, Business, Home, Vehicle, etc.)</li>
@@ -60,7 +53,7 @@
                             <li> Support in credit score improvement and financial planning</li>
                         </ul>
 
-                        <h4 class="mt-4">Types of Loans We Assist With:</h4>
+                        <h4 class="mt-2">Types of Loans We Assist With:</h4>
                         <ul class="mb-4">
                             <li>Personal Loans</li>
                             <li>Business Loans</li>
@@ -71,7 +64,7 @@
                             <li>Project Loans</li>
                         </ul>
                     </section>
-                    <h4 class="mt-4">Basic Document Requirements:</h4>
+                    <h4 class="mt-2">Basic Document Requirements:</h4>
                     <div class="table-responsive">
                         <table class="table table-bordered table-striped align-middle">
                             <thead class="table-light">
@@ -109,8 +102,8 @@
                         Our team ensures a hassle-free loan process by working closely with both clients and banking professionals. We help you avoid common application errors, improve your chances of approval, and get access to funding when you need it most.
                     </p>
 
-                        <h4 class="mt-4"> Why Choose Hiva Professionals?</h4> 
-                        <p> Because we bring <strong>clarity, speed, and convenience</strong>  your loan journey. With personalized advice, transparent processes, and ongoing support, we help you make informed financial decisions and secure loans with confidence.
+                        <h4 class="mt-2"> Why Choose Hiva Professionals?</h4> 
+                        <p> Because we bring <strong>clarity, speed, and convenience</strong> to your loan journey. With personalized advice, transparent processes, and ongoing support, we help you make informed financial decisions and secure loans with confidence.
                     </p>
 
                     <p>

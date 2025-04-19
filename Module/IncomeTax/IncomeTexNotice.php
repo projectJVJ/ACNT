@@ -26,8 +26,8 @@
                     <div class="col-md-7 ps-5">
                         <div class="card border-0">
                             <h4>Income Tax notice</h4>
-                            <p><span class="text-primary fw-bold">4.3</span> 7596 Customers</p>
-                            <p>Instant Name Application for Company.</p>
+                            <p><span class="text-primary fw-bold">4.4</span> 2221 Customers</p>
+                            <p>An income tax notice isn’t a penalty—it’s a prompt to align, respond, and stay financially wise.</p>
                         </div>
                     </div>
                 </div>
@@ -36,7 +36,7 @@
             <?php include "../../assets/layout/ScheduleAppointment.php"; ?>
             <div class="col-md-12 col1 p-3 ps-4 mt-5 height-fit-content main-container-border-radius">
                 <div class="card border-0" id="paragraph">
-                    <h3 class="text-center mb-4">Income Tax Notices – Meaning, Types & How to Respond</h3>
+                    <h3 class="text-center mb-4">Income Tax Notices: Meaning, Types & How to Respond</h3>
                     <p>Received a notice from the Income Tax Department? Here's everything you
                         need to know and how to handle it confidently.</p>
 

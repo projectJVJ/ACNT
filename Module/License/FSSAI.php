@@ -14,7 +14,7 @@
                 <div class="row">
                     <div class="col-md-5 ps-3 first-card p-0">
                         <div class="card border-0">
-                            <img src="/acnt/assets/img/Fssai.jpg" class="card-img-top rounded-lg w-90" alt="Partnership Registration">
+                            <img src="/acnt/assets/img/Fssai.jpg" class="card-img-top rounded-lg w-90" alt="FSSAI img">
                             <div class="card-body p-0 pt-3 d-grid gap-2">
                                 <span>Invoice</span>
                                 <span>Purchase Invoices</span>
@@ -26,7 +26,7 @@
                     <div class="col-md-7 ps-5">
                         <div class="card border-0">
                             <h4>FSSAI License</h4>
-                            <p><span class="text-primary fw-bold">4.3</span> 7596 Customers</p>
+                            <p><span class="text-primary fw-bold">4.6</span> 2131 Customers</p>
                             <p>Medium-size traders, transporters, Wholesalers will require the FSSAI state license from the state government. The FBO, having an annual turnover of more than Rs. 12 lakh but not exceeding Rs. 20 crore, is considered a medium-sized FBO and must obtain a state license.</p>
                         </div>
                     </div>
@@ -35,7 +35,7 @@
             <?php include "../../assets/layout/ScheduleAppointment.php"; ?>
             <div class="col-md-12 col1 p-3 ps-4 mt-5 height-fit-content main-container-border-radius">
                 <div class="card border-0" id="paragraph">
-                    <h3 class="text-center mt-2">FSSAI License Registration</h3>
+                    <h3 class="text-center mb-3">FSSAI License Registration</h3>
                     <p>Any business involved in the production, handling, distribution, or sale of food in India is required to comply with the Food Safety and Standards Act by obtaining registration or a license from the Food Safety and Standards Authority of India (FSSAI). This ensures that all food products meet essential hygiene and safety standards.</p>
                     <p>Whether you're a small vendor or a large food manufacturer, the appropriate FSSAI registration is mandatory to operate legally and maintain consumer trust.</p>
 

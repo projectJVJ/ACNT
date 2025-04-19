@@ -15,7 +15,7 @@
                     <div class="col-md-5 ps-3 first-card p-0">
                         <div class="card border-0">
                             <img src="/acnt/assets/img/OnepersonCompany.jpg" class="card-img-top rounded-lg w-90"
-                                alt="Partnership Registration">
+                                alt="one person company img">
                             <div class="card-body p-0 pt-3 d-grid gap-2">
                                 <span>Pan Card</span>
                                 <span>Passport</span>
@@ -27,7 +27,7 @@
                     <div class="col-md-7 ps-5">
                         <div class="card border-0">
                             <h4>One person Company</h4>
-                            <p><span class="text-primary fw-bold">4.3</span> 7596 Customers</p>
+                            <p><span class="text-primary fw-bold">4.5</span> 1985 Customers</p>
                             <p>Instant Name Application for Company.</p>
                         </div>
                     </div>
@@ -38,7 +38,7 @@
             <div class="col-md-12 col1 p-3 ps-4 mt-5 height-fit-content main-container-border-radius">
                 <div class="card border-0" id="paragraph">
                     <div class="text-center">
-                        <h3>One Person Company (OPC) Registration</h3>
+                        <h3 class="text-center">One Person Company (OPC) Registration</h3>
                         <p>Start your entrepreneurial journey with Hiva Professionals – Your trusted partner in OPC
                             registration!</p>
                     </div>
@@ -112,11 +112,9 @@
                             ensures full legal compliance with dedicated customer assistance throughout.</p>
                     </section>
 
-                    <section class="cta text-center">
-                        <h3>Start Your OPC Registration with Hiva Professionals Today!</h3>
-                        <p>Reach out now to bring your business dream to life with our professional and reliable
-                            service.</p>
-                    </section>
+                    <h4>Start Your OPC Registration with Hiva Professionals Today!</h4>
+                    <p>Reach out now to bring your business dream to life with our professional and reliable
+                        service.</p>
                 </div>
             </div>
         </div>

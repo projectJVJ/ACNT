@@ -20,8 +20,8 @@
                     <div class="col-md-7 ps-5">
                         <div class="card border-0">
                             <h4>Income Tax Audit Assistance</h4>
-                            <p><span class="text-primary fw-bold">4.3</span> 7596 Customers</p>
-                            <p>Instant Name Application for Company.</p>
+                            <p><span class="text-primary fw-bold">4.4</span> 2250 Customers</p>
+                            <p>Your trusted partner in navigating income tax audits — expertly, efficiently, effortlessly.</p>
                         </div>
                     </div>
                 </div>
@@ -30,8 +30,8 @@
             <?php include "../../assets/layout/ScheduleAppointment.php"; ?>
             <div class="col-md-12 col1 p-3 ps-4 mt-5 height-fit-content main-container-border-radius">
                 <div class="card border-0" id="paragraph">
-                    <h3 class="text-center mb-4">Income Tax Audit Assistance</h3>
-                    <p class="lead text-center">Professional help to safeguard your financial interests and ensure
+                    <h3 class="text-center mb-2">Income Tax Audit Assistance</h3>
+                    <p class="text-center">Professional help to safeguard your financial interests and ensure
                         stress-free tax audit handling.</p>
 
                         <h4>Understanding Tax Audit Assistance</h4>

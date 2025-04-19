@@ -15,20 +15,13 @@
                     <div class="col-md-5 ps-3 first-card p-0">
                         <div class="card border-0">
                             <img src="/acnt/assets/img/ValuationGujarat.png" height="225px" width="225px" class="card-img-top rounded-lg w-90" alt="Value Of Gujarat img">
-                            <div class="card-body p-0 pt-3 d-grid gap-2">
-                                <span>Pan Card</span>
-                                <span>Aadhar Card</span>
-                                <span>Rental Agreement</span>
-                                <a href="#" class="text-primary">Load More</a>
-                            </div>
                         </div>
                     </div>
                     <div class="col-md-7 ps-5">
                         <div class="card border-0">
                             <h4>Valuation of immovable properties in Gujarat</h4>
-                            <p><span class="text-primary fw-bold">4.3</span> 7596 Customers</p>
-                            <p>Get your Valuation of immovable properties in Gujarat done by our experts, along with firm PAN and GST
-                                registration.
+                            <p><span class="text-primary fw-bold">4.4</span> 2170 Customers</p>
+                            <p>Accurate and compliant valuation of immovable properties across Gujarat, backed by expertise and local insights.
                             </p>
                         </div>
                     </div>

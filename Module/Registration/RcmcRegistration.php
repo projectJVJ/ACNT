@@ -21,7 +21,7 @@
                     <div class="col-md-7 ps-5">
                         <div class="card border-0">
                             <h4>RCMC Registration</h4>
-                            <p><span class="text-primary fw-bold">4.3</span> 7596 Customers</p>
+                            <p><span class="text-primary fw-bold">4.7</span> 2200 Customers</p>
                             <p>Registration-Cum-Membership Certificate (RCMC) is a certificate that validates an
                                 exporter dealing with products registered with an agency/ organization that the Indian
                                 Government authorizes.</p>

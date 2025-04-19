@@ -16,20 +16,13 @@
                         <div class="card border-0">
                             <img src="/acnt/assets/img/cc_od_limits.png" class="card-img-top rounded-lg w-90"
                                 alt="CC/OD Limimts img">
-                            <div class="card-body p-0 pt-3 d-grid gap-2">
-                                <span>Pan Card</span>
-                                <span>Aadhar Card</span>
-                                <span>Rental Agreement</span>
-                                <a href="#" class="text-primary">Load More</a>
-                            </div>
                         </div>
                     </div>
                     <div class="col-md-7 ps-5">
                         <div class="card border-0">
                             <h4>CC/OD Limits</h4>
-                            <p><span class="text-primary fw-bold">4.3</span> 7596 Customers</p>
-                            <p>Get your Bank Loan Assistance by our experts, along with firm PAN and GST
-                                registration.
+                            <p><span class="text-primary fw-bold">4.0</span> 1922 Customers</p>
+                            <p>Empower your business with flexible CC/OD limits — funds when you need them, freedom when you don’t
                             </p>
                         </div>
                     </div>
@@ -61,45 +54,74 @@
                         </ul>
                     </section>
 
-                    <h4 class="my-2">Comparison: Cash Credit vs Overdraft</h4>
+                    <h4 class="my-2">Overview of Cash Credit</h4>
                     <div class="table-responsive">
                         <table class="table table-bordered table-striped mt-3">
                             <thead class="table-light">
                                 <tr>
                                     <th>Aspect</th>
-                                    <th>Cash Credit (CC)</th>
-                                    <th>Overdraft (OD)</th>
+                                    <th>Details</th>
                                 </tr>
                             </thead>
                             <tbody>
                                 <tr>
                                     <td>Purpose</td>
-                                    <td>To finance working capital and operational needs</td>
-                                    <td>To meet temporary fund shortages or emergencies</td>
+                                    <td>Used to finance working capital and meet operational needs of a business.</td>
                                 </tr>
                                 <tr>
                                     <td>Collateral</td>
-                                    <td>Typically backed by stock, inventory, or receivables</td>
-                                    <td>May be secured or unsecured (based on relationship and risk)</td>
+                                    <td>Usually backed by assets such as stock, inventory, or receivables to secure the loan.</td>
                                 </tr>
                                 <tr>
                                     <td>Account Type</td>
-                                    <td>Operated through a Cash Credit account</td>
-                                    <td>Operated through the current account</td>
+                                    <td>Typically operated through a specialized Cash Credit account for businesses.</td>
                                 </tr>
                                 <tr>
                                     <td>Usage Flexibility</td>
-                                    <td>Can be used repeatedly within the limit</td>
-                                    <td>Drawings allowed even if account balance is zero</td>
+                                    <td>The limit can be accessed repeatedly for ongoing financial needs, making it flexible for continuous use.</td>
                                 </tr>
                                 <tr>
-                                    <td>Repayment</td>
-                                    <td>No fixed schedule, repay as per convenience</td>
-                                    <td>No EMI; flexible repayment depending on agreement</td>
+                                    <td>Repayment Terms</td>
+                                    <td>There is no fixed repayment schedule, and repayments are made as per the business's cash flow or convenience.</td>
                                 </tr>
                             </tbody>
                         </table>
                     </div>
+
+                    <h4 class="my-2">Overview of Overdraft</h4>
+                    <div class="table-responsive">
+                        <table class="table table-bordered table-striped mt-3">
+                            <thead class="table-light">
+                                <tr>
+                                    <th>Aspect</th>
+                                    <th>Details</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                <tr>
+                                    <td>Purpose</td>
+                                    <td>Used to manage temporary fund shortages or emergencies in day-to-day operations.</td>
+                                </tr>
+                                <tr>
+                                    <td>Collateral</td>
+                                    <td>May be secured or unsecured, depending on the account holder’s relationship with the bank and perceived risk.</td>
+                                </tr>
+                                <tr>
+                                    <td>Account Type</td>
+                                    <td>Operated through the current account, allowing for greater flexibility in withdrawals.</td>
+                                </tr>
+                                <tr>
+                                    <td>Usage Flexibility</td>
+                                    <td>Drawings can be made even if the account balance is zero, providing flexibility for short-term liquidity issues.</td>
+                                </tr>
+                                <tr>
+                                    <td>Repayment Terms</td>
+                                    <td>Repayments are flexible and typically do not involve fixed monthly payments (EMI); the timing depends on the agreement with the bank.</td>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </div>
+
 
                     <h4 class="my-2">Eligibility Criteria</h4>
                     <section>

@@ -21,7 +21,7 @@
                     <div class="col-md-7 ps-5">
                         <div class="card border-0">
                             <h4>ISO Registration</h4>
-                            <p><span class="text-primary fw-bold">4.3</span> 7596 Customers</p>
+                            <p><span class="text-primary fw-bold">4.3</span> 2012 Customers</p>
                             <p>International Organization for Standardization (ISO) certification establishes
                                 credibility and trust among consumers, clients and other business partners. In today's
                                 international marketplace, such a designation validates that an organization adheres to
@@ -91,8 +91,8 @@
                         </ol>
                         <h4>Why Choose Hiva Professionals?</h4>
                         <p>At Hiva Professionals, we offer end-to-end ISO certification assistance tailored to your
-                            business needs. Our experts handle the entire process—from documentation to audit
-                            support—ensuring minimal disruption and maximum success.</p>
+                            business needs. Our experts handle the entire process from documentation to audit
+                            support ensuring minimal disruption and maximum success.</p>
                         <p>Let us simplify your ISO certification journey and help you stay compliant with global
                             standards.</p>
                     </section>

@@ -27,7 +27,7 @@ RewriteRule ^Registration/RegistrarofFirm/?$ Module/Registration/RegistrarofFirm
 RewriteRule ^Registration/ImportExport/?$ Module/Registration/ImportExport.php [L]
 RewriteRule ^Registration/LegalEntityIndetifier/?$ Module/Registration/LegalEntityIndetifier.php [L]
 RewriteRule ^Registration/Pf/?$ Module/Registration/Pf.php [L]
-RewriteRule ^Registration/Esic/?$ Module/Registration/Esic.php [L]
+RewriteRule ^Registration/ESIC/?$ Module/Registration/ESIC.php [L]
 RewriteRule ^Registration/ProfessionalTax/?$ Module/Registration/ProfessionalTax.php [L]
 RewriteRule ^Registration/FSSAI/?$ Module/Registration/FSSAI.php [L]
 RewriteRule ^Registration/ICEGATE/?$ Module/Registration/ICEGATE.php [L]
