@@ -941,3 +941,10 @@ section ul li, section ol li {
   background-position: 60%;
   background-size: 100px 100px;
 }
+.bg-light{
+  background-color: #fff !important;
+}
+img.about-image{
+  max-height: 180px;
+  border-radius: 20px;
+}
