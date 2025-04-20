@@ -122,9 +122,9 @@
 
     <p class="p-0 d-flex justify-content-center text-gray">© Copyright © 2025. All rights reserved.</p>
     <div class="d-flex justify-content-center gap-3 mt-2">
-        <i class="bi bi-facebook"></i>
-        <i class="bi bi-instagram"></i>
-        <i class="bi bi-whatsapp"></i>
-        <i class="bi bi-twitter"></i>
+        <a href="https://www.linkedin.com/company/hiva-professionals-llp/about/" target="_blank"><i class="fab fa-linkedin"></i></a>
+        <a href="tel:+919427775940" target="_blank"><i class="bi bi-telephone"></i></a>
+        <a href="mailto:hivaprofessionals.au@gmail.com"><i class="bi bi-envelope"></i></a>
+
     </div>
 </div>

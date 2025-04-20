@@ -26,7 +26,6 @@
                             <td>
                                 Sole Ownership
                             </td>
-
                             <td>
                                 Min 2 Partner
                                 <ul>
@@ -34,20 +33,17 @@
                                 </ul>
                             </td>
                             <td>
-
-                                <a href="#" class="text-decoration-none text-primary">Designated Partners</a>
-
+                                Designated Partners
                             </td>
                             <td>
                                 <ul>
-                                    <li><a href="#" class="text-decoration-none text-primary">Min 2 Directors</a></li>
+                                    <li>Min 2 Directors</li>
                                     <li>Min 2 Shareholders</li>
                                     <li>Max 15 Directors</li>
                                     <li>Max 200 Shareholders</li>
                                 </ul>
                                 <ul>
-                                    <li>For <a href="#" class="text-decoration-none text-primary">One Person Company</a>
-                                    </li>
+                                    <li>For One Person Company</li>
                                 </ul>
                                 <ul>
                                     <li>1 Director</li>
@@ -55,44 +51,35 @@
                                 </ul>
                             </td>
                         </tr>
-
                         <tr>
                             <td class="text-left">Registration Time</td>
                             <td colspan="4" class="text-center">7-9 working days</td>
                         </tr>
-
                         <tr>
                             <td class="text-left">Promoter Liability</td>
                             <td colspan="2" class="text-center">Unlimited Liability</td>
-                            <td colspan="2" class="text-center"><a href="#" class="link-info">Limited Liability</a></td>
+                            <td colspan="2" class="text-center">Limited Liability</td>
                         </tr>
-
                         <tr>
                             <td class="text-left">Documentation</td>
                             <td class="pt-4 lh-base">
                                 <ul>
-                                    <li><a href="#" class="link-info">MSME</a></li>
-
-                                    <li><a href="#" class="link-info">GST Registration</a></li>
+                                    <li>MSME</li>
+                                    <li>GST Registration</li>
                                 </ul>
                             </td>
-
-                            <td><a href="#" class="link-info"> Partnership Deed</a></td>
-
+                            <td> Partnership Deed</td>
                             <td class="pt-4 lh-base">
                                 <ul>
                                     <li>LLP Deed</li>
-
                                     <li>Incorporation Certificate</li>
                                 </ul>
                             </td>
-
                             <td class="pt-4 lh-base">
                                 <ul>
-                                    <li><a href="#" class="link-info">MOA</a></li>
-
-                                    <li><a href="#" class="link-info">AOA</a></li>
-                                    <li><a href="#" class="link-info">Incorporation Certificate</a></li>
+                                    <li>MOA</li>
+                                    <li>AOA</li>
+                                    <li>Incorporation Certificate</li>
                                 </ul>
                             </td>
                         </tr>
@@ -100,35 +87,33 @@
                             <td>Governance</td>
                             <td>-</td>
                             <td>Under Partnership Act</td>
-                            <td><a href="#" class="link-info"> Act, 2008</a></td>
-                            <td><a href="#" class="link-info"> Under Companies Act, 2013</a></td>
+                            <td> Act, 2008</td>
+                            <td> Under Companies Act, 2013</td>
                         </tr>
-
                         <tr>
                             <td class="text-left">Transferability</td>
                             <td>Non-Transferable</td>
                             <td>Transferable if registered under ROF</td>
-                            <td colspan="2" class="text-center"><a href="#" class="link-info">Transferable</a></td>
+                            <td colspan="2" class="text-center">Transferable</td>
                         </tr>
-
                         <tr>
                             <td>Compliance Requirements</td>
                             <td>Income tax filing if turnover is more than Rs.2.5 lakhs</td>
-                            <td><a href="#" class="link-info">ITR 5</a></td>
+                            <td>ITR 5</td>
                             <td>
                                 <ul>
-                                    <li><a href="#" class="link-info">FORM 11</a></li>
-                                    <li><a href="#" class="link-info">FORM 8</a></li>
-                                    <li><a href="#" class="link-info">ITR 5</a></li>
+                                    <li>FORM 11</li>
+                                    <li>FORM 8</li>
+                                    <li>ITR 5</li>
                                 </ul>
                             </td>
                             <td>
                                 <ul>
-                                    <li><a href="#" class="link-info">ITR 6</a></li>
-                                    <li><a href="#" class="link-info">MCA FILLINGS</a></li>
-                                    <li><a href="#" class="link-info">AUDITOR'S APPOINTMENT</a></li>
+                                    <li>ITR 6</li>
+                                    <li>MCA FILLINGS</li>
+                                    <li>AUDITOR'S APPOINTMENT</li>
                                 </ul>
-                                <a href="#" class="link-info">Know More</a>
+                                Know More
                             </td>
                         </tr>
                     </tbody>

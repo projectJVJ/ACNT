@@ -14,7 +14,7 @@
                 <div class="row">
                     <div class="col-md-5 ps-3 first-card p-0">
                         <div class="card border-0">
-                            <img src="/acnt/assets/img/Udyam.jpg" height="225px" width="225px" class="card-img-top rounded-lg w-90"
+                            <img src="/acnt/assets/img/Udyam.jpg" class="card-img-top rounded-lg w-90"
                                 alt="MSME Udyam">
                         </div>
                     </div>

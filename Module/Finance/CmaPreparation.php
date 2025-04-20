@@ -14,7 +14,7 @@
                 <div class="row">
                     <div class="col-md-5 ps-3 first-card p-0">
                         <div class="card border-0">
-                            <img src="/acnt/assets/img/CMA_preparation.webp" height="225px" width="225px" class="card-img-top rounded-lg w-90" alt="CMA Preparation img">
+                            <img src="/acnt/assets/img/CMA_preparation.png" class="card-img-top rounded-lg w-90" alt="CMA Preparation img">
                         </div>
                     </div>
                     <div class="col-md-7 ps-5">
