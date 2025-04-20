@@ -2,11 +2,11 @@
 
 <head>
     <meta charset="UTF-8">
-    <title>CC/OD Limits</title>
+    <title>About Hiva Professionals</title>
+    <?php include "../../assets/layout/header.php"; ?>
 </head>
 
 <body>
-    <?php include "../../assets/layout/header.php"; ?>
 
     <div class="container my-5">
         <section class="">
@@ -91,7 +91,7 @@
                     </div>
                 </div>
                 <div class="row mt-5">
-                    <div class="col-lg-9">
+                    <div class="col-lg-12">
                         <h2>Home-Grown Solutions</h2>
                         <p>
                             At <strong>HIVA Professionals</strong>, we are passionate about creating smart, scalable solutions that address real-world challenges.
@@ -102,26 +102,17 @@
                         <h2>Our Founder</h2>
                         <p>
                             HIVA Professionals was founded with a vision to redefine how individuals and businesses access reliable professional services.
-                            Our founder, <strong>[Founder Name]</strong>, brings years of expertise in finance, compliance, and business advisory. With a strong academic background and global exposure,
-                            [Founder Name] is passionate about driving operational excellence and simplifying complexity for clients across industries.
+                            Our founder, <strong>Prashant N. Rami</strong>, brings years of expertise in finance, compliance, and business advisory. With a strong academic background and global exposure,
+                            Prashant N. Rami is passionate about driving operational excellence and simplifying complexity for clients across industries.
                         </p>
                         <p>
-                            After years of consulting for multinational companies and helping startups navigate growth hurdles, [Founder Name] envisioned a platform that would democratize access to premium advisory services.
+                            After years of consulting for multinational companies and helping startups navigate growth hurdles, Prashant N. Rami envisioned a platform that would democratize access to premium advisory services.
                             This led to the establishment of HIVA Professionals—a firm built on trust, integrity, and a drive to deliver long-term value.
                         </p>
                         <p>
                             Since its inception, HIVA has grown into a trusted partner for entrepreneurs, startups, and enterprises. Our mission is clear: empower clients through expert guidance, smart tools,
                             and a client-first approach that transforms challenges into opportunities.
                         </p>
-                    </div>
-
-                    <div class="col-lg-3">
-                        <div class="mt-5">
-                            <img src="/acnt/assets/img/Proprietorship.jpg" alt="Technology team" class="about-image">
-                        </div>
-                        <div class="mt-5">
-                            <img src="/acnt/assets/img/Proprietorship.jpg" alt="Founder photo" class="about-image">
-                        </div>
                     </div>
                 </div>
                 <?php include 'main_footer.php'; ?>

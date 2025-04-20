@@ -1,39 +1,37 @@
 <div class="row mt-5">
 
-    <!-- Popular Services -->
     <div class="card border-0 p-0">
         <div class="card-header border-0 ">
             <h5 class="mb-0">Popular Services</h5>
         </div>
         <div class="card-body text-align-justify box-shadow">
-            <span class="tag-btn"><a href="#">Company Registration</a></span>
-            <span class="tag-btn"><a href="#">Tax Notice</a></span>
-            <span class="tag-btn"><a href="#">Indian Subsidiary</a></span>
-            <span class="tag-btn"><a href="#">HSN Code</a></span>
-            <span class="tag-btn"><a href="#">Section 8 Company</a></span>
-            <span class="tag-btn"><a href="#">Trademark Search</a></span>
-            <span class="tag-btn"><a href="#">USA Company Registration</a></span>
-            <span class="tag-btn"><a href="#">FSSAI Registration</a></span>
-            <span class="tag-btn"><a href="#">Import Export Code</a></span>
-            <span class="tag-btn"><a href="#">ESI Registration</a></span>
-            <span class="tag-btn"><a href="#">Proprietorship</a></span>
-            <span class="tag-btn"><a href="#">GST Return Filing</a></span>
-            <span class="tag-btn"><a href="#">PF Registration</a></span>
-            <span class="tag-btn"><a href="#">Payroll</a></span>
-            <span class="tag-btn"><a href="#">Business Tax Return Filing</a></span>
-            <span class="tag-btn"><a href="#">PF Return Filing</a></span>
-            <span class="tag-btn"><a href="#">Eway Bill</a></span>
-            <span class="tag-btn"><a href="#">GST Registration</a></span>
-            <span class="tag-btn"><a href="#">TDS Filing</a></span>
-            <span class="tag-btn"><a href="#">Udyam Registration</a></span>
-            <span class="tag-btn"><a href="#">Trademark Registration</a></span>
-            <span class="tag-btn"><a href="#">Startup India Registration</a></span>
-            <span class="tag-btn"><a href="#">Professional Tax</a></span>
-            <span class="tag-btn"><a href="#">Personal Tax Filing</a></span>
-            <span class="tag-btn"><a href="#">Check Company or LLP name Availability</a></span>
-            <span class="tag-btn"><a href="#">Online Lawyer Consultation</a></span>
-            <span class="tag-btn"><a href="#">Online CA Consultation</a></span>
-            <span class="tag-btn"><a href="#">Business Consultation</a></span>
+            <span class="tag-btn"><a href="/acnt/IncomeTax/IncomeTaxEFiling.php">Income Tax E Filing</a></span>
+            <span class="tag-btn"><a href="/acnt/Registration/Gst.php">GST Registration</a></span>
+            <span class="tag-btn"><a href="/acnt/GST/GSTReturn.php">GST Return Filing</a></span>
+            <span class="tag-btn"><a href="/acnt/Registration/MsmeUdyam.php">MSME - Udyam</a></span>
+            <span class="tag-btn"><a href="/acnt/Finance/CmaPreparation.php">CMA Preparation</a></span>
+            <span class="tag-btn"><a href="/acnt/NewBusiness/PrivateLimitedCompany.php">Private Limited Company</a></span>
+            <span class="tag-btn"><a href="/acnt/NewBusiness/OnepersonCompany.php">One Person Company</a></span>
+            <span class="tag-btn"><a href="/acnt/Registration/Pan.php">PAN Card</a></span>
+            <span class="tag-btn"><a href="/acnt/Registration/Tan.php">TAN Number</a></span>
+            <span class="tag-btn"><a href="/acnt/Registration/ImportExport.php">Import Export Code - IEC</a></span>
+            <span class="tag-btn"><a href="/acnt/Registration/IsoRegistration.php">ISO Registration</a></span>
+            <span class="tag-btn"><a href="/acnt/Registration/ProfessionalTax.php">Professional Tax</a></span>
+            <span class="tag-btn"><a href="/acnt/License/FSSAI.php">FSSAI License</a></span>
+            <span class="tag-btn"><a href="/acnt/License/Drug.php">Drug License</a></span>
+            <span class="tag-btn"><a href="/acnt/GST/GSTAmendment.php">GST Amendment</a></span>
+            <span class="tag-btn"><a href="/acnt/IncomeTax/TDSReturnFiling.php">TDS Return Filing</a></span>
+            <span class="tag-btn"><a href="/acnt/Finance/BankLoanAssistance.php">Bank Loan Assistance</a></span>
+            <span class="tag-btn"><a href="/acnt/Finance/PrivateEquity.php">Private Equity</a></span>
+            <span class="tag-btn"><a href="/acnt/Finance/NewProjectLoan.php">New Project Loan</a></span>
+            <span class="tag-btn"><a href="/acnt/NewBusiness/LimitedLiabilityPartnerhsip.php">LLP Registration</a></span>
+            <span class="tag-btn"><a href="/acnt/GST/GSTEInvoicing.php">GST E-Invoicing</a></span>
+            <span class="tag-btn"><a href="/acnt/GST/GSTLUT.php">GST LUT Certificate</a></span>
+            <span class="tag-btn"><a href="/acnt/IncomeTax/IncomeTexNotice.php">Income Tax Notice</a></span>
+            <span class="tag-btn"><a href="/acnt/Registration/FSSAI.php">FSSAI Registration</a></span>
+            <span class="tag-btn"><a href="/acnt/Registration/HalalLicense.php">Halal Certification</a></span>
+            <span class="tag-btn"><a href="/acnt/Registration/TradeLicense.php">Trade License</a></span>
+            <span class="tag-btn"><a href="/acnt/Registration/RcmcRegistration.php">RCMC Registration</a></span>
         </div>
     </div>
 
@@ -42,79 +40,69 @@
             <h5 class="mb-0">Popular Searches</h5>
         </div>
         <div class="card-body text-align-justify box-shadow">
-            <span class="tag-btn"><a href="#">Partnership</a></span>
-            <span class="tag-btn"><a href="#">Limited Liability Partnership</a></span>
-            <span class="tag-btn"><a href="#">Digital Signature</a></span>
-            <span class="tag-btn"><a href="#">Copyright Registration</a></span>
-            <span class="tag-btn"><a href="#">Unified Portal</a></span>
-            <span class="tag-btn"><a href="#">PAN Card Download</a></span>
-            <span class="tag-btn"><a href="#">Nadakacheri</a></span>
-            <span class="tag-btn"><a href="#">Flipkart Seller</a></span>
-            <span class="tag-btn"><a href="#">Caste Certificate</a></span>
-            <span class="tag-btn"><a href="#">IAy</a></span>
-            <span class="tag-btn"><a href="#">EPFO Passbook</a></span>
-            <span class="tag-btn"><a href="#">Domicile Certificate</a></span>
-            <span class="tag-btn"><a href="#">Udyog Aadhaar</a></span>
-            <span class="tag-btn"><a href="#">PF Withdrawal</a></span>
-            <span class="tag-btn"><a href="#">Karnataka One</a></span>
-            <span class="tag-btn"><a href="#">Encumbrance Certificate</a></span>
-            <span class="tag-btn"><a href="#">Bonafide Certificate</a></span>
-            <span class="tag-btn"><a href="#">Instant PAN Card</a></span>
-            <span class="tag-btn"><a href="#">E PAN Card</a></span>
-            <span class="tag-btn"><a href="#">Income Certificate</a></span>
-            <span class="tag-btn"><a href="#">Marriage Certificate</a></span>
-            <span class="tag-btn"><a href="#">Passport Renewal</a></span>
-            <span class="tag-btn"><a href="#">Nivesh Mitra</a></span>
-            <span class="tag-btn"><a href="#">MSME Registration</a></span>
-            <span class="tag-btn"><a href="#">Trademark Status</a></span>
-            <span class="tag-btn"><a href="#">Trade License</a></span>
-            <span class="tag-btn"><a href="#">Domicile</a></span>
-            <span class="tag-btn"><a href="#">eMitra</a></span>
-            <span class="tag-btn"><a href="#">UAN</a></span>
-            <span class="tag-btn"><a href="#">PICME</a></span>
-            <span class="tag-btn"><a href="#">Resignation Letter Format</a></span>
-            <span class="tag-btn"><a href="#">Ration Card</a></span>
-            <span class="tag-btn"><a href="#">TNPGEINT</a></span>
-            <span class="tag-btn"><a href="#">RAJSSP</a></span>
-            <span class="tag-btn"><a href="#">LLP Compliance</a></span>
-            <span class="tag-btn"><a href="#">Form 16</a></span>
-            <span class="tag-btn"><a href="#">Police Clearance Certificate</a></span>
-            <span class="tag-btn"><a href="#">OBC Certificate</a></span>
-            <span class="tag-btn"><a href="#">Jamabandi</a></span>
-            <span class="tag-btn"><a href="#">Mee Bhoomi</a></span>
-            <span class="tag-btn"><a href="#">SC Certificate</a></span>
-            <span class="tag-btn"><a href="#">UAN Login</a></span>
-            <span class="tag-btn"><a href="#">eAadhaar Download</a></span>
-            <span class="tag-btn"><a href="#">Linking Aadhaar To Bank Accounts</a></span>
-            <span class="tag-btn"><a href="#">mAadhaar</a></span>
-            <span class="tag-btn"><a href="#">Aadhaar Enrollment Centre</a></span>
-            <span class="tag-btn"><a href="#">UAN Passbook</a></span>
-            <span class="tag-btn"><a href="#">Amazon How to Sell</a></span>
-            <span class="tag-btn"><a href="#">PAN Card Apply</a></span>
-            <span class="tag-btn"><a href="#">EPFO Unified Portal</a></span>
+            <span class="tag-btn"><a href="/acnt/NewBusiness/Proprietorship.php">Proprietorship Registration</a></span>
+            <span class="tag-btn"><a href="/acnt/NewBusiness/PartnershipFirm.php">Partnership Firm Registration</a></span>
+            <span class="tag-btn"><a href="/acnt/NewBusiness/OnepersonCompany.php">One Person Company</a></span>
+            <span class="tag-btn"><a href="/acnt/NewBusiness/LimitedLiabilityPartnerhsip.php">LLP Registration</a></span>
+            <span class="tag-btn"><a href="/acnt/NewBusiness/PrivateLimitedCompany.php">Private Limited Company</a></span>
+            <span class="tag-btn"><a href="/acnt/NewBusiness/PublicLimitedCompany.php">Public Limited Company</a></span>
+            <span class="tag-btn"><a href="/acnt/NewBusiness/ProducerCompany.php">Producer Company Registration</a></span>
+
+            <span class="tag-btn"><a href="/acnt/Registration/Pan.php">Apply PAN Card</a></span>
+            <span class="tag-btn"><a href="/acnt/Registration/Tan.php">Get TAN Number</a></span>
+            <span class="tag-btn"><a href="/acnt/Registration/Gst.php">GST Application</a></span>
+            <span class="tag-btn"><a href="/acnt/Registration/MsmeUdyam.php">MSME Registration</a></span>
+            <span class="tag-btn"><a href="/acnt/Registration/RegistrarofFirm.php">Firm Registration</a></span>
+            <span class="tag-btn"><a href="/acnt/Registration/ImportExport.php">Import Export License</a></span>
+            <span class="tag-btn"><a href="/acnt/Registration/LegalEntityIndetifier.php">LEI Code Registration</a></span>
+            <span class="tag-btn"><a href="/acnt/Registration/Pf.php">PF Registration</a></span>
+            <span class="tag-btn"><a href="/acnt/Registration/ESIC.php">ESIC Registration</a></span>
+            <span class="tag-btn"><a href="/acnt/Registration/ProfessionalTax.php">Professional Tax Filing</a></span>
+            <span class="tag-btn"><a href="/acnt/Registration/FSSAI.php">FSSAI Online Apply</a></span>
+            <span class="tag-btn"><a href="/acnt/Registration/ICEGATE.php">ICEGATE Registration</a></span>
+            <span class="tag-btn"><a href="/acnt/Registration/HalalLicense.php">Halal License</a></span>
+            <span class="tag-btn"><a href="/acnt/Registration/TradeLicense.php">Get Trade License</a></span>
+            <span class="tag-btn"><a href="/acnt/Registration/IsoRegistration.php">ISO Certification</a></span>
+            <span class="tag-btn"><a href="/acnt/Registration/RcmcRegistration.php">RCMC Online</a></span>
+            <span class="tag-btn"><a href="/acnt/GST/GST.php">GST Registration Service</a></span>
+            <span class="tag-btn"><a href="/acnt/GST/GSTReturn.php">File GST Returns</a></span>
+            <span class="tag-btn"><a href="/acnt/GST/GSTAnnualReturn.php">GST Annual Return</a></span>
+            <span class="tag-btn"><a href="/acnt/GST/GSTEInvoicing.php">Generate GST E-Invoice</a></span>
+            <span class="tag-btn"><a href="/acnt/GST/GSTLUT.php">LUT Filing</a></span>
+            <span class="tag-btn"><a href="/acnt/GST/GSTNotice.php">Reply to GST Notice</a></span>
+            <span class="tag-btn"><a href="/acnt/GST/GSTAmendment.php">GST Amendment Online</a></span>
+            <span class="tag-btn"><a href="/acnt/GST/GSTRevocation.php">Revocation of GST</a></span>
+            <span class="tag-btn"><a href="/acnt/GST/GSTR10.php">GSTR 10 Filing</a></span>
+            <span class="tag-btn"><a href="/acnt/GST/GSTDepartmentAudit.php">GST Department Audit</a></span>
+            <span class="tag-btn"><a href="/acnt/GST/GSTAudit.php">GST Audit Filing</a></span>
+            <span class="tag-btn"><a href="/acnt/GST/GSTAppealFiling.php">GST Appeal Process</a></span>
+            <span class="tag-btn"><a href="/acnt/IncomeTax/TDSReturnFiling.php">TDS Return Filing</a></span>
+            <span class="tag-btn"><a href="/acnt/IncomeTax/Tracesregistration.php">Traces Portal Registration</a></span>
+            <span class="tag-btn"><a href="/acnt/IncomeTax/Incometaxappealfilingassistance.php">Income Tax Appeal Help</a></span>
+            <span class="tag-btn"><a href="/acnt/IncomeTax/15CA-15CBcertificatesassistance.php">15CA 15CB Assistance</a></span>
         </div>
     </div>
 
     <div class="main_footer mt-5 mb-5 box-shadow">
-        <div class="col-md-3">
+        <div class="col-md-6">
             <h5>Hiva Professionals</h5>
             <ul>
-                <li><a href="#">About Hiva Professionals</a></li>
-                <li><a href="#">Online Payment</a></li>
+                <li><a href="/acnt/about.php">About Hiva Professionals</a></li>
+                <!-- <li><a href="#">Online Payment</a></li>
                 <li><a href="#">Careers</a></li>
-                <li><a href="#">Contact Us</a></li>
+                <li><a href="#">Contact Us</a></li> -->
             </ul>
         </div>
-        <div class="col-md-3">
+        <div class="col-md-6">
             <h5>Platforms</h5>
             <ul>
-                <li><a href="#">Business Search</a></li>
-                <li><a href="#">Trademark Search</a></li>
-                <li><a href="#">Client Portal</a></li>
-                <li><a href="#">Filings.AE for UAE</a></li>
+                <li><a href="/acnt/IncomeTax/IncomeTaxEFiling.php">Income Tax E Filing</a></li>
+                <li><a href="/acnt/GST/GST.php">GST Registration</a></li>
+                <li><a href="/acnt/NewBusiness/Proprietorship.php">Proprietorship</a></li>
+                <li><a href="/acnt/NewBusiness/PartnershipFirm.php">Partnership Firm</a></li>
             </ul>
         </div>
-        <div class="col-md-3">
+        <!-- <div class="col-md-3">
             <h5>Usage</h5>
             <ul>
                 <li><a href="#">Terms & Conditions</a></li>
@@ -129,7 +117,7 @@
                 <li><a href="#">Disclaimer Policy</a></li>
                 <li><a href="#">Hiva Professionals Review</a></li>
             </ul>
-        </div>
+        </div> -->
     </div>
 
     <p class="p-0 d-flex justify-content-center text-gray">© Copyright © 2025. All rights reserved.</p>
