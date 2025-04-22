@@ -42,7 +42,7 @@ RewriteRule ^IncomeTax/IncomeTexNotice/?$ Module/IncomeTax/IncomeTexNotice.php [
 RewriteRule ^IncomeTax/Incometaxappealfilingassistance/?$ Module/IncomeTax/Incometaxappealfilingassistance.php [L]
 RewriteRule ^IncomeTax/IncomeTaxauditassistance/?$ Module/IncomeTax/IncomeTaxauditassistance.php [L]
 RewriteRule ^IncomeTax/15CA-15CBcertificatesassistance/?$ Module/IncomeTax/15CA-15CBcertificatesassistance.php [L]
-RewriteRule ^Finance/CmaPreparation/?$ Module/Finance/CmaPreparation.php [L]
+RewriteRule ^Finance/CmaDataPreparation/?$ Module/Finance/CmaDataPreparation.php [L]
 RewriteRule ^Finance/BankLoanAssistance/?$ Module/Finance/BankLoanAssistance.php [L]
 RewriteRule ^Finance/CcOdLimits/?$ Module/Finance/CcOdLimits.php [L]
 RewriteRule ^Finance/WCTL/?$ Module/Finance/WCTL.php [L]

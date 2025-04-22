@@ -30,7 +30,7 @@
         <!-- Uncomment the line below if you also wish to use an image logo -->
         <!-- <img src="assets/img/logo.png" alt=""> -->
         <!-- <h1 class="sitename">eNno</h1> -->
-        <img src="/acnt/assets/img/logo.png" alt="Los Angeles" class="hiva-logo">
+        <img src="/acnt/assets/img/Logo.svg" alt="Los Angeles" class="hiva-logo">
       </a>
 
       <nav id="navmenu" class="navmenu">
@@ -140,7 +140,7 @@
             <ul class="dropdown-menu">
               <div class="dropdown-columns">
                 <div class="dropdown-column">
-                  <li><a href="/acnt/Finance/CmaPreparation.php"><span>CMA Preparation</a></li>
+                  <li><a href="/acnt/Finance/CmaDataPreparation.php"><span>CMA Data Preparation</a></li>
                   <li><a href="/acnt/Finance/BankLoanAssistance.php"><span>Bank Loan Assistance</a></li>
                   <li><a href="/acnt/Finance/CcOdLimits.php"><span>CC/OD Limit</a></li>
                   <li><a href="/acnt/Finance/WCTL.php"><span>WCTL</a></li>
